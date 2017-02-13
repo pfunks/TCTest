@@ -1,6 +1,6 @@
 # Please Read
 
-Please read these instructions before submitting issues to the Steemit.com GitHub repository. The issue tracker is for bugs and specific implementation discussion. It should not be used for other purposes, as described below.
+Please read these instructions before submitting issues to the Steemit.com GitHub repository. The issue tracker is for bugs and specific implementation discussion **only**. It should not be used for other purposes, as described below.
 
 ## Bug Reports
 
@@ -22,12 +22,12 @@ Issues opened that devolve into lengthy discussion of minor site features will b
 
 This is not the place to make suggestions for product improvement (please see the Enhancement Suggestions section above for this). If you are not planning to work on the change yourself - do not open an issue for it.
 
+## Steemit.com vs. Steem Blockchain
+
+This issue tracker is only intended to track issues for the Steemit.com website. If the issue is with the Steem blockchain, please open an issue in the [Steem Repository](https://github.com/steemit/steem).
+
 ## Pull Requests
 
 Anybody in the community is welcome to and encouraged to submit pull requests with any desired changes to the platform.
 
 Requests to make changes to steemit.com that include working, tested pull requests jump to the top of the queue. (This is not a guarantee that all functionality submitted as a PR will be merged, however.)
-
-## Steemit.com vs. Steem Blockchain
-
-This issue tracker is only intended to track issues for the Steemit.com website. If the issue is with the Steem blockchain, please open an issue in the [Steem Repository](https://github.com/steemit/steem).
