@@ -4,15 +4,15 @@ Please read these instructions before submitting issues to the Steemit.com GitHu
 
 ## Bug Reports
 
-If there is an existing feature that is not working correctly, or a glitch in the website that is impacting user behaviour, please open an issue to report variance. Include as much relevant information as you can, including screen shots and steps to reproduce the issue.
+If there is an existing feature that is not working correctly, or a glitch in the website that is impacting user behaviour - please open an issue to report variance. Include as much relevant information as you can, including screen shots and steps to reproduce the issue.
 
 ## Technical Support and Login Issues
 
-If you are having trouble using the website but it is not an error with the website (this includes login issues), do **not** open a GitHub issue. Please request help from the users in the [steemit.chat help channel](https://steemit.chat/channel/help).
+If you are having trouble using the website but it is not an error with the website (this includes login issues), do **not** open a GitHub issue. Please request help from the users in the [steemit.chat help](https://steemit.chat/channel/help) channel.
 
 ## Enhancement Suggestions
 
-Do **not** use the issue tracker to suggest enhancements or improvements to the platform. The best place for these discussions is on Steemit.com. If there is a well vetted idea that has the support of the community that you feel should be considered by the development team, please email them to [sneak@steemit.com](mailto:sneak@steemit.com) for review.
+Do **not** use the issue tracker to suggest enhancements or improvements to the platform. The best place for these discussions is on Steemit.com. If there is a well vetted idea that has the support of the community that you feel should be considered by the development team, please email it to [sneak@steemit.com](mailto:sneak@steemit.com) for review.
 
 ## Implementation Discussion
 
