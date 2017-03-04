@@ -26,7 +26,7 @@ These are terms that people use to describe Steemit users with different amounts
 
 Steemd uses a slightly different system which you can see here (https://steemd.com/distribution):
 
-https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
+<img src="https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png">
 
 # Blockchain
 
