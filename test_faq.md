@@ -12,6 +12,8 @@ Steemit differs entirely from social media giants like Facebook, Reddit and Twit
 
 ## Does it cost anything to post, comment, or vote?
 
+It is free to post, comment, and upvote all content on Steemit.com. You might even get paid for it!
+
 ## Can I earn digital points on Steemit? How?
 
 You can earn digital points on Steemit by:
@@ -27,18 +29,6 @@ At its root, Steem is simply a points system similar to other arcade style point
 Steem uses pre-determined mathematical formulas to determine how many new points it will issue to users each day, and the Steem network continually creates digital points to reward content creators and curators (for voting on blog posts) at this set and specific rate. Some of the newly-created points are transferred to users who add value to Steemit by blogging, commenting, and voting on other people's blog posts. The remainder is distributed to holders of Steem Power to protect them from dilution.
 
 By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
-
-# Blockchain
-
-## What is a blockchain?
-
-## What is the Steem blockchain?
-
-The Steem blockchain is an open source and publicly accessible database, that records all posts and votes, and distributes rewards across the network.
-
-## What is the difference between Steem and Steemit?
-
-Steemit is simply an interface to view the blockchain content of Steem.
 
 # Account Creation
 
@@ -177,6 +167,18 @@ This is like reblogging or sharing posts on other platforms.  Once your reblog a
 ## Can I share on other social media?
 
 Yes you can use the share button to share on Facebook, Twitter or Linkedin. You are welcome to post your Steemit links on other websites and social media sites.
+
+# Blockchain
+
+## What is a blockchain?
+
+## What is the Steem blockchain?
+
+The Steem blockchain is an open source and publicly accessible database, that records all posts and votes, and distributes rewards across the network.
+
+## What is the difference between Steem and Steemit?
+
+Steemit is simply an interface to view the blockchain content of Steem.
 
 # Steemit Chat
 
