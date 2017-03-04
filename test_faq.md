@@ -223,6 +223,8 @@ If you notice your account has been compromised, you should contact your account
 
 Once they submit the proposal to the blockchain, you will have 24 hours to log in with both your old and new keys (aka passwords). Any key you used within the past 30 days is sufficient. If you login in time, then the keys will be changed, and the hacker will be locked out.
 
+If you are using Steemit as your account recovery partner, there is a link to begin the process of account recovery in the main menu.
+
 ## What do I do if I lost my password/keys?
 
 There is no way to recover your account if you lose your password / keys! It is **very important** that you save your keys somewhere safe where you will not lose them.
