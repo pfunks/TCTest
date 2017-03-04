@@ -20,13 +20,23 @@ Steem uses pre-determined mathematical formulas to determine how many new points
 
 By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
+# New Users
+
+## What is Verification?
+
+Verfication is a process where you give evidence to show that you are the person that you claim to be.  This is to reduce fraud and people impersonating well known figures.
+
+There are a number of ways of doing it. You can post a photo or a video which shows you holding up a sheet of paper with your handwritten user name on it. You can also verify by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site etc.
+
 ## What are Whales, Dolphins and Minnows?
 
 These are terms that people use to describe Steemit users with different amounts of Steem/SP.  There are no formal definitions.  As the names suggest whales have the largest amount of SP, followed by dolphins in the middle and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and influence on the platform.
 
 Steemd uses a slightly different system which you can see here (https://steemd.com/distribution):
 
-https://steemitimages.com/0x0/https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
+https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
+
+# Site Navagation
 
 # Blockchain
 
@@ -42,7 +52,13 @@ https://steemitimages.com/0x0/https://www.steemimg.com/images/2016/09/28/Steemd_
 
 Steemit users can upload anything they want, whether it be phrases, quotes, anecdotes, photos, videos, memes, songs; anything that adds value to the ecosystem and generates commentary or critique.
 
+## Can I delete something I posted?
+
 ## Tags
+
+## How do I format text in Markdown?
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## How often can I post?
 
@@ -57,6 +73,12 @@ Steemit users can upload anything they want, whether it be phrases, quotes, anec
 ## How often can I comment?
 
 # Economics
+
+## What is the reward pool?
+
+## When do I get paid?
+
+## Why Do the Earnings for My Post Go Up/Down?
 
 ## What is the difference between STEEM, Steem Power, and Steem Dollars?
 
@@ -82,9 +104,37 @@ No, you are not being paid by Steemit. The Steem network pays you. It is your re
 
 ## How often can I upvote?
 
-## Voting power
+## Curation Rewards
+
+## What is My Voting Power?
+
+This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100% and then every time you vote your power and hence the value of your vote goes down.  This makes the value of the payout from your vote go down.  Think of it as a control measure to stop you up-voting everything you see.  
+
+You can view your current voting power using third party tools such as Steemd (https://steemd.com/@youraccount) or https://steemstats.com.
 
 # Plagiarism/Spam/Abuse
+
+# Downvoting
+
+# Reputation
+
+## What is Reputation?
+
+Every user has a reputation score next to their name. This is a mechanism that is designed to help control abuse of the Steemit platform. Every new user starts off with a figure of 25. The maximum is 100.
+
+Your reputation goes up when users with a higher reputation vote on your content. Getting flagged by someone with a higher reputation can push your repuation down and make your posts less visible.
+
+Users with lower reputation are unable to affect your reputation.
+
+# Followers, Feeds, and Resteem
+
+## What is Resteeming?
+
+This is like reblogging or sharing posts on other platforms.  Once your reblog a post it will appear in your feed to your followers as if you had posted it yourself.  Use it conservatively and with caution.  It is great to want to share content you like and appreciate with people you follow, but you don't want to annoy them by overdoing it.
+
+## Can I share on other social media?
+
+Yes you can use the share button to share on Facebook, Twitter or Linkedin. You are welcome to post your Steemit links on other websites and social media sites.
 
 # Steemit, Inc.
 
