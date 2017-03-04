@@ -26,9 +26,13 @@ By analogy, Steem is a game system for content, where the rewards people earn ar
 
 ## How do I create an account?
 
-# New Users
+# Community
 
-## What is Verification?
+## Is there an Etiquette Guide for Steemit?
+
+https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0
+
+## What is verification?
 
 Verfication is a process where you give evidence to show that you are the person that you claim to be.  This is to reduce fraud and people impersonating well known figures.
 
@@ -162,6 +166,8 @@ This is like reblogging or sharing posts on other platforms.  Once your reblog a
 
 Yes you can use the share button to share on Facebook, Twitter or Linkedin. You are welcome to post your Steemit links on other websites and social media sites.
 
+# Steemit Chat
+
 # Steemit, Inc.
 
 ## Who are the Steemit co-founders?
@@ -187,7 +193,15 @@ No, it is not. If your money is in Steem Power, however, it is impossible for a 
 
 If you find a security issue please report details to security@steemit.com.
 
-# Developers
+# Developer Resouces
+
+## Is there a github page for Steemit.com?
+
+https://github.com/steemit/condenser
+
+## Is there a github page for the Steem Blockchain?
+
+https://github.com/steemit/steem
 
 # Blockchain
 
@@ -208,6 +222,20 @@ Steemit leverages Steem because the founders of Steemit believe Steem’s decent
 ## How many witnesses can I vote for?
 
 ## How do I become a witness?
+
+# Miscelanious
+
+## Are there any Apps for Steem?
+
+http://steemtools.com/
+
+## Is there an official Steemit Facebook page?
+
+https://www.facebook.com/steemit/
+
+## Is there an official Steemit Twitter account?
+
+https://twitter.com/steemit
 
 # Other resouces
 
