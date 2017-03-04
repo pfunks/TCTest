@@ -20,6 +20,14 @@ Steem uses pre-determined mathematical formulas to determine how many new points
 
 By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
+## What are Whales, Dolphins and Minnows?
+
+These are terms that people use to describe Steemit users with different amounts of Steem/SP.  There are no formal definitions.  As the names suggest whales have the largest amount of SP, followed by dolphins in the middle and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and influence on the platform.
+
+Steemd uses a slightly different system which you can see here (https://steemd.com/distribution):
+
+https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
+
 # Blockchain
 
 ## What is a blockchain?
@@ -54,7 +62,7 @@ Steemit users can upload anything they want, whether it be phrases, quotes, anec
 
 Steem, Steem Power and Steem Dollars are the three forms of digital points plugged into the Steem blockchain:
 
-Steem - Steem is the most liquid form of currency in the platform. Steem can be converted into Steem Power, Steem Dollars, or traded.
+Steem - Steem is the most liquid form of currency in the platform. Steem can be converted into Steem Power, Steem Dollars, or traded. It is a cryptocurrency, similar to Bitcoin (https://en.wikipedia.org/wiki/Bitcoin).
 
 Steem Power - Steem Power is a measurement of how much influence a user can wield via Steemit. The more Steem Power a user holds, the more they may influence the value of the content on the network. It is important to note when a user decides to “Power Down” Steem Power, they will receive equal distributions of the Steem Power as Steem over 13 weeks.
 
