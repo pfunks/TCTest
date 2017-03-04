@@ -100,17 +100,37 @@ Powering Up - If you wish to gain more influence in the Steem network, you must 
 
 No, you are not being paid by Steemit. The Steem network pays you. It is your responsibility to determine what, if any, taxes apply to the transactions you make, and it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
 
-# Voting/Curating
+# Voting and Curating
 
-## How often can I upvote?
+## What is my voting power?
+
+This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. IF you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
+
+## What is voting weight?
+
+Users can chose to vote with less than 100% of their voting weight. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
+
+## How often can I vote without depleting my voting power?
+
+You can use up to 40 100% weight votes within a 24 hour period without depleting your voting power.
+
+## Where can I check my voting power?
+
+You can view your current voting power using third party tools such as https://steemd.com/@youraccount or https://steemstats.com.
+
+## Do both upvotes and downvotes use the same amount of voting power?
+
+Yes.
+
+## How do I vote with less than 100% voting weight?
+
+New users can only upvote and downvote with 100% voting weight. Once you reach a certain amount of Steem Power, you will start to see a vote slider appear when you vote.
+
+https://www.steemimg.com/images/2016/09/28/Voting_slider8d9ba.png
+
+You can use the slider to adjust the weight of your vote, between 1% and 100% voting weight.
 
 ## Curation Rewards
-
-## What is My Voting Power?
-
-This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100% and then every time you vote your power and hence the value of your vote goes down.  This makes the value of the payout from your vote go down.  Think of it as a control measure to stop you up-voting everything you see.  
-
-You can view your current voting power using third party tools such as Steemd (https://steemd.com/@youraccount) or https://steemstats.com.
 
 # Plagiarism/Spam/Abuse
 
