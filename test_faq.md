@@ -195,25 +195,63 @@ https://www.linkedin.com/in/daniel-larimer-0a367089
 Steemit is 100% committed to building the Steemit platform and contributing to Steem wherever possible. With new and disruptive technologies, critics are to be expected, but we believe the issue stems from lack of education. The Steemit founders openly address criticisms in several podcasts. In regards to founding ownership, Dan and Ned have sold a very small % of their holdings and the @steemit account only powers down to prepare for engagements that fund operations, marketing and development.
 The Steemit founders respect people’s right to freedom of speech and their own opinions, but they encourage self-education and research on cutting edge concepts in decentralized social media.
 
+## How does Steemit, Inc. earn money?
+
+Over time, Steemit will allow advertisers and bloggers to promote content by buying and burning Steem. Steemit can benefit from sales of Steem to advertisers in the cryptocurrency markets or offer advanced services to these advertisers and bloggers.
+
 # Security
 
 ## Are my Steem and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
 
 No, it is not. If your money is in Steem Power, however, it is impossible for a hacker to take out more than 1/13 per week.
 
+## How does the recovery process work?
+
+In order to be able to recover a hacked account, you must first assign a trusted individual as your designated recovery account. This is someone who can identify you independently of your key. 
+
+Steemit is the default recovery account for all users who sign up using Steemit.com. Steemit can identify users by their email, Facebook, and Reddit logins (if you signed up through us). You can also assign your mother, wife, employer, or friend, or another third party provider as your recover account if you prefer.
+
+If your password has been changed without your concent, then the person you designated as you recovery account can allow you to generate a new set of keys (aka passwords) using any of the keys you have used in the past 30 days.
+
+If you don't have a key used in the past 30 days, then your account will be unrecoverable.
+
+## What should I do if I discover that someone hacked my account?
+
+If you notice your account has been compromised, you should contact your account recovery partner (the trusted individual) and ask them to submit a request to change the locks on your account. They verify you by whatever means they find satisfactory and then submit a proposal to the blockchain to change the locks on your account.
+
+Once they submit the proposal to the blockchain, you will have 24 hours to log in with both your old and new keys (aka passwords). Any key you used within the past 30 days is sufficient. If you login in time, then the keys will be changed, and the hacker will be locked out.
+
+## What do I do if I lost my password/keys?
+
+There is no way to recover your account if you lose your password / keys! It is **very important** that you save your keys somewhere safe where you will not lose them.
+
+It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage, such as a flash drive or burned CD, as well as printed paper. Use a safe deposit box for best redundancy.
+
 ## How do I report a security vulnerability?
 
 If you find a security issue please report details to security@steemit.com.
 
-# Developer Resouces
+# Developers
+
+## Are the Steem blockchain and Steemit.com code open-source?
+
+Yes, although please review the license terms pertaining to creating hardforks of the Steem blockchain.
 
 ## Is there a github page for Steemit.com?
 
 https://github.com/steemit/condenser
 
-## Is there a github page for the Steem Blockchain?
+## Is there a github page for the Steem blockchain?
 
 https://github.com/steemit/steem
+
+## What is available for developers interested in Steem and Steemit?
+
+Many software engineers are currently leveraging the open-source code to build their applications on Steem. There are more than sixty so far.
+
+https://steemit.com/steemjs/@fabien/steem-api-now-released
+
+Is Steem open-source and is there an API?
 
 # Blockchain
 
@@ -237,7 +275,7 @@ Steemit leverages Steem because the founders of Steemit believe Steem’s decent
 
 # Miscelanious
 
-## Are there any Apps for Steem?
+## What third-party tools are there for Steemit?
 
 http://steemtools.com/
 
