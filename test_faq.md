@@ -30,7 +30,7 @@ Steem uses pre-determined mathematical formulas to determine how many new points
 
 By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
-# Account Creation
+# Account Management
 
 ## What information do I need to provide in order to create an account?
 
@@ -41,6 +41,10 @@ By analogy, Steem is a game system for content, where the rewards people earn ar
 Steemit chat #help channel.
 
 https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media
+
+## Can I delete or deactivate my account?
+
+No, accounts can not be deactivated or deleted. The account along with all of its activity is permanently stored in the blockchain.
 
 # Community
 
