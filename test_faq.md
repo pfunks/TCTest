@@ -159,6 +159,16 @@ Yes. You can see the list of followers or people you are following by clicking o
 
 Steemit users can upload anything they want, whether it be phrases, quotes, anecdotes, photos, videos, memes, songs; anything that adds value to the ecosystem and generates commentary or critique.
 
+## What are the different choices for post rewards (50/50, Power Up 100%, Decline Payout)?
+
+- **50/50** - This will pay you in 50% Steem Power, and 50% liquid STEEM / SBD. The amount of liquid STEEM vs. SBD that you receive will be based on network conditions at the time of payout. This is the default payout option.
+
+- **Power Up 100%** - This will pay you in 100% Steem Power.
+
+- **Decline Payout** - You will receive no payouts for posts with "Decline Payout" selected.
+
+Each time you create a new post, you must reselect your option if you do not want the default 50/50 payout option selected.
+
 ## Can I delete something I posted?
 
 ## Tags
@@ -201,7 +211,7 @@ Steem Power - Steem Power is a measurement of how much influence a user can wiel
 
 Steem Dollars - Steem Dollars are a blockchain and market powered token designed to be pegged to $1 USD. Steem Dollars may be turned into STEEM before they can be “Powered Up” into Steem Power. Steem Dollars may also be used to buy things in marketplaces, such as Steemit.com and PeerHub.com.
 
-## Will SBD always be worth $1 USD?
+## Will 1 SBD always be worth $1 USD?
 
 ## What is Powering Down and Powering Up?
 
