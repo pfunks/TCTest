@@ -254,6 +254,8 @@ Once you have your bitcoin:
 
 You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting the alternate currency from the dropdown on the "Buy Steem" page.
 
+## What are Vests?
+
 ## How can I withdraw my STEEM or SBD coins?
 
 There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use at your own risk. 
