@@ -253,11 +253,42 @@ You can use the slider to adjust the weight of your vote, between 1% and 100% vo
 
 ## What is Reputation?
 
-Every user has a reputation score next to their name. This is a mechanism that is designed to help control abuse of the Steemit platform. Every new user starts off with a figure of 25. The maximum is 100.
+Every user has a reputation score next to their name. The reputation score is one way Steemit measures the amount of value you have brought to the community. It is also a mechanism that is designed to help control abuse of the Steemit platform. 
+
+
 
 Your reputation goes up when users with a higher reputation vote on your content. Getting flagged by someone with a higher reputation can push your repuation down and make your posts less visible.
 
 Users with lower reputation are unable to affect your reputation.
+
+## How is the Reputation score measured?
+
+Every new user starts off with a figure of 25. The lowest possible reputation score is about -25 and the highest possible is 80.
+
+The reputation score is based off of a `log10` system, which means that a score of 40 is about 10x better than a score of 30.
+
+More information about the calculation of the reputation score can be found in this post from @digitalnotvir:
+https://steemit.com/steemit/@digitalnotvir/how-reputation-scores-are-calculated-the-details-explained-with-simple-math
+
+## How do I improve my reputation score?
+
+Every time another user upvotes one of your posts or comments, it increases your reputation score. Users with a higher reputation than you will have more of a positive effect. Also, the more Steem Power that the voter has, the higher the effect as well. The best way to earn upvotes is by adding value to the Steemit community.
+
+## What causes my reputation score to go down?
+
+The only way for your reputation score to go down is to be downvoted by another user.
+
+Not all downvotes will cause a reputation loss though.
+- Downvotes from users with a lower reputation score than you will not hurt your score. 
+- If your post or comment that was downvoted still received more upvotes than downvotes (measured in Steem Power vests), then the net effect on your reputation score will still be positive.
+
+## Why does my reputation score matter?
+
+A reputation score is one way Steemit measures the amount of value you have brought to the community. In real estate, they say there are three variables of the utmost importance: location, location, location. On Steemit, those things are: reputation, reputation, reputation. It’s not to say other variables aren’t important, but reputation will be an enormous factor in your level of success.
+
+Many Steemians glance at users’ reputation scores when deciding which articles to read because they know higher reputation scores means it is much more likely quality original content. Furthermore, the higher your rep, the more effect your vote will have on the reputation of others.
+
+It is worth noting that if your reputation goes below 0, Steemit will hide your posts and comments making it very difficult to gain monetary rewards and followers. This incentivises online etiquette and respect for your fellow Steemians.
 
 # Followers, Feeds, and Resteem
 
