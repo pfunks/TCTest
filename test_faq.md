@@ -234,6 +234,30 @@ Once you have your bitcoin:
 
 You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting the alternate currency from the dropdown on the "Buy Steem" page.
 
+## How can I withdraw my STEEM or SBD coins?
+
+There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use at your own risk. 
+
+If you use any of these methods, it is recomended that you first try using a small amount to verify that it works before withdrawing a larger amount.
+
+Sell Steem Dollars via Poloniex
+https://steemit.com/steemit/@ash/steemit-how-to-sell-steem-dollars-via-poloniex-newbie-friendly
+
+Withdraw Steem Dollars to a bitcoin address
+https://steemit.com/steem-help/@piedpiper/how-to-withdraw-your-steem-dollars-in-less-that-a-minute
+
+Convert Steem Dollars to a country’s currency and withdraw to a bank account
+https://steemit.com/tutorial/@beanz/how-to-get-my-usdteemit-money-into-my-bank-account
+
+Convert Steem Dollars to bitpay debit card (USA ONLY)
+(need link)
+
+Convert Steem Dollars to WIREX debit card (USD EURO & GBP Supported)
+https://steemit.com/money/@b0y2k/convert-your-steem-dollars-to-physical-money-to-spend-or-withdraw-anywhere
+
+Convert STEEM to many other cryptocurrencies via ShapeShift
+https://steemit.com/steemit/@shapeshiftio/official-announcement-shapeshift-has-added-steem-to-the-exchange
+
 ## Will I get a 1099 from Steemit?
 
 No, you are not being paid by Steemit. The Steem network pays you. It is your responsibility to determine what, if any, taxes apply to the transactions you make, and it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
