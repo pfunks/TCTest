@@ -106,6 +106,8 @@ Steem Power - Steem Power is a measurement of how much influence a user can wiel
 
 Steem Dollars - Steem Dollars are a blockchain and market powered token designed to be pegged to $1 USD. Steem Dollars may be turned into STEEM before they can be “Powered Up” into Steem Power. Steem Dollars may also be used to buy things in marketplaces, such as Steemit.com and PeerHub.com.
 
+## Will SBD always be worth $1 USD?
+
 ## What is Powering Down and Powering Up?
 
 Powering Down - If you have Steem Power, you can begin to Power Down to obtain Steem. The system will transfer 1/13 of your Steem Power, to Steem each week for three months (13 weeks).
