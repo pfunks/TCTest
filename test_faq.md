@@ -36,6 +36,12 @@ By analogy, Steem is a game system for content, where the rewards people earn ar
 
 ## How do I create an account?
 
+## Can I create a Steem account without an email and phone number?
+
+Steemit chat #help channel.
+
+https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media
+
 # Community
 
 ## Is there an Etiquette Guide for Steemit?
