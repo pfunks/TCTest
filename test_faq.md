@@ -178,7 +178,9 @@ The Steem blockchain is an open source and publicly accessible database, that re
 
 ## What is the difference between Steem and Steemit?
 
-Steemit is simply an interface to view the blockchain content of Steem.
+Steem is the name of the blockchain that stores all of the data and transactions, and processes all of the events that take place. STEEM is also a name for the system’s value token (currency).
+
+Steemit is simply an interface to interact with the blockchain, and view the blockchain data.
 
 # Steemit Chat
 
