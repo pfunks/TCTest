@@ -99,6 +99,12 @@ In the upper right corner, there is a search link where you can find posts using
 
 There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
 
+## How can I control whether I see "not safe for work" (NSFW) content?
+
+By default, content that users have tagged as "NSFW" will be hidden, but a link will be shown to reveal the content.
+
+You can update your display preference via your settings so that NSFW content is always shown by default, or is completely hidden with no option to reveal.
+
 ## Can I see which users I have muted?
 
 Yes, this can be seen under your settings page.
