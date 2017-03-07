@@ -255,7 +255,9 @@ Of the 25% that goes to the curator though, that portion will be split between t
 - At 27 minutes, 10% goes to the author and 90% to the curator.
 - If a post is upvoted 30 min after posting, 100% of the curation award goes to the curator.
 
-# Plagiarism/Spam/Abuse
+## What is the formula used to calculate curation rewards?
+
+# Plagiarism, Spam, and Abuse
 
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
