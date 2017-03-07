@@ -64,27 +64,6 @@ https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
 
 # Site Navagation
 
-## What information is available in my account menu?
-
-You can get to your account menu by clicking on the avatar icon in the top-right corner of the screen. 
-(Insert Icon)
-
-**Feed** - Here is where you go to see the most recent posts from the people you follow.
-
-**Blog** - Here is where you go to see all of your posts and resteems.
-
-**Comments** - Here is where you go to see all of the comments you have made to other's posts and comments.
-
-**Replies** - Here is where you go to see all replies other users have made to your posts and comments.
-
-**Wallet** - Here is where you go to see your wallet balances, make transfers, exchange STEEM/SBD, and Power Up.
-
-**Change Password** - Here is where you go to change your password.
-
-**Settings** - Here is where you go to update your settings.
-
-**Logout** - Here is where you go to logout.
-
 ## What do the Home, New, Hot, Trending, and Promoted links show?
 
 These are various ways to sort blog posts.
@@ -99,6 +78,27 @@ These are various ways to sort blog posts.
 
 **Promoted** - Listings that are boosted by Steem Dollar payments get "Promoted" for greater visibility.
 
+## What information is available in my account menu?
+
+You can get to your account menu by clicking on the avatar icon in the top-right corner of the screen. 
+(Insert Icon)
+
+**Feed** - Here is where you go to see the most recent posts from the people you follow.
+
+**Blog** - Here is where you go to see all of your posts and resteems. It is also where you go to see your profile page that is viewable by other users.
+
+**Comments** - Here is where you go to see all of the comments you have made to other's posts and comments.
+
+**Replies** - Here is where you go to see all replies other users have made to your posts and comments.
+
+**Wallet** - Here is where you go to see your wallet balances, make transfers, exchange STEEM/SBD, and Power Up.
+
+**Change Password** - Here is where you go to change your password.
+
+**Settings** - Here is where you go to update your settings.
+
+**Logout** - Here is where you go to logout.
+
 ## What do the Blog, Comments, Replies, Rewards links show?
 
 **Blog**  - Displays your blog posts and resteems, beginning with the most recent.
@@ -111,15 +111,15 @@ These are various ways to sort blog posts.
 
 You can also view the same information for other users by clicking on their account name to visit their profile.
 
-## Where do I find my wallet?
+## What information is shown in my wallet?
 
-There is a link to your wallet on your account page.
-
-## What information is show in my profile?
+## What is shown in my profile?
 
 At the top of your profile is your display name and reputation score. Below your display name is the number of follwers you have, the number of posts and comments you have written, and the number of people you are following. It will also show the date that you created your account.
 
 You have the option to change your display name, as well as set additional information such as "about" information, your location, and a website through your settings page. You can also set your avitar image via your settings.
+
+You can view your own profile by clicking on the link to your "Blog" in your account menu.
 
 ## How do I change my avitar image?
 
