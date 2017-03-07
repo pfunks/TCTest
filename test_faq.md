@@ -361,6 +361,12 @@ The Steemit founders respect people’s right to freedom of speech and their own
 
 Over time, Steemit will allow advertisers and bloggers to promote content by buying and burning Steem. Steemit can benefit from sales of Steem to advertisers in the cryptocurrency markets or offer advanced services to these advertisers and bloggers.
 
+## Can I invest in Steemit?
+
+Steemit, Inc. is a privately held company and is not available for public investment.
+
+You can invest in the platform though by purchasing STEEM tokens. These tokens have value based on the speculation that occurs on various exchanges. You can also power up these tokens into Steem Power, which gives you more influence in the platform as defined by the blockcain rules.
+
 # Security
 
 ## Are my Steem and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
@@ -451,8 +457,14 @@ https://www.facebook.com/steemit/
 
 https://twitter.com/steemit
 
-# Other resouces
-
 ## Steemithelp.net
 
 ## Whiepaper
+
+## Where can I ask for help if my question was not answered here?
+
+If you post your question in the <a href="https://steemit.chat/channel/help">steemit.chat helpchannel</a>, the users there may be able to help.
+
+You can also create a post on Steemit.com with the tag #help, and someone may answer it there.
+
+# Disclaimer
