@@ -99,6 +99,14 @@ In the upper right corner, there is a search link where you can find posts using
 
 There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
 
+## Can I see which users I have muted?
+
+Yes, this can be seen under your settings page.
+
+## Can I see which users have muted me?
+
+This information is currently not presented via Steemit.com.
+
 # Posting
 
 ## What can users upload to Steemit?
