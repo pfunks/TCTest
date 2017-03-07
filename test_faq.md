@@ -135,7 +135,17 @@ In the upper right corner, there is a search link where you can find posts using
 
 There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
 
-## How can I control whether I see "not safe for work" (NSFW) content?
+## How do I send money to another user?
+
+- From your wallet page, click the down arrow where your STEEM or Steem Dollars are displayed. 
+- In the drop-down menu, click 'Transfer'. 
+- Type the username of the account you want to send the STEEM/Steem Dollars to.
+- Enter the amount of STEEM/Steem Dollars to send.
+- Enter a memo to go along with the transaction (optional).
+- Click Submit.
+- You will be prompted for your password. You will need to enter your Active or Owner key.
+
+## How can I control whether I see "Not Safe For Work" (NSFW) content?
 
 By default, content that users have tagged as "NSFW" will be hidden, but a link will be shown to reveal the content.
 
@@ -220,6 +230,16 @@ Powering Down - If you have Steem Power, you can begin to Power Down to obtain S
 Powering Up - If you wish to gain more influence in the Steem network, you must increase your Steem Power. Powering Up is the process of instantaneously turning your Steem into Steem Power.
 
 ## What can I do with my SBD / STEEM tokens?
+
+## What determines the price of STEEM?
+
+Much like how the price of a stock goes up and down, the value of STEEM varies, determined by buyers and sellers on exchanges.
+
+## Should I "Power Up" or withdraw my liquid earnings?
+
+Everyone has different priorities. Some may want to power up to increase their voting influence and curation rewards. Others may want to cash out. It’s strictly a personal choice.
+
+If you believe Steemit has the potential for significant growth, you might think it wise to power up. Not only will you immediately gain more influence in the network, but it also has the potential to increase in value.
 
 ## How do I get more Steem Power?
 
