@@ -86,9 +86,13 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Economics
 
+## Where do the new STEEM tokens come from?
+
 ## What is the reward pool?
 
 ## When do I get paid?
+
+## How many new tokens are generated per day?
 
 ## Why Do the Earnings for My Post Go Up/Down?
 
