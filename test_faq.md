@@ -247,6 +247,10 @@ You can use the slider to adjust the weight of your vote, between 1% and 100% vo
 
 # Plagiarism/Spam/Abuse
 
+## Where do I report a post or comment that contains plagiarism, spam, or abuse?
+
+You can report any abusive content to the <a href="https://steemit.chat/channel/steemitabuse">steemitabuse</a> channel on steemit.chat.
+
 # Downvoting
 
 # Reputation
@@ -254,8 +258,6 @@ You can use the slider to adjust the weight of your vote, between 1% and 100% vo
 ## What is Reputation?
 
 Every user has a reputation score next to their name. The reputation score is one way Steemit measures the amount of value you have brought to the community. It is also a mechanism that is designed to help control abuse of the Steemit platform. 
-
-
 
 Your reputation goes up when users with a higher reputation vote on your content. Getting flagged by someone with a higher reputation can push your repuation down and make your posts less visible.
 
