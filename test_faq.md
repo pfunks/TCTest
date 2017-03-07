@@ -221,6 +221,19 @@ Powering Up - If you wish to gain more influence in the Steem network, you must 
 
 ## What can I do with my SBD / STEEM tokens?
 
+## How do I get more Steem Power?
+
+If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click Power Up to turn it into Steem Power.
+
+If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase using Bitcoin (BTC) or another cryptocurrency. You may purchase BTC on various exchanges. A couple popular Bitcoin exchanges are Coinbase.com, and Localbitcoins.com. 
+
+Once you have your bitcoin:
+- Click “Buy Steem” from the main menu in the top right corner of Steemit.com.
+- Seelct whether you want to buy STEEM or Steem Power.
+- Send the amount you want to purchase to the wallet address on the screen.
+
+You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting the alternate currency from the dropdown on the "Buy Steem" page.
+
 ## Will I get a 1099 from Steemit?
 
 No, you are not being paid by Steemit. The Steem network pays you. It is your responsibility to determine what, if any, taxes apply to the transactions you make, and it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
