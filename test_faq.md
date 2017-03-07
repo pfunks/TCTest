@@ -64,7 +64,7 @@ https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
 
 # Site Navagation
 
-## What do the home, new, hot, trending, and promoted links show?
+## What do the Home, New, Hot, Trending, and Promoted links show?
 
 These are various ways to sort blog posts.
 
@@ -77,6 +77,18 @@ These are various ways to sort blog posts.
 **Trending** - Posts with the highest pending rewards currently.
 
 **Promoted** - Listings that are boosted by Steem Dollar payments get "Promoted" for greater visibility.
+
+## What do the Blog, Comments, Replies, Rewards links show?
+
+**Blog**  - Displays your blog posts and resteems, beginning with the most recent.
+
+**Comments** - Shows the comments you have made in reply to other comments or blog posts, beginning with the most recent.
+
+**Replies** - Shows the replies you have received from other users, beginning with the most recent.
+
+**Rewards** - Shows the rewards you have recently received. These rewards are separated into “Author rewards” (for blog posts and comments) and “Curation awards” (for posts and comments you have voted on).
+
+You can also view the same information for other users by clicking on their account name to visit their profile.
 
 ## How do I view my account?
 
