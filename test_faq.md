@@ -143,11 +143,15 @@ You can update your display preference via your settings so that NSFW content is
 
 ## Can I see which users I have muted?
 
-Yes, this can be seen under your settings page.
+Yes. This can be seen under your settings page.
 
 ## Can I see which users have muted me?
 
-This information is currently not presented via Steemit.com.
+No. This information is currently not presented via Steemit.com.
+
+## Can I see the list of users I am following and who is following me?
+
+Yes. You can see the list of followers or people you are following by clicking on the links in your profile page.
 
 # Posting
 
