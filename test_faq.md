@@ -64,6 +64,41 @@ https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
 
 # Site Navagation
 
+## What do the home, new, hot, trending, and promoted links show?
+
+These are various ways to sort blog posts.
+
+**Home** - Most recent posts of the people you follow (your feed).
+
+**New** - Posts are sorted by the time posted, newest first.
+
+**Hot** - Popular posts at the moment.
+
+**Trending** - Posts with the highest pending rewards currently.
+
+**Promoted** - Listings that are boosted by Steem Dollar payments get "Promoted" for greater visibility.
+
+## How do I view my account?
+
+You can see your account by clicking on the avatar icon in the top-right corner of the screen.
+(Insert Icon)
+
+## What information is show in my profile?
+
+At the top of your profile is your display name and reputation score. Below your display name is the number of follwers you have, the number of posts and comments you have written, and the number of people you are following. It will also show the date that you created your account.
+
+You have the option to change your display name, as well as set additional information such as "about" information, your location, and a website through your settings page. You can also set your avitar image via your settings.
+
+## How do I change my avitar image?
+
+Your avitar image is set in your settings page. In order to update your avitar picture, you will need to host the image on a third party website such as http://imgsafe.org. Once your image is uploaded onto a third party website and you have the URL, enter the URL into your settings page and click "Update".
+
+## How do I search for content?
+
+In the upper right corner, there is a search link where you can find posts using a keyword search.
+
+There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
+
 # Posting
 
 ## What can users upload to Steemit?
