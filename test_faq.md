@@ -282,6 +282,14 @@ https://steemit.com/steemit/@shapeshiftio/official-announcement-shapeshift-has-a
 
 No, you are not being paid by Steemit. The Steem network pays you. It is your responsibility to determine what, if any, taxes apply to the transactions you make, and it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
 
+## How much are the transaction fees for sending tokens between users?
+
+There are never any fees for transfers within the Steem network. However, if you transfer Steem to an exchange and convert it to another currency, you will incur a small fee from the exchange.
+
+## Are there fees for powering up, powering down, or converting SBD to STEEM?
+
+No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
+
 # Voting and Curating
 
 ## What is my voting power?
