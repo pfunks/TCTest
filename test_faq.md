@@ -243,7 +243,17 @@ https://www.steemimg.com/images/2016/09/28/Voting_slider8d9ba.png
 
 You can use the slider to adjust the weight of your vote, between 1% and 100% voting weight.
 
-## Curation Rewards
+## What determines how much of the curation reward goes to the author versus curators?
+
+The rewards are allocated so that 75% of the payout goes to the author of the post/comment, and 25% goes to the curator. 
+
+Of the 25% that goes to the curator though, that portion will be split between the author and the curator if the curator votes within the first 30 minutes. The split of the 25% between the author and curator during the first 30 minutes is calculated as a linear function based on the time the vote is cast.
+
+- If a post is upvoted the moment of posting, 100% of the curation award goes to the author.
+- At 3 minutes, 90% goes to the author and 10% to the curator.
+- At 15 minutes it's a 50/50 split.
+- At 27 minutes, 10% goes to the author and 90% to the curator.
+- If a post is upvoted 30 min after posting, 100% of the curation award goes to the curator.
 
 # Plagiarism/Spam/Abuse
 
