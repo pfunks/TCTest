@@ -64,6 +64,27 @@ https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
 
 # Site Navagation
 
+## What information is available in my account menu?
+
+You can get to your account menu by clicking on the avatar icon in the top-right corner of the screen. 
+(Insert Icon)
+
+**Feed** - Here is where you go to see the most recent posts from the people you follow.
+
+**Blog** - Here is where you go to see all of your posts and resteems.
+
+**Comments** - Here is where you go to see all of the comments you have made to other's posts and comments.
+
+**Replies** - Here is where you go to see all replies other users have made to your posts and comments.
+
+**Wallet** - Here is where you go to see your wallet balances, make transfers, exchange STEEM/SBD, and Power Up.
+
+**Change Password** - Here is where you go to change your password.
+
+**Settings** - Here is where you go to update your settings.
+
+**Logout** - Here is where you go to logout.
+
 ## What do the Home, New, Hot, Trending, and Promoted links show?
 
 These are various ways to sort blog posts.
@@ -90,10 +111,9 @@ These are various ways to sort blog posts.
 
 You can also view the same information for other users by clicking on their account name to visit their profile.
 
-## How do I view my account?
+## Where do I find my wallet?
 
-You can see your account by clicking on the avatar icon in the top-right corner of the screen.
-(Insert Icon)
+There is a link to your wallet on your account page.
 
 ## What information is show in my profile?
 
