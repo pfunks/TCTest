@@ -463,8 +463,8 @@ https://twitter.com/steemit
 
 ## Where can I ask for help if my question was not answered here?
 
-If you post your question in the <a href="https://steemit.chat/channel/help">steemit.chat helpchannel</a>, the users there may be able to help.
+If you post your question in the <a href="https://steemit.chat/channel/help">steemit.chat help channel</a>, the users there may be able to help.
 
-You can also create a post on Steemit.com with the tag #help, and someone may answer it there.
+You can also create a post on Steemit.com with the tag #help, and someone in the community may be able to answer it.
 
 # Disclaimer
