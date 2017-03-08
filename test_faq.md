@@ -189,6 +189,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## How often can I post?
 
+## How long can my post be?
+
+Before posting, consider how much people are going to be willing to read at one time.
+
 ## How do I add pictures to my blog posts?
 
 ## How do I add videos to my blog posts?
