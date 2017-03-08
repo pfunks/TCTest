@@ -225,7 +225,13 @@ This action cannot be undone!
 
 # Comments
 
+## Can I earn digital tokens for commenting?
+
+Yes, comments that are upvoted can earn rewards just like blog posts!
+
 ## How often can I comment?
+
+There is a 20 second wait time in between comments to prevent spam.
 
 # Economics
 
