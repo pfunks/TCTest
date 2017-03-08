@@ -199,15 +199,6 @@ https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in
 
 The number one reason people won’t read your blog post is that it is taking too long to load. Therefore, it is important to make your photos a reasonable size. One way to do this is to upload your photos to imgur.com. When choosing the photo size click Huge Thumbnail. The photo will take up the entire screen, but it will still load quickly.
 
-## Is it okay to use random pictures from the internet?
-
-If you are using an image that is not your own, make sure you are allowed to use the image, and you cite the source of the image.
-
-Using random pictures from the internet without giving credit is not allowed. You may, however, use photos from “free image” websites such as Pexels.com or Pixabay.com. At the time of the writing of this FAQ, all photos on Pexels and Pixabay are free for personal and commercial use and require no attribution.
-
-Here is a post from @mindover that has links to many websites that have images you can use:
-https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-steemit
-
 ## What does "Promoting" a post do?
 
 When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order it shows up depends on how much the post received. Posts with a higher promoted amount will show up first.
@@ -371,6 +362,16 @@ Of the 25% that goes to the curator though, that portion will be split between t
 ## What is the formula used to calculate curation rewards?
 
 # Plagiarism, Spam, and Abuse
+
+## Is it okay to use random pictures from the internet?
+
+If you are using an image that is not your own, make sure you are allowed to use the image, and you cite the source of the image.
+
+Using random pictures from the internet without giving credit is not allowed. You may, however, use photos from “free image” websites such as Pexels.com or Pixabay.com. At the time of the writing of this FAQ, all photos on Pexels and Pixabay are free for personal and commercial use and require no attribution.
+
+Here is a post from @mindover that has links to many websites that have images you can use:
+https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-steemit
+
 
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
