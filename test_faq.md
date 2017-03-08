@@ -363,6 +363,10 @@ Of the 25% that goes to the curator though, that portion will be split between t
 
 # Plagiarism, Spam, and Abuse
 
+## What are Steemit’s policies on plagiarism and spam?
+
+Plagiarized posts and spam are deemed as abuse and will be downvoted by community members. If you are posting or using someone else’s content, you must give them credit!
+
 ## Is it okay to use random pictures from the internet?
 
 If you are using an image that is not your own, make sure you are allowed to use the image, and you cite the source of the image.
