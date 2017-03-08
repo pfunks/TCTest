@@ -376,6 +376,9 @@ Using random pictures from the internet without giving credit is not allowed. Yo
 Here is a post from @mindover that has links to many websites that have images you can use:
 https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-steemit
 
+## What is SteemCleaners?
+
+## Who is @cheetah?
 
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
