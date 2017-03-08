@@ -30,6 +30,14 @@ Steem uses pre-determined mathematical formulas to determine how many new points
 
 By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
+## Why are my blogs posts not making much money?
+
+Steemit is not a "get rich quick" website. While it is possible to post content that goes "viral" and earn a lot of rewards on a single post, that is not the norm for most authors. 
+
+Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followers, making connections with other users through comments, and developing a reputation for producing high quality content.
+
+It is best not to focus on the rewards when you are first starting out, and work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders and your rewards will likely increase.
+
 # Account Management
 
 ## What information do I need to provide in order to create an account?
