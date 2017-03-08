@@ -32,11 +32,11 @@ By analogy, Steem is a game system for content, where the rewards people earn ar
 
 ## Why are my blogs posts not making much money?
 
-Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" and earn a lot of rewards on a single post, that is not the norm for most users. 
+Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the norm for most users. 
 
-Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followers, making connections with other users through comments, and developing a reputation for producing high quality content.
+Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followings, making connections with other users through commenting, and developing a reputation for producing high quality content.
 
-It is best not to focus on the rewards when you are first starting out, and work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders and your rewards will likely increase.
+It is best not to focus on the rewards when you are first starting out, and work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards will likely increase.
 
 # Account Management
 
