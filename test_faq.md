@@ -400,6 +400,13 @@ https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-fre
 
 ## Who is @cheetah?
 
+@cheetah is a bot (developed by @anyx) that scours Steemit for copy/pasted content. Cheetah will not flag content immediately, but it alerts other users to look into it further.
+
+The worst offenders (serial plagiarists or identity thieves, for example) will go on Cheetah’s blacklist. These users will get flagged by Cheetah when they post.
+
+More information on the @cheetah bot can be found in this post:
+https://steemit.com/steemitabuse/@cheetah/cheetah-bot-explained
+
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
 You can report any abusive content to the <a href="https://steemit.chat/channel/steemitabuse">steemitabuse</a> channel on steemit.chat.
