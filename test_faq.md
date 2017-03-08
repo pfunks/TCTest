@@ -343,6 +343,10 @@ No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for
 
 # Voting and Curating
 
+## How do I upvote a post or comment?
+
+To upvote a post or comment, click on the "upvote" icon at the bottom of the post/comment. (Insert Icon)
+
 ## What is my voting power?
 
 This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. IF you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
