@@ -395,6 +395,10 @@ Of the 25% that goes to the curator though, that portion will be split between t
 - At 27 minutes, 10% goes to the author and 90% to the curator.
 - If a post is upvoted 30 min after posting, 100% of the curation award goes to the curator.
 
+## Can I get curation rewards for voting up comments?
+
+Yes. You can earn curation rewards from upvoting both posts and comments!
+
 ## What is the formula used to calculate curation rewards?
 
 # Plagiarism, Spam, and Abuse
