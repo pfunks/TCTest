@@ -268,6 +268,10 @@ Steem Dollars - Steem Dollars are a blockchain and market powered token designed
 
 ## Will 1 SBD always be worth $1 USD?
 
+## Can I sell goods and services on Steemit?
+
+You cannot sell items directly on Steemit.com, but you can list them on the third-party website https://www.peerhub.com/. You can accept payment in Steem Dollars or STEEM, and have the option to advertise your items through Steemit blog posts.
+
 ## What is Powering Down and Powering Up?
 
 Powering Down - If you have Steem Power, you can begin to Power Down to obtain Steem. The system will transfer 1/13 of your Steem Power, to Steem each week for three months (13 weeks).
