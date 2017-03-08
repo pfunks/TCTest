@@ -189,8 +189,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## How often can I post?
 
-## Promoting
-
 ## How do I add pictures to my blog posts?
 
 ## How do I add videos to my blog posts?
@@ -209,6 +207,15 @@ Using random pictures from the internet without giving credit is not allowed. Yo
 
 Here is a post from @mindover that has links to many websites that have images you can use:
 https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-steemit
+
+## What does "Promoting" a post do?
+
+When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order it shows up depends on how much the post received. Posts with a higher promoted amount will show up first.
+
+Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SD to @null, Steem removes them from the currency supply.
+https://steemit.com/steemit/@steemitblog/introducing-promoted-content
+
+You can promote your own posts, or posts that you like from from your friends or other users.
 
 # Comments
 
