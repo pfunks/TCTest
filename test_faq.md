@@ -181,7 +181,23 @@ Each time you create a new post, you must reselect your option if you do not wan
 
 ## Can I delete something I posted?
 
-## Tags
+## What are tags?
+
+Tags are a way to categorize your content, so that othe readers can find it. The more relevant tags used, the more like-minded readers will come across your post.
+
+## What tags should I use?
+
+Try to use tags that are relevant to your post, and that will be popular for other readers to browse. For example, "mytriptoalaska" may be relevant to your post, but readers are probably not going to go searching for that. "vacation" would be a better choice for a tag in this case.
+
+You can browse through commonly used tags using the "Explore" link, in the main menu.
+
+Be careful when choosing tags though. If your tags aren’t related to your post, you may get flagged for deceptive tagging.
+
+All tags must be lowercase letters, and hyphenated words may include one dash.
+
+## How many tags can I use?
+
+You can choose up to 5 tags per post. 
 
 ## How do I format text in Markdown?
 
