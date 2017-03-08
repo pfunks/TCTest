@@ -217,6 +217,12 @@ https://steemit.com/steemit/@steemitblog/introducing-promoted-content
 
 You can promote your own posts, or posts that you like from from your friends or other users.
 
+## How do I promote a post?
+
+At the bottom of each post is a button to "Promote". After clicking the button, type he number of Steem Dollars you want to send and click “PROMOTE”. The operation will require your Active or Owner key.
+
+This action cannot be undone!
+
 # Comments
 
 ## How often can I comment?
