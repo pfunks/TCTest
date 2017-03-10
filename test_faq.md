@@ -525,6 +525,8 @@ You can invest in the platform though by purchasing STEEM tokens. These tokens h
 
 # Security
 
+## What are my different keys for?
+
 ## Are my Steem and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
 
 No, it is not. If your money is in Steem Power, however, it is impossible for a hacker to take out more than 1/13 per week.
