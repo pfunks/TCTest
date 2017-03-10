@@ -420,7 +420,11 @@ https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-fre
 
 ## What is SteemCleaners?
 
-## Who is @cheetah?
+Steemcleaners are a group of Steemians concerned with the plague of plagiarism, copy paste, spam, scams and other forms of abuse that keep cropping up on Steemit. Fighting individually seemed fruitless, often resulting in retaliatory flagging, harassment, and other issues. 
+
+https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team
+
+## What is @cheetah?
 
 @cheetah is a bot (developed by @anyx) that scours Steemit for copy/pasted content. Cheetah will not flag content immediately, but it alerts other users to look into it further.
 
@@ -532,6 +536,17 @@ Over time, Steemit will allow advertisers and bloggers to promote content by buy
 Steemit, Inc. is a privately held company and is not available for public investment.
 
 You can invest in the platform though by purchasing STEEM tokens. These tokens have value based on the speculation that occurs on various exchanges. You can also power up these tokens into Steem Power, which gives you more influence in the platform as defined by the blockcain rules.
+
+## Can I purchase official Steemit merchandise?
+
+There is no official merchandise yet, but it is easy to make Steemit gear on zazzle.com or similar websites. 
+
+Here is a post with instructions from @artist1989:
+https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
+
+## Am I allowed to use the Steemit logo?
+
+Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo created in the next few months so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three squiggles will remain open for public use.
 
 # Security
 
