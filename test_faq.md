@@ -1,3 +1,7 @@
+# Disclaimer
+
+# Table of Contents
+
 # General
 
 ## What is Steemit.com?
@@ -178,6 +182,21 @@ No. This information is currently not presented via Steemit.com.
 Yes. You can see the list of followers or people you are following by clicking on the links in your profile page.
 
 ## How do I transfer my STEEM or SBD into savings?
+
+## What languages are supported?
+
+English is the primary language used on the SteemIt platform, but communities are forming around other languages.
+
+## If posting in a language other than English, how will I get recognized?
+
+You can use language hashtags to help you to reach the audience that speaks your language. 
+
+Language-specific groups include:
+- Chinese = cn
+- German = deutsch
+- Korean = kr
+- Russian = ru
+- Swedish = sv
 
 # Posting
 
@@ -566,6 +585,11 @@ There is no official merchandise yet, but it is easy to make Steemit gear on zaz
 Here is a post with instructions from @artist1989:
 https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
 
+## What does Steemit’s development roadmap look like?
+
+You can view the 2017 Roadmap here:
+https://steemit.com/steemit/@steemitblog/steemit-2017-roadmap
+
 ## Am I allowed to use the Steemit logo?
 
 Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo created in the next few months so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three squiggles will remain open for public use.
@@ -702,5 +726,3 @@ https://twitter.com/steemit
 If you post your question in the <a href="https://steemit.chat/channel/help">steemit.chat help channel</a>, the users there may be able to help.
 
 You can also create a post on Steemit.com with the tag #help, and someone in the community may be able to answer it.
-
-# Disclaimer
