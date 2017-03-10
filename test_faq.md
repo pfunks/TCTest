@@ -719,7 +719,13 @@ https://twitter.com/steemit
 
 ## Steemithelp.net
 
-## Whiepaper
+## What is the Steem Whitepaper and what is its purpose?
+
+The Steem Whitepaper was written to describe the mechanics of the token system that makes decentralized content incentives and distribution possible in a way that can improve web technologies across the board. It is also applicable to Steemit, one of the first websites to plug into the Steem blockchain. Users who have read the Steem Whitepaper will better understand how their interactions with Steemit are interactions with Steem, the decentralized network.
+
+It is worth noting that the Whitepaper hasn’t been updated since Steem came into existence. Many changes have been made since that time, so much of the Whitepaper is now incorrect.
+
+https://steem.io/SteemWhitePaper.pdf
 
 ## Where can I ask for help if my question was not answered here?
 
