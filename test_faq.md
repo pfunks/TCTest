@@ -125,6 +125,12 @@ You can also view the same information for other users by clicking on their acco
 
 ## What information is shown in my wallet?
 
+## Can I receive notifications when I get votes?
+
+Currently, there are no options to receive notifications for votes directly on Steemit.com. But, Steemit does have notifications for comments, replies, and mentions.
+
+The third-party application https://steemstats.com/, developed by @jesta, has an option to set up notifications on your computer. 
+
 ## What is shown in my profile?
 
 At the top of your profile is your display name and reputation score. Below your display name is the number of follwers you have, the number of posts and comments you have written, and the number of people you are following. It will also show the date that you created your account.
@@ -492,6 +498,8 @@ Yes you can use the share button to share on Facebook, Twitter or Linkedin. You 
 
 ## What is a blockchain?
 
+A public ledger of all transactions ever executed. It is essentially a distributed database where pieces of information are added in a sequence of small blocks, hence the name “block-chain.”
+
 ## What is the Steem blockchain?
 
 The Steem blockchain is an open source and publicly accessible database, that records all posts and votes, and distributes rewards across the network.
@@ -501,6 +509,12 @@ The Steem blockchain is an open source and publicly accessible database, that re
 Steem is the name of the blockchain that stores all of the data and transactions, and processes all of the events that take place. STEEM is also a name for the system’s value token (currency).
 
 Steemit is simply an interface to interact with the blockchain, and view the blockchain data.
+
+## How is Steem different from Bitcoin?
+
+On a technical level, the two cryptocurrencies are running different technologies for their blockchains. Based on Graphene, Steem uses a system of “Witnesses” to carry out the bulk of the work involved in maintaining the blockchain.
+
+Regarding economic differences, Bitcoin has a maximum number of coins of 21 million and a relatively low inflation rate. Steem is different in that regard with no maximum number of possible coins in existence.
 
 ## How often does the Steem blockchain produce a block?
 
