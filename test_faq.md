@@ -527,6 +527,14 @@ You can invest in the platform though by purchasing STEEM tokens. These tokens h
 
 ## What are my different keys for?
 
+**Owner Key** - The owner key allows its user to post, vote, transfer funds, vote for witnesses, and change all keys including being able to alter the owner key. The owner key is only meant for use when necessary.The only thing the owner key can not do is decrypt private messages/memos sent to you, only the memo key can.
+
+**Posting Key** - The posting key allows accounts to post, comment, vote, and follow other accounts. Most users should be logging into Steemit every day with the posting key, only using the active key when something to do with transferring funds or changing keys is necessary. You are more likely to have your password or key compromised the more you use it, so a limited posting key exists to restrict the damage that a compromised account key would cause.
+
+**Active Key** - The active key can perform almost all functions for an account except change the owner key. It can change all other keys on an account, including the active key. The active key can do everything the post key can do, plus allows transferring, trading, powering up/powering down Steem Power, and voting for witnesses. It cannot decrypt private messages encrypted to your memo key.
+
+**Memo Key** - The memo key is the only key that can decrypt private messages sent to your account. The Steemit team will implement this private message feature in the future.
+
 ## Are my Steem and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
 
 No, it is not. If your money is in Steem Power, however, it is impossible for a hacker to take out more than 1/13 per week.
@@ -553,6 +561,10 @@ Only log into your account using the key with the appropriate permissions for wh
 Change your key frequently.
 
 It is not recomended to share your keys with any third party site.
+
+## Is it safe to use my account while on public wifi?
+
+No, not without first taking additional steps. To prevent someone from hacking into your account while on a public wifi network, you should use a service like Private Tunnel VPN. Also, if you are only posting, commenting and voting, log in using your Posting Key.
 
 ## What should I do if I discover that someone hacked my account?
 
