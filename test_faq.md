@@ -585,6 +585,10 @@ There is no official merchandise yet, but it is easy to make Steemit gear on zaz
 Here is a post with instructions from @artist1989:
 https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
 
+## What is the Steemit Privacy Policy?
+
+https://steemit.com/privacy.html
+
 ## What does Steemit’s development roadmap look like?
 
 You can view the 2017 Roadmap here:
