@@ -171,6 +171,8 @@ No. This information is currently not presented via Steemit.com.
 
 Yes. You can see the list of followers or people you are following by clicking on the links in your profile page.
 
+## How do I transfer my STEEM or SBD into savings?
+
 # Posting
 
 ## What can users upload to Steemit?
