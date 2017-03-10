@@ -614,7 +614,9 @@ Many software engineers are currently leveraging the open-source code to build t
 
 https://steemit.com/steemjs/@fabien/steem-api-now-released
 
-Is Steem open-source and is there an API?
+## How do I use cli_wallet?
+
+https://steemit.com/steemhelp/@pfunk/a-learner-s-guide-to-using-steem-s-cliwallet-part-1
 
 # Blockchain
 
@@ -632,7 +634,11 @@ Steemit leverages Steem because the founders of Steemit believe Steem’s decent
 
 ## How can I vote for witnesses?
 
+https://steemit.com/~witnesses
+
 ## How many witnesses can I vote for?
+
+## Why should I vote for witnesses?
 
 ## How do I become a witness?
 
