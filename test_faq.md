@@ -539,6 +539,19 @@ If your password has been changed without your concent, then the person you desi
 
 If you don't have a key used in the past 30 days, then your account will be unrecoverable.
 
+## How can I keep my Steemit account secure?
+
+Save your master key and keep it somewhere safe.
+
+Only log into your account using the key with the appropriate permissions for what you are doing:
+- Posting Key (Recommended, can be used to upvote/comment/post)
+- Active Key (All permissions of posting key + Ability to transfer funds)
+- Owner Key (Change the keys for your account)
+
+Change your key frequently.
+
+It is not recomended to share your keys with any third party site.
+
 ## What should I do if I discover that someone hacked my account?
 
 If you notice your account has been compromised, you should contact your account recovery partner (the trusted individual) and ask them to submit a request to change the locks on your account. They verify you by whatever means they find satisfactory and then submit a proposal to the blockchain to change the locks on your account.
