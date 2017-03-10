@@ -510,6 +510,14 @@ Steem is the name of the blockchain that stores all of the data and transactions
 
 Steemit is simply an interface to interact with the blockchain, and view the blockchain data.
 
+## What is the difference between Proof of Work, Proof of Stake, and Delegated Proof of Stake?
+
+**Proof of work** - Miners solve a complex mathematical problem. The miner that solves the problem first adds the block to the blockchain. The network rewards the miner for doing so.
+
+**Proof of stake** - Requires ownership of the cryptocurrency. The more cryptocurrency you own, the more mining power you have. Benefits: eliminates the need for expensive mining rigs, runs on a tiny fraction of the power, and it requires miners to have a stake in the network.
+
+**Delegated Proof of stake** - 
+
 ## How is Steem different from Bitcoin?
 
 On a technical level, the two cryptocurrencies are running different technologies for their blockchains. Based on Graphene, Steem uses a system of “Witnesses” to carry out the bulk of the work involved in maintaining the blockchain.
