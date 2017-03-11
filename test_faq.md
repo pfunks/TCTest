@@ -598,6 +598,8 @@ https://steemit.com/steemit/@steemitblog/steemit-2017-roadmap
 
 Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo created in the next few months so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three squiggles will remain open for public use.
 
+## Did Steemit "pre-mine" coins? Is this a scam?
+
 # Security
 
 ## What are my different keys for?
