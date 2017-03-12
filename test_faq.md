@@ -1,5 +1,3 @@
-# Disclaimer
-
 # Table of Contents
 
 # General
@@ -761,3 +759,13 @@ https://steem.io/SteemWhitePaper.pdf
 If you post your question in the <a href="https://steemit.chat/channel/help">steemit.chat help channel</a>, the users there may be able to help.
 
 You can also create a post on Steemit.com with the tag #help, and someone in the community may be able to answer it.
+
+# Disclaimer
+
+## Third Party References and User Links
+
+Peerhub, BlockTrades, Poloniex, Bittrex, Steemit Chat, [Continue list] are third party applications/services, and are not owned or maintained by Steemit, Inc. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
+
+All of the links to user posts were created by our users and do not necessarily represent the views of Steemit, Inc. or its management. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
+
+Please use the third party tools and content at your own risk.
