@@ -46,6 +46,8 @@ It is best not to focus on the rewards when you are first starting out, and work
 
 ## How do I create an account?
 
+Click on the "Sign Up" link at the top of Steemit.com to get started.
+
 ## What information do I need to provide in order to create an account?
 
 You will need to supply your email and phone number.
@@ -86,11 +88,13 @@ Accounts can not be deactivated or deleted. The account along with all of its ac
 
 There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required that anyone follow the suggestions in the guide, they are standards that many users in the community chose to follow.
 
-## What is verification?
+## Am I required to verify my identity?
 
-Verfication is a process where you give evidence to show that you are the person that you claim to be.  This is to reduce fraud and people impersonating well known figures.
+Verfication is a process where you give evidence to show that you are the person that you claim to be.  This is to reduce fraud and people impersonating well known figures. If you would like to remain anonymous, that is perfectly fine, but if you claim to be someone specific, the community will expect that you verify you are who you say you are.
 
-There are a number of ways of doing it. You can post a photo or a video which shows you holding up a sheet of paper with your handwritten user name on it. You can also verify by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site etc.
+There are a number of ways of doing this. The most common way to verify your identity is by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site, etc. You can also share a link to your Steemit profile through your other verified social media accounts, such as Twitter. LinkedIn, or Facebook. 
+
+Many users also like to post a photo or a video which shows them holding up a sheet of paper with the current date and their user name handwritten on it. This is a greaty way to add a personal touch to your verification.
 
 ## What are Whales, Dolphins and Minnows?
 
