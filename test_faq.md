@@ -561,7 +561,7 @@ Steemit is simply an interface to interact with the blockchain, and view the blo
 
 **Proof of stake** - Requires ownership of the cryptocurrency. The more cryptocurrency you own, the more mining power you have. Benefits: eliminates the need for expensive mining rigs, runs on a tiny fraction of the power, and it requires miners to have a stake in the network.
 
-**Delegated Proof of stake** - 
+**Delegated Proof of stake** - [Need to fill in]
 
 ## How is Steem different from Bitcoin?
 
@@ -580,6 +580,10 @@ The Steem blockchain produces a new block every 3 seconds.
 ## How can Steem consistently produce blocks every 3 seconds since proof of work takes an unpredictable amount of time?
 
 To have consistent and reliable block production every 3 seconds, Steem separates block output from solving proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included, the miner is added to the queue of miners scheduled to produce blocks. Each round, one miner is popped from the queue and listed in the active set of witnesses.
+
+## Is there a way to see the raw data that is stored in the blockchain?
+
+Yes. The blockchain data can be viewed through the third-party tool <a href="https://steemd.com/">steemd.com</a>.
 
 # Steemit Chat
 
