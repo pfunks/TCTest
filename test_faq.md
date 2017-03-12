@@ -543,6 +543,10 @@ On a technical level, the two cryptocurrencies are running different technologie
 
 Regarding economic differences, Bitcoin has a maximum number of coins of 21 million and a relatively low inflation rate. Steem is different in that regard with no maximum number of possible coins in existence.
 
+## Where can I find the informaton for the official launch of the blockchain?
+
+The <a href="https://bitcointalk.org/index.php?topic=1408726.0">original launch</a> of Steem was on March 23, 2016, but it was reset due to an unexpected bug. The blockchain was officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+
 ## How often does the Steem blockchain produce a block?
 
 The Steem blockchain produces a new block every 3 seconds.
