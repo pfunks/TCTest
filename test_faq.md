@@ -545,7 +545,9 @@ Regarding economic differences, Bitcoin has a maximum number of coins of 21 mill
 
 ## Where can I find the informaton for the official launch of the blockchain?
 
-The <a href="https://bitcointalk.org/index.php?topic=1408726.0">original launch</a> of Steem was on March 23, 2016, but it was reset due to an unexpected bug. The blockchain was officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+The original launch of Steem was on March 23, 2016 via <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. The original launch was reset due to an unexpected bug though. 
+
+The blockchain was officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
 
 ## How often does the Steem blockchain produce a block?
 
