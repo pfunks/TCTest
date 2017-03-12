@@ -54,7 +54,7 @@ To create an account on the blockchain, it costs STEEM coins. When you create an
 
 ## Can I create a Steem account without an email and phone number?
 
-The only way to have an account created via Steemit.com is to supply your email and phone number, but if you are willing to pay your own signup fee - then there are other ways to create a new account on the blockchain.
+The only way to have an account created via Steemit.com is to supply your email and phone number. If you are willing to pay your own signup fee though, then there are other ways to create a new account on the blockchain.
 
 If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
 
@@ -62,9 +62,13 @@ There is also a third-party tool <a href="https://steemit.com/steemit/@someguy12
 
 ## Can I create multiple accounts?
 
-Users are only allowed to create one 'free' account through Steemit.com, but they are allowed to create as many accounts as they want on the blockchain if they pay their own account creation fee. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
+Users are only allowed to create one free account through Steemit.com, but they are allowed to create as many blockchain accounts as they want, if they pay their own account creation fee. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
 
 There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account.
+
+## It is not letting me create an account with my phone number. What should I do?
+
+Ask for help in the Steemit chat #help channel.
 
 ## What happens if my email or phone number changes?
 
@@ -78,7 +82,7 @@ Accounts can not be deactivated or deleted. The account along with all of its ac
 
 ## Is there an Etiquette Guide for Steemit?
 
-https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0
+There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required that anyone follow the suggestions in the guide, they are standards that many users in the community chose to follow.
 
 ## What is verification?
 
