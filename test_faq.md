@@ -598,7 +598,26 @@ https://steemit.com/steemit/@steemitblog/steemit-2017-roadmap
 
 Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo created in the next few months so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three squiggles will remain open for public use.
 
-## Did Steemit "pre-mine" coins? Is this a scam?
+## Did Steemit "pre-mine" coins? Is what they did unfair?
+
+The challenge for a blockchain startup company, is that they need tokens to sell to get funding for the development. If the blockchain is launched so that anybody can mine as much as they want, founders will get very little and may not be able to fund the development.
+
+When Steem was designed, one of the most important factors was to make it happen so that it won't cause any legal troubles for the founding team.
+
+Before the launch of Steem, Dan Larimer wrote a blog post <a href="https://bytemaster.github.io/article/2016/03/27/How-to-Launch-a-Crypto-Currency-Legally-while-Raising-Funds/">How to Launch a Crypto Currency Legally while Raising Funds</a> where he described the problems that founders might face from authorities.
+
+Here are some of the key take-aways:
+- Do not pre-allocate any currency to yourself or others.
+- Do not sell currency directly to others
+- Always sell through a regulated exchange.
+- Complete the currency and protocol prior to launch.
+- Never promise to do anything for the currency
+
+To secure a portion of the tokens for themselves, the founders released the blockchain with very little information other than the code itself. This allowed them mine it before many others got too interested in it. The other miners that did get involved early on were the ones that took the time to read and understand the code, and saw the potential of what the platform could become. This was successful, and a majority of the coins were mined by the Steemit development team.
+
+The STEEM coins were not "pre-mined" though. All mining took place after the coin was officially and publicly announced on <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+
+We understand that anybody who doesn't know the reasons why the launch was made this way could be very suspicious. The way it was done was intended to accomplish the goal of funding the startup, without doing it in a way that was illegal or deceptive. Another possibility would have been to make the launch under different jurisdiction, but the team wasn't ready to move to another country just for this.
 
 # Security
 
