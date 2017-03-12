@@ -1,5 +1,7 @@
 # Table of Contents
 
+[The TOC will be added once all the questions are finalized]
+
 # General
 
 ## What is Steemit.com?
