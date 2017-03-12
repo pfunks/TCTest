@@ -20,9 +20,9 @@ It is free to post, comment, and upvote all content on Steemit.com. You might ev
 
 You can earn digital points on Steemit by:
 
-Blogging/Posting - By sharing your original and unique posts, you can get upvotes by community members. Depending on the upvotes you receive, you will get a portion of that day’s total payout.
+**Blogging/Posting** - By sharing your original and unique posts, you can get upvotes by community members. Depending on the upvotes you receive, you will get a portion of that day’s total payout.
 
-Curating/Voting - If you discover a post and upvote it before it becomes popular, you will receive a curation reward. The reward amount will depend on the amount you have vested, called Steem Power.
+**Curating/Voting** - If you discover a post and upvote it before it becomes popular, you will receive a curation reward. The reward amount will depend on the amount you have vested, called Steem Power.
 
 ## Where does the value come from?
 
@@ -42,19 +42,37 @@ It is best not to focus on the rewards when you are first starting out, and work
 
 # Account Management
 
+## How do I create an account?
+
 ## What information do I need to provide in order to create an account?
 
-## How do I create an account?
+You will need to supply your email and phone number.
+
+## Why do I need to supply my email and phone number?
+
+To create an account on the blockchain, it costs STEEM coins. When you create an account through Steemit.com, Steemit, Inc. is supplying the STEEM to pay for the account creation fee. In order to prevent users from abusing the free signup and creating multiple accounts, they need to be able to verify that each user is only signing up for one account.
 
 ## Can I create a Steem account without an email and phone number?
 
-Steemit chat #help channel.
+The only way to have an account created via Steemit.com is to supply your email and phone number, but if you are willing to pay your own signup fee - then there are other ways to create a new account on the blockchain.
 
-https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media
+If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
+
+There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account
+
+## Can I create multiple accounts?
+
+Users are only allowed to create one 'free' account through Steemit.com, but they are allowed to create as many accounts as they want on the blockchain if they pay their own account creation fee. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
+
+There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account.
+
+## What happens if my email or phone number changes?
+
+Currently there is no way to change the email or phone number that is linked to your account. Once your account is created though, you can continue to use it even if the email or phone number linked to the account has changed.
 
 ## Can I delete or deactivate my account?
 
-No, accounts can not be deactivated or deleted. The account along with all of its activity is permanently stored in the blockchain.
+Accounts can not be deactivated or deleted. The account along with all of its activity is permanently stored in the blockchain.
 
 # Community
 
