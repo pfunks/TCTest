@@ -100,9 +100,8 @@ Many users also like to post a photo or a video which shows them holding up a sh
 
 These are terms that people use to describe Steemit users with different amounts of Steem/SP.  There are no formal definitions.  As the names suggest whales have the largest amount of SP, followed by dolphins in the middle and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and influence on the platform.
 
-Steemd uses a slightly different system which you can see here (https://steemd.com/distribution):
-
-https://www.steemimg.com/images/2016/09/28/Steemd_classes_userdccac.png
+Steemd uses a slightly different system which you can see at https://steemd.com/distribution:
+https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png
 
 # Site Navagation
 
@@ -155,11 +154,13 @@ You can also view the same information for other users by clicking on their acco
 
 ## What information is shown in my wallet?
 
+Your wallet will show you how many STEEM, Steem Power, and SBD tokens you have in your account. It will also show you how many of your STEEM and SBD tokens are being held in your savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page will show any STEEM to SBD conversions that are in progress, as well as the status of any power-downs that are in progress. It also shows an estimated value of all the coins in your account, based on the recent market prices of STEEM and SBD. 
+
 ## Can I receive notifications when I get votes?
 
 Currently, there are no options to receive notifications for votes directly on Steemit.com. But, Steemit does have notifications for comments, replies, and mentions.
 
-The third-party application https://steemstats.com/, developed by @jesta, has an option to set up notifications on your computer. 
+There is a third-party application https://steemstats.com/, developed by @jesta, which has an option to set up notifications on your computer.
 
 ## What is shown in my profile?
 
@@ -209,6 +210,8 @@ Yes. You can see the list of followers or people you are following by clicking o
 
 ## How do I transfer my STEEM or SBD into savings?
 
+Your savings balance is STEEM and SBD coins that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account is hacked. To transfer STEEM or SBD coins into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
+
 ## What languages are supported?
 
 English is the primary language used on the SteemIt platform, but communities are forming around other languages.
@@ -242,6 +245,8 @@ Each time you create a new post, you must reselect your option if you do not wan
 
 ## Can I delete something I posted?
 
+The blockchain will always contain the full edit history of a post, but if you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace everything in it with blank content.
+
 ## What are tags?
 
 Tags are a way to categorize your content, so that othe readers can find it. The more relevant tags used, the more like-minded readers will come across your post.
@@ -262,23 +267,30 @@ You can choose up to 5 tags per post.
 
 ## How do I format text in Markdown?
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+A third-party guide describing the common markdown formatting syntax can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.
 
 ## How often can I post?
 
+You are allowed to post as often as you like, within reasonable bandwidth limitations. The community may not find value in users that are posting too frequently though. Keep in mind what your audience will be interested in reading, so that you do not overwhelm your readers with too much content.
+
 ## How long can my post be?
 
-Before posting, consider how much people are going to be willing to read at one time.
+You can make your posts as long as you want, but consider how much people are going to be willing to read at one time. If you make your posts too long, readers may lose interest which may affect the amount of upvotes/rewards you recevive.
 
 ## How do I add pictures to my blog posts?
 
+If you have the image copied to your clipboard, you can simply paste (`ctrl + v`) while in the posting editor, and your image will be uploaded into the post. You can also browse your harddrive for the image by clicking on the "selecting them" link from within the editor.
+
 ## How do I add videos to my blog posts?
 
+To add a video to your blog post, simply paste the link to the video into the post. 
+
+You can also read this guide from @algimantas, which has more detailed instructions:
 https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in-steemit
 
 ## Is there a way I can make my images smaller?
 
-The number one reason people won’t read your blog post is that it is taking too long to load. Therefore, it is important to make your photos a reasonable size. One way to do this is to upload your photos to imgur.com. When choosing the photo size click Huge Thumbnail. The photo will take up the entire screen, but it will still load quickly.
+Yes. One way to do this is to upload your photos to a third-party website like imgur.com. The photo cannot be resized once it is uploaded into the Steemit.com posting interface. If you would like to use a different image size, simply resize teh image and re-upload the new version into the posting interface.
 
 ## What does "Promoting" a post do?
 
