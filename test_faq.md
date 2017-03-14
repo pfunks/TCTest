@@ -105,6 +105,10 @@ https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.
 
 # Site Navagation
 
+## How do I upvote a post or comment?
+
+To upvote a post or comment, click on the "upvote" icon at the bottom of the post/comment. (Insert Icon)
+
 ## What do the Home, New, Hot, Trending, and Promoted links show?
 
 These are various ways to sort blog posts.
@@ -478,10 +482,6 @@ No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for
 
 # Voting and Curating
 
-## How do I upvote a post or comment?
-
-To upvote a post or comment, click on the "upvote" icon at the bottom of the post/comment. (Insert Icon)
-
 ## What is my voting power?
 
 This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. IF you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
@@ -526,7 +526,39 @@ Of the 25% that goes to the curator though, that portion will be split between t
 
 Yes. You can earn curation rewards from upvoting both posts and comments!
 
+## Do I get curation rewards for downvoting posts or comments?
+
+No. Since downvoting reduces the rewards on a post/comment, it does not earn curation rewards.
+
 ## What is the formula used to calculate curation rewards?
+
+## Why don't my upvotes have an effect on a post's rewards?
+
+Larger stakeholders have more say in how the rewards are divided.
+
+A user with more SP is going to have a larger influence on the way rewards are allocated compared to users with less SP. If you don't like how a particular user has voted, you can counter their vote by voting the opposite way. If they have more SP than you, then your counter will not have as big of an effect. One vote from a user with a lot of SP can often have more of an effect than 100 votes from users with a small amount of SP.
+
+Even though your vote may not have a noticable effect, when it gets added in along with all the other votes at the end of the payout period it can still effect the payout. Other users may upvote the post as well because they saw that you upvoted it, so your votes can have an indirect effect on the payout in this way.
+
+## Is there a way to make my votes count for more?
+
+The platform does not require that anybody purchase SP in order to participate, and there are many users who have become successful on the platform without investing any of their own money. If you would like to increase your voting stake though, then you have the option of purchasing more Steem Power through your Steemit wallet.
+
+## What are the valid reasons for downvoting?
+
+Users are allowed to downvote for any reason that they want. There are many users in the community who recommend only using the flag/downvote on posts that are abusive/bad. It is up to you if you want to follow this etiquette.
+
+## Does a downvote mean that I did something wrong?
+
+Just because you received a downvote/flag does not mean that you did something wrong. They may have just been voting to reallocate the rewards in a way that they felt was more beneficial to the other active posts in the platform. Often users will leave a comment explaining why they downvoted/flagged, but sometimes they might not. If they left a reason, it is up to you to determine if you did anything wrong, and if there is anything you want to change.
+
+## Will a downvote hurt my reputation?
+
+Not neccesarly. See <a href="">What causes my reputation score to go down?</a>.
+
+## What is the difference between a downvote and a flag?
+
+With the current implementation, there is no difference between a downvote and a flag. They are treated the same at the blockchain level.
 
 # Plagiarism, Spam, and Abuse
 
@@ -561,8 +593,6 @@ https://steemit.com/steemitabuse/@cheetah/cheetah-bot-explained
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
 You can report any abusive content to the <a href="https://steemit.chat/channel/steemitabuse">steemitabuse</a> channel on steemit.chat.
-
-# Downvoting
 
 # Reputation
 
@@ -639,9 +669,9 @@ Steemit is simply an interface to interact with the blockchain, and view the blo
 
 ## How is Steem different from Bitcoin?
 
-On a technical level, the two cryptocurrencies are running different technologies for their blockchains. Based on Graphene, Steem uses a system of “Witnesses” to carry out the bulk of the work involved in maintaining the blockchain.
+On a technical level, the two cryptocurrencies are running different technologies for their blockchains. Steem is based on a new state-of-the-art blockchain technology called Graphene, which uses "witnesses" instead of "miners" to produce blocks. 
 
-Regarding economic differences, Bitcoin has a maximum number of coins of 21 million and a relatively low inflation rate. Steem is different in that regard with no maximum number of possible coins in existence.
+The "Delegated Proof of stake" model of using witnesses instead of miners allows for greater efficiency in block production. With BTC, 100% of the new coins that are created are allocated to block producers (miners). With the Steem blockchain, only 10% of the new coins are paid to block producers (witnesses). The other 90% of new STEEM coins are awarded to content producers, curators, and Steem Power holders.
 
 ## Where can I find the informaton for the official launch of the blockchain?
 
@@ -658,8 +688,6 @@ To have consistent and reliable block production every 3 seconds, Steem separate
 ## Is there a way to see the raw data that is stored in the blockchain?
 
 Yes. The blockchain data can be viewed through the third-party tool <a href="https://steemd.com/">steemd.com</a>.
-
-# Steemit Chat
 
 # Steemit, Inc.
 
@@ -806,15 +834,13 @@ https://github.com/steemit/steem
 
 Many software engineers are currently leveraging the open-source code to build their applications on Steem. There are more than sixty so far.
 
+This post from the user @fabien has more information about the Steem API:
 https://steemit.com/steemjs/@fabien/steem-api-now-released
 
 ## How do I use cli_wallet?
 
+Here is a guide from the user @pfunk explaining how to use the cli_wallet:
 https://steemit.com/steemhelp/@pfunk/a-learner-s-guide-to-using-steem-s-cliwallet-part-1
-
-# Blockchain
-
-## What is the difference between POW and DPOS?
 
 # Witnesses
 
@@ -831,6 +857,8 @@ Steemit leverages Steem because the founders of Steemit believe Steem’s decent
 https://steemit.com/~witnesses
 
 ## How many witnesses can I vote for?
+
+Each user can vote for up to 30 witnesses.
 
 ## Why should I vote for witnesses?
 
