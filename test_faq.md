@@ -327,17 +327,24 @@ Similar to Bitcoin, the Steem blockchain produces new coins each block. Instead 
 
 Since hardfork 16, the Steem blockchain started creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250k blocks, until it eventually reaches a rate of 0.95%. This will take approximately 20.5 years.
 
-## How are the new tokens distributed?
-
-Out of the new tokens that are generated, 75% go to content creators. The 75% is split between authors and curators. 15% of the new tokens are awarded to holders of Steem Power. The remaining 10% is for witness pay.
-
 ## What is the reward pool?
 
 Every day, a fixed amount of money is allocated to the "rewards pool". These are the coins that get distributed to authors and curators for posting and voting on content.
 
-## Will the rewards pool pay out more/less depending on who votes?
+## How are the new tokens distributed?
 
-When users upvote or downvote posts, they are not adding or taking money away from the rewards pool. They are only changing how the pool is divided.
+Out of the new tokens that are generated:
+- 75% go to the rewards pool, which is split between authors and curators. 
+- 15% of the new tokens are awarded to holders of Steem Power. 
+- The remaining 10% is for witness pay.
+
+## How is the reward pool split between authors and curators?
+
+Up to 25% of a post's payout is awarded to curators (the people who upvoted the post) as a reward for discovering the content. The other 75% is awarded to the author. If curators vote for a post within the first 30 minutes of it being created, a portion of their curation reward is added to the author payout.
+
+## Will the rewards pool pay out more or less depending on who votes?
+
+When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is divided. The same amount of rewards will be paid out no matter what.
 
 If there is $70,000 in the rewards pool for the week - then that $70,000 is split across all of the active posts based on how many upvotes/downvotes they receive. If there is a post with a pending payout of $5000, then that means there is only $65,000 left to be paid to all the other posts.
 
@@ -370,6 +377,18 @@ Steem Dollars - Steem Dollars are a blockchain and market powered token designed
 
 ## Will 1 SBD always be worth $1 USD?
 
+The market value of SBD is dictated by the supply and demand of the coin. It is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions.
+
+## How do SBD to STEEM conversions work?
+
+If you convert SBD to STEEM via your wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with "approximately 1 USD worth of STEEM" tokens. The "approximately 1 USD worth of STEEM" is based on the average STEEM price over the 3.5 days, using the price feeds produced by the witnesses. 
+
+There is also a condition in the blockchain that under severe market conditions where the SBD debt ratio exceeds 10% of the STEEM market-cap, the conversions can result in less than $1 USD worth of STEEM.
+
+## Is there a way for me to convert my SBD to STEEM without waiting 3.5 days?
+
+If you go to the internal "Market", found in the main menu, you can exchange your SBD for STEEM in real-time at the current market price.
+
 ## Can I sell goods and services on Steemit?
 
 You cannot sell items directly on Steemit.com, but you can list them on the third-party website https://www.peerhub.com/. You can accept payment in Steem Dollars or STEEM, and have the option to advertise your items through Steemit blog posts.
@@ -380,7 +399,19 @@ Powering Down - If you have Steem Power, you can begin to Power Down to obtain S
 
 Powering Up - If you wish to gain more influence in the Steem network, you must increase your Steem Power. Powering Up is the process of instantaneously turning your Steem into Steem Power.
 
-## What can I do with my SBD / STEEM tokens?
+## What can I do with my STEEM tokens?
+
+- "Power Up" to Steem Power
+- Exchange for SBD in the internal market
+- Withdraw to an exchange, and trade for BTC or other digital tokens
+- Purchase items through third-party stores that accept STEEM tokens
+
+## What can I do with my SBD tokens?
+
+- Convert to STEEM via your wallet (takes 3.5 days)
+- Exchange for STEEM in the internal market
+- Withdraw to an exchange, and trade for BTC or other digital tokens
+- Purchase items through third-party stores that accept SBD tokens
 
 ## What determines the price of STEEM?
 
@@ -406,6 +437,8 @@ Once you have your bitcoin:
 You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting the alternate currency from the dropdown on the "Buy Steem" page.
 
 ## What are Vests?
+
+Vests are a unit of measurement for the amount of Steem Power someone has. A vest is a very small amount, so often SP holdings are measured in "millions of vests" or MV.
 
 ## How can I withdraw my STEEM or SBD coins?
 
