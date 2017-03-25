@@ -502,7 +502,7 @@ No, you are not being paid by Steemit. The Steem network pays you. It is your re
 
 There are never any fees for transfers within the Steem network. However, if you transfer Steem to an exchange and convert it to another currency, you will incur a small fee from the exchange.
 
-## Are there fees for powering up, powering down, or converting SBD to STEEM?
+## Are there fees for Powering Up, Powering Down, or converting SBD to STEEM?
 
 No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
 
@@ -510,7 +510,7 @@ No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for
 
 ## What is my voting power?
 
-This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. IF you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
+This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. If you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
 
 ## What is voting weight?
 
