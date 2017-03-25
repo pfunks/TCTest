@@ -504,7 +504,9 @@ There are never any fees for transfers within the Steem network. However, if you
 
 ## Are there fees for Powering Up, Powering Down, or converting SBD to STEEM?
 
-No. None of these actions incur any fees. Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
+No. None of these actions incur any fees. 
+
+Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
 
 # Voting and Curating
 
