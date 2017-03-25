@@ -374,7 +374,7 @@ Every day, a fixed amount of money is allocated to the "rewards pool". These are
 Out of the new tokens that are generated:
 - 75% go to the rewards pool, which is split between authors and curators. 
 - 15% of the new tokens are awarded to holders of Steem Power. 
-- The remaining 10% is for witness pay.
+- The remaining 10% pays for the witnesses to power the blockchain.
 
 ## How is the reward pool split between authors and curators?
 
