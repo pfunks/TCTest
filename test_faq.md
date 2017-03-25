@@ -12,7 +12,7 @@ Steemit has redefined social media by building a living, breathing, growing soci
 
 ## How does Steemit differ from other social media sites?
 
-Unlike other social media sites where users spend their time adding value to a privately owned platform, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which when converted to Steem Power, give users rights and influence over the platform.
+Unlike other social media sites where users spend their time adding value to a privately owned platform, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which when converted to Steem Power, give users rights, influence, and stake in the platform.
 
 ## Does it cost anything to post, comment, or vote?
 
@@ -25,6 +25,8 @@ You can earn digital points on Steemit by:
 **Blogging/Posting** - By sharing your original and unique posts, you can get upvotes by community members. Depending on the upvotes you receive, you will get a portion of that day’s total payout.
 
 **Curating/Voting** - If you discover a post and upvote it before it becomes popular, you will receive a curation reward. The reward amount will depend on the amount you have vested, called Steem Power.
+
+**Investing** - Users can purchase STEEM or SBD coins directly through their wallet using Bitcoin (BTC). STEEM coins that are powered up to Steem Power earn a small amount of interest for holding.
 
 ## Where does the value come from?
 
