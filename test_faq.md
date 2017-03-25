@@ -407,11 +407,11 @@ The amount that is shown next to a post is a "**Potential Payout**". This is an 
 
 Steem, Steem Power and Steem Dollars are the three forms of digital points plugged into the Steem blockchain:
 
-Steem - Steem is the most liquid form of currency in the platform. Steem can be converted into Steem Power, Steem Dollars, or traded. It is a cryptocurrency, similar to Bitcoin (https://en.wikipedia.org/wiki/Bitcoin).
+**Steem** - Steem is the most liquid form of currency in the platform. Steem can be converted into Steem Power, Steem Dollars, or traded. It is a cryptocurrency, similar to Bitcoin (https://en.wikipedia.org/wiki/Bitcoin).
 
-Steem Power - Steem Power is a measurement of how much influence a user can wield via Steemit. The more Steem Power a user holds, the more they may influence the value of the content on the network. It is important to note when a user decides to “Power Down” Steem Power, they will receive equal distributions of the Steem Power as Steem over 13 weeks.
+**Steem Power** - Steem Power is a measurement of how much influence a user can wield via Steemit. The more Steem Power a user holds, the more they may influence the value of the content on the network. It is important to note when a user decides to “Power Down” Steem Power, they will receive equal distributions of the Steem Power as Steem over 13 weeks.
 
-Steem Dollars - Steem Dollars are a blockchain and market powered token designed to be pegged to $1 USD. Steem Dollars may be turned into STEEM before they can be “Powered Up” into Steem Power. Steem Dollars may also be used to buy things in marketplaces, such as Steemit.com and PeerHub.com.
+**Steem Dollars** - Steem Dollars are a blockchain and market powered token designed to be pegged to $1 USD. Steem Dollars may be turned into STEEM before they can be “Powered Up” into Steem Power. Steem Dollars may also be used to buy things in marketplaces, such as Steemit.com and PeerHub.com.
 
 ## Will 1 SBD always be worth $1 USD?
 
