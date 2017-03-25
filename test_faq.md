@@ -514,13 +514,21 @@ Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchang
 
 This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. If you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you from up-voting everything you see.
 
-## What is voting weight?
+## How many times can I vote without depleting my voting power?
 
-Users can chose to vote with less than 100% of their voting weight. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
+You can use up to 40 full strength votes within a 24 hour period without depleting your voting power.
 
-## How often can I vote without depleting my voting power?
+## Can I vote with less than 100% of my voting strength?
 
-You can use up to 40 100% weight votes within a 24 hour period without depleting your voting power.
+Users can chose to vote with less than 100% of their voting strength. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
+
+## How do I vote with less than 100% voting strength?
+
+New users can only upvote and downvote with 100% voting strength. Once you reach a certain amount of Steem Power, you will start to see a vote slider appear when you vote.
+
+<img src="https://www.steemimg.com/images/2016/09/28/Voting_slider8d9ba.png">
+
+You can use the slider to adjust the weight of your vote, between 1% and 100% voting weight.
 
 ## Where can I check my voting power?
 
@@ -529,14 +537,6 @@ You can view your current voting power using third party tools such as https://s
 ## Do both upvotes and downvotes use the same amount of voting power?
 
 Yes.
-
-## How do I vote with less than 100% voting weight?
-
-New users can only upvote and downvote with 100% voting weight. Once you reach a certain amount of Steem Power, you will start to see a vote slider appear when you vote.
-
-https://www.steemimg.com/images/2016/09/28/Voting_slider8d9ba.png
-
-You can use the slider to adjust the weight of your vote, between 1% and 100% voting weight.
 
 ## What determines how much of the curation reward goes to the author versus curators?
 
