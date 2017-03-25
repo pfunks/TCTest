@@ -335,8 +335,7 @@ Yes, but the photo must be resized before it is uploaded into the Steemit.com po
 
 When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order that it shows up in the list depends on how much the post was promoted for. Posts with a higher promoted amount will show up first.
 
-Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SBD to @null, the Steem blockchain removes them from the currency supply.
-https://steemit.com/steemit/@steemitblog/introducing-promoted-content
+Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SBD to @null, the Steem blockchain removes them from the currency supply. Details can be found in this <a href="https://steemit.com/steemit/@steemitblog/introducing-promoted-content">official post</a>.
 
 You can promote your own posts, or posts that you like from other users.
 
