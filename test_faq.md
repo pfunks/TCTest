@@ -268,12 +268,13 @@ You can use up to 5 tags per post.
 ## How do I format text in Markdown?
 
 Some common markdown syntax is:
-`**bold**` **bold**
-`_italics_` _italics_
-`~~cross out~~` ~~cross out~~
+- `**bold**` **bold**
+- `_italics_` _italics_
+- `~~cross out~~` ~~cross out~~
 
 Text can be sized using:
-```# H1
+```
+# H1
 ## H2
 ### H3
 #### H4
@@ -284,7 +285,8 @@ Text can be sized using:
 #### H4
 
 Lists can be made using:
-```- Item 1
+```
+- Item 1
 - Item 2
 - Item 3
 ```
