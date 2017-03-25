@@ -508,6 +508,10 @@ No. None of these actions incur any fees.
 
 Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
 
+## How long does it take to transfer STEEM or SBD tokens between users?
+
+Transfers of tokens between new users typically take 3 seconds.
+
 # Voting and Curating
 
 ## What is my voting power?
