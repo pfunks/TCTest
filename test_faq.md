@@ -42,11 +42,11 @@ By analogy, Steem is a game system where users compete for attention and rewards
 
 Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the norm for most users. 
 
-Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followings, making connections with other users through commenting, and developing a reputation for producing high quality content.
+Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followings, making connections with other users, and developing a reputation for producing high quality content.
 
-It is best not to focus on the rewards when you are first starting out, and work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards will likely increase.
+It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards will likely increase.
 
-# Account Management
+# Accounts
 
 ## How do I create an account?
 
@@ -58,19 +58,19 @@ You will need to supply your email and phone number.
 
 ## Why do I need to supply my email and phone number?
 
-To create an account on the blockchain, it costs STEEM coins. When you create an account through Steemit.com, Steemit, Inc. is supplying the STEEM to pay for the account creation fee. In order to prevent users from abusing the free signup and creating multiple accounts, they need to be able to verify that each user is only signing up for one account.
+To create an account on the blockchain, it costs STEEM tokens. When you create an account through Steemit.com, Steemit, Inc. is supplying the STEEM tokens to pay the account creation fee. In order to prevent users from abusing the paid-for signup and creating multiple accounts, they need to be able to verify that each user is only signing up for one account.
 
 ## Can I create a Steem account without an email and phone number?
 
-The only way to have an account created via Steemit.com is to supply your email and phone number. If you are willing to pay your own signup fee though, then there are other ways to create a new account on the blockchain.
-
-If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
-
-There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account
+The only way to have an account created directly via Steemit.com is to supply your email and phone number. It is possible to have an account created on the blockchain through other means though, and use it on Steemit.com. 
 
 ## Can I create multiple accounts?
 
-Users are only allowed to create one free account through Steemit.com, but they are allowed to create as many blockchain accounts as they want, if they pay their own account creation fee. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
+Users are only allowed to create one paid-for account through Steemit.com, but they are allowed to create as many blockchain accounts as they want, as long as they pay their own account creation fee for the additional accounts.
+
+## What are other ways to create an account on the blockchain besides using Steemit.com?
+
+If you are willing to pay your own signup fee, then there are other ways to create a new account on the blockchain. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
 
 There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account.
 
