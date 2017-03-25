@@ -80,7 +80,7 @@ Ask for help in the Steemit chat #help channel.
 
 ## What happens if my email or phone number changes?
 
-Currently there is no way to change the email or phone number that is linked to your account. Once your account is created though, you can continue to use it even if the email or phone number linked to the account has changed.
+Currently there is no way to change the email or phone number that is linked to your account. Once your account is created though, you can continue to use it even if the email or phone number that is linked to the account has changed.
 
 ## Can I delete or deactivate my account?
 
@@ -90,7 +90,7 @@ Accounts can not be deactivated or deleted. The account along with all of its ac
 
 ## Is there an Etiquette Guide for Steemit?
 
-There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required that anyone follow the suggestions in the guide, they are standards that many users in the community chose to follow.
+There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required to follow the suggestions in the guide, they are standards that many users in the community chose to follow.
 
 ## Am I required to verify my identity?
 
