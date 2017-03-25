@@ -702,7 +702,7 @@ The "Delegated Proof of stake" model of using witnesses instead of miners allows
 
 The original launch of Steem was on March 23, 2016 via <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. There was a bug found in the original code though, and a majority of the stakeholders agreed that it would be easier to fix via a re-launch than a hardfork. The blockchain was reset and officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
 
-## How often does the Steem blockchain produce a block?
+## How often does the Steem blockchain produce a new block?
 
 The Steem blockchain produces a new block every 3 seconds.
 
