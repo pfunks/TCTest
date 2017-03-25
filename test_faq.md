@@ -455,9 +455,9 @@ The price of STEEM is based on the supply and demand of the token, determined by
 
 ## How do I get more Steem Power?
 
-If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click Power Up to turn it into Steem Power.
+If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click "Power Up" to turn them into Steem Power.
 
-If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase using Bitcoin (BTC) or another cryptocurrency. You may purchase BTC on various exchanges. A couple popular Bitcoin exchanges are Coinbase.com, and Localbitcoins.com. 
+If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase using Bitcoin (BTC) or another cryptocurrency. You may purchase BTC on various exchanges, such as Coinbase.com or Localbitcoins.com. 
 
 Once you have your bitcoin:
 - Click “Buy Steem” from the main menu in the top right corner of Steemit.com.
