@@ -526,9 +526,9 @@ Yes. Users can chose to vote with less than 100% of their voting strength. Votin
 
 New users can only upvote and downvote with 100% voting strength. Once you reach a certain amount of Steem Power, you will start to see a vote slider appear when you vote.
 
-<img src="https://www.steemimg.com/images/2016/09/28/Voting_slider8d9ba.png">
+<img src="https://steemitimages.com/DQmQ8XHVcZKfCG8H2uqFJ3JrDRVxH7TuTV1157fZzJ4bgGS/image.png">
 
-You can use the slider to adjust the weight of your vote, between 1% and 100% voting weight.
+You can use the slider to adjust the weight of your vote, between 1% and 100% voting strength.
 
 ## Where can I check my voting power?
 
