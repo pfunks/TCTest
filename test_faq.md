@@ -558,8 +558,6 @@ Yes. You can earn curation rewards from upvoting both posts and comments!
 
 No. Since downvoting reduces the rewards on a post/comment, it does not earn curation rewards.
 
-## What is the formula used to calculate curation rewards?
-
 ## Why don't my upvotes have an effect on a post's rewards?
 
 Larger stakeholders have more say in how the rewards are divided.
