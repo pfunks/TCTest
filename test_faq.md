@@ -566,6 +566,8 @@ Even though your vote may not have a noticable effect, when it gets added in alo
 
 ## Is there a way to make my votes count for more?
 
+Yes. The more Steem Power you have, the more influence your votes will have.
+
 The platform does not require that anybody purchase SP in order to participate, and there are many users who have become successful on the platform without investing any of their own money. If you would like to increase your voting stake though, then you have the option of purchasing more Steem Power through your Steemit wallet.
 
 ## What are the valid reasons for downvoting?
