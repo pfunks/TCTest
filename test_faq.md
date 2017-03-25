@@ -390,7 +390,7 @@ If there is $70,000 in the rewards pool for the week - then that $70,000 is spli
 
 Posts and comments remain active for approximately 7 days. At the end of the 7 days, there is a brief period where the payout can be adjusted (up/down). Once that period is over, then you will see the payment show up in your wallet.
 
-## Why Do the Earnings for My Post Go Up/Down?
+## Why do the earnings for my post go up/down?
 
 The amount that is shown next to a post is a "**Potential Payout**". This is an estimated value of how much money the post will make based on the votes that have occurred so far. Until the payout window closes though, this value can go up or down.
 
