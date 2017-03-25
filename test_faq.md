@@ -333,16 +333,16 @@ Yes, but the photo must be resized before it is uploaded into the Steemit.com po
 
 ## What does "Promoting" a post do?
 
-When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order it shows up depends on how much the post received. Posts with a higher promoted amount will show up first.
+When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order that it shows up in the list depends on how much the post was promoted for. Posts with a higher promoted amount will show up first.
 
-Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SD to @null, Steem removes them from the currency supply.
+Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SBD to @null, the Steem blockchain removes them from the currency supply.
 https://steemit.com/steemit/@steemitblog/introducing-promoted-content
 
-You can promote your own posts, or posts that you like from from your friends or other users.
+You can promote your own posts, or posts that you like from other users.
 
 ## How do I promote a post?
 
-At the bottom of each post is a button to "Promote". After clicking the button, type he number of Steem Dollars you want to send and click “PROMOTE”. The operation will require your Active or Owner key.
+At the bottom of each post is a button to "Promote". After clicking the button, type the number of Steem Dollars that you want to spend and click “PROMOTE”. The operation will require your Active or Owner key.
 
 This action cannot be undone!
 
