@@ -6,17 +6,17 @@
 
 ## What is Steemit.com?
 
-Steemit is a social network that empowers people for their contributions by rewarding them for their time, effort and creativity through digital points called Steem.
+Steemit is a social network that empowers people for their contributions by rewarding them for their time, effort and creativity through digital points called STEEM.
 
-Steemit has redefined social media by building a living, breathing, growing social economy; a “small town” community where users are getting rewarded for their voice, regardless of race, religion, gender or bias.
+Steemit has redefined social media by building a living, breathing, growing social economy; a “small town” community where users are getting rewarded for their voice.
 
 ## How does Steemit differ from other social media sites?
 
-Steemit differs entirely from social media giants like Facebook, Reddit and Twitter because it is public and decentralized. Entrepreneurs are beginning to build side apps off the Steem blockchain and we encourage it; through building our thriving community and enhancing the foundation of others, we are changing the way people use and think about the internet.
+Unlike other social media sites where users spend their time adding value to a platform owned by private corperations, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which can converted to Steem Power, giving users rights and influence over the platform.
 
 ## Does it cost anything to post, comment, or vote?
 
-It is free to post, comment, and upvote all content on Steemit.com. You might even get paid for it!
+No. It is free to post, comment, and upvote all content on Steemit.com. You might even get paid for it!
 
 ## Can I earn digital points on Steemit? How?
 
