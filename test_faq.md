@@ -263,11 +263,16 @@ All tags must be lowercase letters, and hyphenated words may include one dash.
 
 ## How many tags can I use?
 
-You can choose up to 5 tags per post. 
+You can use up to 5 tags per post. 
 
 ## How do I format text in Markdown?
 
-A third-party guide describing the common markdown formatting syntax can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.
+Some common markdown syntax is:
+- `**bold**` **bold**
+- `__italics__` __italics__
+- `~~cross out~~` ~~cross out~~
+
+For more advanced formatting, a third-party guide describing the common markdown formatting syntax can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.
 
 ## If posting in a language other than English, how will I get recognized?
 
