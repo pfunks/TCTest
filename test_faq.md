@@ -28,6 +28,10 @@ You can earn digital points on Steemit by:
 
 **Investing** - Users can purchase STEEM or SBD coins directly through their wallet using Bitcoin. STEEM coins that are powered up to Steem Power earn a small amount of interest for holding.
 
+## Where do the tokens come from?
+
+Steem uses pre-determined mathematical formulas to determine how many new points it will issue to users each day, and the Steem network continually creates digital points to reward content creators and curators (for voting on blog posts) at this set and specific rate. Some of the newly-created points are transferred to users who add value to Steemit by blogging, commenting, and voting on other people's blog posts. The remainder is distributed to holders of Steem Power and the witnesses that power the blockchain.
+
 ## Where does the value come from?
 
 At its root, Steem is simply a points system similar to other arcade style points systems, however, because this points system is blockchain based, the points are traded on cryptocurrency markets. The speculation that occurs on these markets makes the value of the points go up and down in value based on the supply and demand of the tokens.
