@@ -512,7 +512,7 @@ Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchang
 
 ## What is my voting power?
 
-This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. If you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you up-voting everything you see.
+This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. If you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you from up-voting everything you see.
 
 ## What is voting weight?
 
