@@ -468,7 +468,7 @@ You can also purchase STEEM and Steem Power using Bitshares or Ether using the s
 
 ## What are Vests?
 
-Vests are a unit of measurement for the amount of Steem Power someone has. A vest is a very small amount, so often SP holdings are measured in "millions of vests" or MV.
+Vests are a unit of measurement for the amount of Steem Power a user has. Since a single 'vest' is a _very_ small amount of Steem Power, often SP holdings are measured in "millions of vests" or MV.
 
 ## How can I withdraw my STEEM or SBD coins?
 
