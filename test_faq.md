@@ -462,9 +462,9 @@ If you don’t already have STEEM or Steem Dollars in your wallet, you can purch
 Once you have your bitcoin:
 - Click “Buy Steem” from the main menu in the top right corner of Steemit.com.
 - Seelct whether you want to buy STEEM or Steem Power.
-- Send the amount you want to purchase to the wallet address on the screen.
+- Send the amount of Bitcoins you want to use to the wallet address on the screen.
 
-You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting the alternate currency from the dropdown on the "Buy Steem" page.
+You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting "alternate currency" from the dropdown on the "Buy Steem" page.
 
 ## What are Vests?
 
