@@ -472,9 +472,9 @@ Vests are a unit of measurement for the amount of Steem Power a user has. Since 
 
 ## How can I withdraw my STEEM or SBD coins?
 
-There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Please use the guides below at your own risk. 
+There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use the guides below at your own risk. 
 
-If you use any of these methods, it is recomended that you first try using a small amount to verify that it works before withdrawing a larger amount.
+It is recomended that you first try using a small amount, to verify it works before withdrawing a larger amount.
 
 #### Sell Steem Dollars via Poloniex
 https://steemit.com/steemit/@ash/steemit-how-to-sell-steem-dollars-via-poloniex-newbie-friendly
