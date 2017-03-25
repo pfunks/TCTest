@@ -104,7 +104,7 @@ Many users also like to post a photo or a video which shows them holding up a sh
 
 These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest - whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
 
-<a href="https://steemd.com/distribution">steemd.com</a> uses a slightly different system:
+<a href="https://steemd.com/distribution">Steemd.com</a> uses a slightly different system based on the number of Steem Power vests a user has:
 
 <img src="https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png">
 
@@ -165,11 +165,13 @@ You can also view the same information for other users by clicking on their acco
 
 Your wallet will show you how many STEEM, Steem Power, and SBD tokens you have in your account. It will also show you how many of your STEEM and SBD tokens are being held in your savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page will show any STEEM to SBD conversions that are in progress, as well as the status of any power-downs that are in progress. It also shows an estimated value of all the coins in your account, based on the recent market prices of STEEM and SBD. 
 
-## Can I receive notifications when I get votes?
+## Will I receive notifications?
 
-Currently, there are no options to receive notifications for votes directly on Steemit.com. But, Steemit does have notifications for comments, replies, and mentions.
+When there is new activity in your feed, or if you receive a reply from another user, you will receive a notification via your account menu. It will show a little red number indicating how many new events have occured.
 
-There is a third-party application https://steemstats.com/, developed by @jesta, which has an option to set up notifications on your computer.
+Steemit also allows you to receive notifications when users mention you in a comment or post.
+
+Currently, there are no options to receive notifications for votes directly on Steemit.com. But, there is a third-party application https://steemstats.com/, developed by @jesta, which has an option to set up additional notifications on your computer.
 
 ## What is shown in my profile?
 
