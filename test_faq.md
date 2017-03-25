@@ -423,7 +423,7 @@ If you convert SBD to STEEM via your wallet, the blockchain will process the tra
 
 ## Is there a way for me to convert my SBD to STEEM without waiting 3.5 days?
 
-If you go to the internal "Market", found in the main menu, you can exchange your SBD for STEEM in real-time at the current market price.
+Yes. If you go to the internal "Market", found in the main menu, you can exchange your SBD for STEEM in real-time at whatever the current market price is.
 
 ## Can I sell goods and services on Steemit?
 
