@@ -453,12 +453,6 @@ You cannot sell items directly on Steemit.com, but you can list them on the thir
 
 The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a share of stock is determined.
 
-## Should I "Power Up" or withdraw my liquid earnings?
-
-Everyone has different priorities. Some may want to power up to increase their voting influence and curation rewards. Others may want to cash out. It’s strictly a personal choice.
-
-If you believe Steemit has the potential for significant growth, you might think it wise to power up. Not only will you immediately gain more influence in the network, but it also has the potential to increase in value.
-
 ## How do I get more Steem Power?
 
 If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click Power Up to turn it into Steem Power.
