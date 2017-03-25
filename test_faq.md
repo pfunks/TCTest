@@ -427,7 +427,7 @@ Yes. If you go to the internal "Market", found in the main menu, you can exchang
 
 ## Can I sell goods and services on Steemit?
 
-You cannot sell items directly on Steemit.com, but you can list them on the third-party website https://www.peerhub.com/. You can accept payment in Steem Dollars or STEEM, and have the option to advertise your items through Steemit blog posts.
+You cannot sell items directly on Steemit.com, but you can list them on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit blog posts.
 
 ## What is Powering Down and Powering Up?
 
