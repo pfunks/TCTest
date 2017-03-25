@@ -26,13 +26,13 @@ You can earn digital points on Steemit by:
 
 **Curating/Voting** - If you discover a post and upvote it before it becomes popular, you will receive a curation reward. The reward amount will depend on the amount you have vested, called Steem Power.
 
-**Investing** - Users can purchase STEEM or SBD coins directly through their wallet using Bitcoin (BTC). STEEM coins that are powered up to Steem Power earn a small amount of interest for holding.
+**Investing** - Users can purchase STEEM or SBD coins directly through their wallet using Bitcoin. STEEM coins that are powered up to Steem Power earn a small amount of interest for holding.
 
 ## Where does the value come from?
 
 At its root, Steem is simply a points system similar to other arcade style points systems, however, because this points system is blockchain based, the points are traded on cryptocurrency markets. The speculation that occurs on these markets makes the value of the points go up and down in value based on the supply and demand of the tokens.
 
-By analogy, Steem is a game system for content, where the rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
+By analogy, Steem is a game system where users compete for attention and rewards by creating content and adding value to the platform. The rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
 ## Why are my blogs posts not making much money?
 
