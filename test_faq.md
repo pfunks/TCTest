@@ -431,9 +431,9 @@ You cannot sell items directly on Steemit.com, but you can list them on the thir
 
 ## What is Powering Down and Powering Up?
 
-**Powering Down** - If you have Steem Power, you can begin to Power Down to obtain Steem. The system will transfer 1/13 of your Steem Power, to Steem each week for three months (13 weeks).
+**Powering Down** - If you have Steem Power, you can begin to Power Down to obtain Steem. The system will transfer 1/13 of your Steem Power to STEEM each week, for three months (13 weeks).
 
-**Powering Up** - If you wish to gain more influence in the Steem network, you must increase your Steem Power. Powering Up is the process of instantaneously turning your Steem into Steem Power.
+**Powering Up** - If you have STEEM tokens, you can power them up to Steem Power to gain additional influence on the site. Steem Power also increases the amount of curation rewards and interest that you can earn via the platform.
 
 ## What can I do with my STEEM tokens?
 
@@ -451,7 +451,7 @@ You cannot sell items directly on Steemit.com, but you can list them on the thir
 
 ## What determines the price of STEEM?
 
-Much like how the price of a stock goes up and down, the value of STEEM varies, determined by buyers and sellers on exchanges.
+The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a share of stock is determined.
 
 ## Should I "Power Up" or withdraw my liquid earnings?
 
