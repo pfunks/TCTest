@@ -520,7 +520,7 @@ You can use up to 40 full strength votes within a 24 hour period without depleti
 
 ## Can I vote with less than 100% of my voting strength?
 
-Users can chose to vote with less than 100% of their voting strength. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
+Yes. Users can chose to vote with less than 100% of their voting strength. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
 
 ## How do I vote with less than 100% voting strength?
 
