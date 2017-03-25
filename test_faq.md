@@ -419,9 +419,7 @@ The market value of SBD is dictated by the supply and demand of the coin. It is 
 
 ## How do SBD to STEEM conversions work?
 
-If you convert SBD to STEEM via your wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with "approximately 1 USD worth of STEEM" tokens. The "approximately 1 USD worth of STEEM" is based on the average STEEM price over the 3.5 days, using the price feeds produced by the witnesses. 
-
-There is also a condition in the blockchain that under severe market conditions where the SBD debt ratio exceeds 10% of the STEEM market-cap, the conversions can result in less than $1 USD worth of STEEM.
+If you convert SBD to STEEM via your wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with "approximately 1 USD worth of STEEM" tokens. The "approximately 1 USD worth of STEEM tokens" is based on the average STEEM price over the 3.5 days, using the price feeds produced by the witnesses. Depending on the price fluxuations during the 3.5 days, it is possible to end up with more or less than 1 USD worth of STEEM per SBD at the end of the conversion.
 
 ## Is there a way for me to convert my SBD to STEEM without waiting 3.5 days?
 
