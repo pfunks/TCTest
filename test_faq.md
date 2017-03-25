@@ -245,7 +245,7 @@ Each time you create a new post, you must reselect your option if you do not wan
 
 ## Can I delete something I posted?
 
-The blockchain will always contain the full edit history of a post, but if you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace everything in it with blank content.
+The blockchain will always contain the full edit history of a post, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com though, you can edit the post and replace it with blank content.
 
 ## What are tags?
 
