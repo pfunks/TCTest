@@ -645,9 +645,8 @@ Every time another user upvotes one of your posts or comments, it increases your
 
 ## What causes my reputation score to go down?
 
-The only way for your reputation score to go down is to be downvoted by another user.
+The only way for your reputation score to go down is to be downvoted by another user. Not all downvotes will cause a reputation loss though.
 
-Not all downvotes will cause a reputation loss though.
 - Downvotes from users with a lower reputation score than you will not hurt your score. 
 - If your post or comment that was downvoted still received more upvotes than downvotes (measured in Steem Power vests), then the net effect on your reputation score will still be positive.
 
