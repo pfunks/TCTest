@@ -672,11 +672,11 @@ Yes you can use the share button to share on Facebook, Twitter or Linkedin. You 
 
 ## What is a blockchain?
 
-A public ledger of all transactions ever executed. It is essentially a distributed database where pieces of information are added in a sequence of small blocks, hence the name “block-chain.”
+A blockhchan is a public ledger of all transactions ever executed. All of the transactions and data are stored in a distributed database. Each time the database is updated, all of updates are done together in a batch called a 'block'. Each time a new block is produced/added, it is appended on to all of the previous blocks - hence the name "blockchain".
 
 ## What is the Steem blockchain?
 
-The Steem blockchain is an open source and publicly accessible database, that records all posts and votes, and distributes rewards across the network.
+The Steem blockchain is the publicly accessible distributed database, which records all posts and votes, and distributes the rewards across the network. It is where all of the content and voting data is stored, and it is where all of the reward calculations and payouts are performed.
 
 ## What is the difference between Steem and Steemit?
 
