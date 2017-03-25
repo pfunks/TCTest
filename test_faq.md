@@ -94,15 +94,15 @@ There are no official rules for participating on Steemit.com, but one of the use
 
 ## Am I required to verify my identity?
 
-Verfication is a process where you give evidence to show that you are the person that you claim to be.  This is to reduce fraud and people impersonating well known figures. If you would like to remain anonymous, that is perfectly fine, but if you claim to be someone specific, the community will expect that you verify you are who you say you are.
+Verfication is a process where users give evidence to show that they are the person that they claim to be.  This is to reduce fraud and people impersonating well known figures. If you would like to remain anonymous, that is perfectly fine, but if you claim to be someone specific, the community will expect that you verify that you are who you say you are.
 
-There are a number of ways of doing this. The most common way to verify your identity is by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site, etc. You can also share a link to your Steemit profile through your other verified social media accounts, such as Twitter. LinkedIn, or Facebook. 
+There are a number of ways to do this. The most common way to verify your identity is by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site, etc. You can also share a link to your Steemit profile through other verified social media accounts, such as Twitter. LinkedIn, or Facebook. 
 
-Many users also like to post a photo or a video which shows them holding up a sheet of paper with the current date and their user name handwritten on it. This is a greaty way to add a personal touch to your verification.
+Many users also like to post a photo or a video which shows them holding up a sheet of paper with the current date and their Steemit user name handwritten on it. This is a greaty way to add a personal touch to your verification.
 
 ## What are Whales, Dolphins and Minnows?
 
-These are terms that people use to describe Steemit users with different amounts of Steem/SP.  There are no formal definitions.  As the names suggest whales have the largest amount of SP, followed by dolphins in the middle and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and influence on the platform.
+These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest - whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
 
 Steemd uses a slightly different system which you can see at https://steemd.com/distribution:
 https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png
