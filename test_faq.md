@@ -472,26 +472,26 @@ Vests are a unit of measurement for the amount of Steem Power a user has. Since 
 
 ## How can I withdraw my STEEM or SBD coins?
 
-There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use the guides below at your own risk. 
+There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Please use the guides below at your own risk. 
 
 If you use any of these methods, it is recomended that you first try using a small amount to verify that it works before withdrawing a larger amount.
 
-## Sell Steem Dollars via Poloniex
+#### Sell Steem Dollars via Poloniex
 https://steemit.com/steemit/@ash/steemit-how-to-sell-steem-dollars-via-poloniex-newbie-friendly
 
-## Withdraw Steem Dollars to a bitcoin address
+#### Withdraw Steem Dollars to a bitcoin address
 https://steemit.com/steem-help/@piedpiper/how-to-withdraw-your-steem-dollars-in-less-that-a-minute
 
-## Convert Steem Dollars to a country’s currency and withdraw to a bank account
+#### Convert Steem Dollars to a country’s currency and withdraw to a bank account
 https://steemit.com/tutorial/@beanz/how-to-get-my-usdteemit-money-into-my-bank-account
 
-## Convert Steem Dollars to bitpay debit card (USA ONLY)
+#### Convert Steem Dollars to bitpay debit card (USA ONLY)
 (need link)
 
-## Convert Steem Dollars to WIREX debit card (USD EURO & GBP Supported)
+#### Convert Steem Dollars to WIREX debit card (USD EURO & GBP Supported)
 https://steemit.com/money/@b0y2k/convert-your-steem-dollars-to-physical-money-to-spend-or-withdraw-anywhere
 
-## Convert STEEM to many other cryptocurrencies via ShapeShift
+#### Convert STEEM to many other cryptocurrencies via ShapeShift
 https://steemit.com/steemit/@shapeshiftio/official-announcement-shapeshift-has-added-steem-to-the-exchange
 
 ## Will I get a 1099 from Steemit?
