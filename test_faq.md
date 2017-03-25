@@ -165,11 +165,11 @@ You can also view the same information for other users by clicking on their acco
 
 Your wallet will show you how many STEEM, Steem Power, and SBD tokens you have in your account. It will also show you how many of your STEEM and SBD tokens are being held in your savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page will show any STEEM to SBD conversions that are in progress, as well as the status of any power-downs that are in progress. It also shows an estimated value of all the coins in your account, based on the recent market prices of STEEM and SBD. 
 
-## Will I receive notifications?
+## Will I receive notifications when there is activity with my account?
 
-When there is new activity in your feed, or if you receive a reply from another user, you will receive a notification via your account menu. It will show a little red number indicating how many new events have occured.
+When there is new activity in your feed, or if you receive a reply from another user, you will receive a notification via your account menu. It will show a little red number indicating how many new events have occured. It will also display a notification if there are any new transfers into your wallet.
 
-Steemit also allows you to receive notifications when users mention you in a comment or post.
+Steemit also allows you to subscribe to receive additional notifications when users mention you in a comment or post.
 
 Currently, there are no options to receive notifications for votes directly on Steemit.com. But, there is a third-party application https://steemstats.com/, developed by @jesta, which has an option to set up additional notifications on your computer.
 
