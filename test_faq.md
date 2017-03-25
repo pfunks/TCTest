@@ -40,11 +40,11 @@ By analogy, Steem is a game system where users compete for attention and rewards
 
 ## Why are my blogs posts not earning many tokens?
 
-Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the norm for most users. 
+Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the 'norm' for most users. 
 
 Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followings, making connections with other users, and developing a reputation for producing high quality content.
 
-It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards will likely increase.
+It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards should increase.
 
 # Accounts
 
@@ -58,7 +58,7 @@ You will need to supply your email and phone number.
 
 ## Why do I need to supply my email and phone number?
 
-To create an account on the blockchain, it costs STEEM tokens. When you create an account through Steemit.com, Steemit, Inc. is supplying the STEEM tokens to pay the account creation fee. In order to prevent users from abusing the paid-for signup and creating multiple accounts, they need to be able to verify that each user is only signing up for one account.
+To create an account on the blockchain, it costs STEEM tokens. When you create an account through Steemit.com, Steemit, Inc. is supplying the tokens to pay the account creation fee. In order to prevent users from abusing the paid-for signup and creating multiple paid-for accounts, they need to be able to verify that each user is only signing up for one account.
 
 ## Can I create a Steem account without an email and phone number?
 
