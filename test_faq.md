@@ -104,7 +104,7 @@ Many users also like to post a photo or a video which shows them holding up a sh
 
 These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest - whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
 
-Steemd uses a slightly different system which you can see at https://steemd.com/distribution:
+<a href="https://steemd.com/distribution">steemd.com</a> uses a slightly different system:
 
 <img src="https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png">
 
