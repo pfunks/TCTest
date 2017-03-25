@@ -590,7 +590,7 @@ With the current implementation, there is no difference between a downvote and a
 
 ## What are Steemit’s policies on plagiarism and spam?
 
-Plagiarized posts and spam are deemed as abuse and will be downvoted by community members. If you are posting or using someone else’s content, you must give them credit!
+If you are posting plagiarized content, you can get in legal trouble for violating copywrite laws. Plagiarized posts and spam are deemed as abuse and will be downvoted by community members. If you are posting or using someone else’s content, you must ensure that you have the rights to use the content, and properly reference the sources where you got the material from.
 
 ## Is it okay to use random pictures from the internet?
 
