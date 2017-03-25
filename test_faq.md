@@ -560,11 +560,9 @@ No. Since downvoting reduces the rewards on a post/comment, it does not earn cur
 
 ## Why don't my upvotes have an effect on a post's rewards?
 
-Larger stakeholders have more say in how the rewards are divided.
+A user with more SP is going to have a larger influence on the rewards than users with less SP. One vote from a user with a lot of SP can often have more of an effect than 100 votes from users with a small amount of SP.
 
-A user with more SP is going to have a larger influence on the way rewards are allocated compared to users with less SP. If you don't like how a particular user has voted, you can counter their vote by voting the opposite way. If they have more SP than you, then your counter will not have as big of an effect. One vote from a user with a lot of SP can often have more of an effect than 100 votes from users with a small amount of SP.
-
-Even though your vote may not have a noticable effect, when it gets added in along with all the other votes at the end of the payout period it can still effect the payout. Other users may upvote the post as well because they saw that you upvoted it, so your votes can have an indirect effect on the payout in this way.
+Even though your vote may not have a noticable effect, when it gets added in along with all the other votes at the end of the payout period, it can still effect the payout. It may cause more users to vote on the post too, because they saw that you upvoted it - so your votes can have an indirect effect on the payout in this way.
 
 ## Is there a way to make my votes count for more?
 
