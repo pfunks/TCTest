@@ -38,7 +38,7 @@ At its root, Steem is simply a points system similar to other arcade style point
 
 By analogy, Steem is a game system where users compete for attention and rewards by creating content and adding value to the platform. The rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
-## Why are my blogs posts not making much money?
+## Why are my blogs posts not earning many tokens?
 
 Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the norm for most users. 
 
