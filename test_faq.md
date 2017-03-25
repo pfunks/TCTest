@@ -12,7 +12,7 @@ Steemit has redefined social media by building a living, breathing, growing soci
 
 ## How does Steemit differ from other social media sites?
 
-Unlike other social media sites where users spend their time adding value to a platform owned by private corperations, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which can converted to Steem Power, giving users rights and influence over the platform.
+Unlike other social media sites where users spend their time adding value to a privately owned platform, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which when converted to Steem Power, give users rights and influence over the platform.
 
 ## Does it cost anything to post, comment, or vote?
 
