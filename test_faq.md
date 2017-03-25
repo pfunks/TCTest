@@ -269,7 +269,7 @@ You can use up to 5 tags per post.
 
 Some common markdown syntax is:
 - `**bold**` **bold**
-- `__italics__` __italics__
+- `_italics_` _italics_
 - `~~cross out~~` ~~cross out~~
 
 For more advanced formatting, a third-party guide describing the common markdown formatting syntax can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.
