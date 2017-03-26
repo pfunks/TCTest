@@ -6,45 +6,45 @@
 
 ## What is Steemit.com?
 
-Steemit is a social network that empowers people for their contributions by rewarding them for their time, effort and creativity through digital points called STEEM.
+Steemit is a social network which empowers people for their contributions by rewarding them for their time, effort and creativity through digital tokens called STEEM.
 
-Steemit has redefined social media by building a living, breathing, growing social economy; a “small town” community where users are getting rewarded for their voice.
+Steemit has redefined social media by building a living, breathing, and growing social economy; a community where users are getting rewarded for sharing their voice.
 
 ## How does Steemit differ from other social media sites?
 
-Unlike other social media sites where users spend their time adding value to a privately owned platform, Steemit is built on top of a public and decentralized blockchain. Users have the ability to earn digital STEEM coins, which when converted to Steem Power, give users rights, influence, and stake in the platform.
+Unlike other social media sites where users spend their time adding value to a central, corporate-owned or private platform, Steemit is built on top of a public and decentralized blockchain network called **Steem**. Users have the ability to earn digital STEEM and Steem Dollar tokens, and STEEM Power which gives users influence and stake in the platform.
 
 ## Does it cost anything to post, comment, or vote?
 
-No. It is free to post, comment, and upvote all content on Steemit.com. You might even get paid for it!
+No. It is free to post, comment, and vote on content on Steemit.com. You might even get paid for it!
 
-## Can I earn digital points on Steemit? How?
+## Can I earn digital tokens on Steemit? How?
 
-You can earn digital points on Steemit by:
+You can earn digital tokens on Steemit by:
 
-**Blogging/Posting** - By sharing your original and unique posts, you can get upvotes by community members. Depending on the upvotes you receive, you will get a portion of that day’s total payout.
+**Posting** - By sharing your posts, you can earn upvotes from community members. Depending on the upvotes you receive, you will get a portion of the ongoing Steem reward pool.
 
-**Curating/Voting** - If you discover a post and upvote it before it becomes popular, you will receive a curation reward. The reward amount will depend on the amount you have vested, called Steem Power.
+**Voting and curating** - If you discover a post and upvote it before it becomes popular, you can earn a curation reward. The reward amount will depend on the amount of STEEM Power you have.
 
-**Investing** - Users can purchase STEEM or SBD coins directly through their wallet using Bitcoin. STEEM coins that are powered up to Steem Power earn a small amount of interest for holding.
+**Investing** - Users can purchase STEEM or Steem Dollar tokens directly through the Steemit wallet using Bitcoin, Ether, or BitShares tokens. STEEM tokens that are powered up to STEEM Power earn a small amount of interest for holding.
 
 ## Where do the tokens come from?
 
-Steem uses pre-determined mathematical formulas to determine how many new points it will issue to users each day, and the Steem network continually creates digital points to reward content creators and curators (for voting on blog posts) at this set and specific rate. Some of the newly-created points are transferred to users who add value to Steemit by blogging, commenting, and voting on other people's blog posts. The remainder is distributed to holders of Steem Power and the witnesses that power the blockchain.
+Steem uses pre-determined mathematical formulas to determine how many new tokens it will issue to users each day, and the Steem network continually creates digital tokens to reward content creators and curators. Some of the newly-created tokens are transferred to users who add value to Steemit by posting, commenting, and voting on other people's posts. The remainder is distributed to holders of STEEM Power and the witnesses that power the blockchain.
 
 ## Where does the value come from?
 
-At its root, Steem is simply a points system similar to other arcade style points systems, however, because this points system is blockchain based, the points are traded on cryptocurrency markets. The speculation that occurs on these markets makes the value of the points go up and down in value based on the supply and demand of the tokens.
+At its root, Steem is simply a points system similar to other arcade style points systems, however, because this points system is blockchain-based, the points are traded on cryptocurrency markets as tokens. The speculation on these markets makes the value of the tokens go up and down based on their supply and demand.
 
-By analogy, Steem is a game system where users compete for attention and rewards by creating content and adding value to the platform. The rewards people earn are video game tokens that have real market value and are readily tradable for Bitcoin and USD. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
+By analogy, Steem is a game system where users compete for attention and rewards by bringing content and adding value to the platform. The rewards people earn are tokens that have real market value and are readily tradable. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
 
-## Why are my blogs posts not earning many tokens?
+## Why are my posts not earning many tokens?
 
-Steemit is not a "get rich quick" scheme. While it is possible to post content that goes "viral" quickly and earn a lot of rewards on a single post, that is not the 'norm' for most users. 
+Steemit is not a "get rich quick" scheme. While it is possible to post content that goes viral quickly and earn a lot of rewards on a single post, that is not typical for most users. 
 
-Most of the authors that you see earning high rewards are users that have spent a lot of time on the website building followings, making connections with other users, and developing a reputation for producing high quality content.
+Most of the authors that you see earning high rewards are users that have spent a lot of time in the network building followings, making connections with others, and developing a reputation for bringing high quality content.
 
-It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections with other users, and developing a good reputation. If you consistantly do a good job with these things, then you will eventually get noticed by the larger stakeholders, and your rewards should increase.
+It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections, and developing a good reputation. Consistency will pay off in the long run.
 
 # Accounts
 
@@ -54,29 +54,25 @@ Click on the "Sign Up" link at the top of Steemit.com to get started.
 
 ## What information do I need to provide in order to create an account?
 
-You will need to supply your email and phone number.
+You will need to provide your email and phone number.
 
-## Why do I need to supply my email and phone number?
+## Why do I need to provide my email and phone number?
 
-To create an account on the blockchain, it costs STEEM tokens. When you create an account through Steemit.com, Steemit, Inc. is supplying the tokens to pay the account creation fee. In order to prevent users from abusing the paid-for signup and creating multiple paid-for accounts, they need to be able to verify that each user is only signing up for one account.
+To create an account on the blockchain, it costs STEEM tokens. When you create an account through Steemit.com, Steemit Inc. is supplying the tokens to pay the account creation fee. In order to prevent users from abusing the paid-for signup and creating multiple accounts, we need to be able to verify that each user is only signing up for one account.
 
 ## Can I create a Steem account without an email and phone number?
 
-The only way to have an account created directly via Steemit.com is to supply your email and phone number. It is possible to have an account created on the blockchain through other means though, and use it on Steemit.com. 
-
-## Can I create multiple accounts?
-
-Users are only allowed to create one paid-for account through Steemit.com, but they are allowed to create as many blockchain accounts as they want, as long as they pay their own account creation fee for the additional accounts.
+The only way to have an account created via Steemit.com is to supply your email and phone number. Steem is an open and permissionless blockchain network however, therefore there are other ways to create a Steem account. Any Steem account can be used on Steemit.com
 
 ## What are other ways to create an account on the blockchain besides using Steemit.com?
 
-If you are willing to pay your own signup fee, then there are other ways to create a new account on the blockchain. If you are not sure how to do this, you can ask for help in the Steemit chat #help channel.
+If you are willing to pay your own signup fee, then there are other ways to create a new account on the blockchain. If you are not sure how to do this, you can ask for help in the <a href="https://steemit.chat/channel/help">Steemit.chat #help channel</a>.
 
-There is also a third-party tool <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonAteem</a> that will charge users BTC or LTC to create an account.
+There is also a third-party tool called <a href="https://steemit.com/steemit/@someguy123/anonsteem-create-anonymous-steem-accounts-without-social-media">AnonSteem</a> that accepts Bitcoin and Litecoin to anonymously create a Steem account.
 
 ## It is not letting me create an account with my phone number. What should I do?
 
-Ask for help in the Steemit chat #help channel.
+Ask for help in the <a href="https://steemit.chat/channel/help">Steemit.chat #help channel</a>.
 
 ## What happens if my email or phone number changes?
 
@@ -90,21 +86,21 @@ Accounts can not be deactivated or deleted. The account along with all of its ac
 
 ## Is there an Etiquette Guide for Steemit?
 
-There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required to follow the suggestions in the guide, they are standards that many users in the community chose to follow.
+There are no official rules for participating on Steemit.com, but one of the users @thecryptofiend has created an <a href="https://steemit.com/steemit/@thecryptofiend/the-complete-steemit-etiquette-guide-revision-2-0">Etiquette Guide</a> for the community. While it is not required to follow the suggestions in the guide, they are standards that many users in the community choose to follow.
 
 ## Am I required to verify my identity?
 
-Verfication is a process where users give evidence to show that they are the person that they claim to be.  This is to reduce fraud and people impersonating well known figures. If you would like to remain anonymous, that is perfectly fine, but if you claim to be someone specific, the community will expect that you verify that you are who you say you are.
+Verfication is a process where users give evidence to show that they are the person that they claim to be.  This is to reduce fraud and people impersonating known figures. If you would like to remain anonymous, that is perfectly fine. However if you claim to be someone specific, the community may expect that you verify you are who you say you are.
 
-There are a number of ways to do this. The most common way to verify your identity is by posting a link to your Steemit profile on a website which you are already known for running such as a blog, photography site, etc. You can also share a link to your Steemit profile through other verified social media accounts, such as Twitter. LinkedIn, or Facebook. 
+There are a number of ways to do this. The most common way to verify your identity is by posting a link to your Steemit profile on a website or social media account which you are already known for having such as Twitter, Facebook, LinkedIn, a blog, or photography site.
 
-Many users also like to post a photo or a video which shows them holding up a sheet of paper with the current date and their Steemit user name handwritten on it. This is a greaty way to add a personal touch to your verification.
+Many users also like to post a photo or a video which shows them holding up a sheet of paper with the current date and their Steem account name handwritten on it. This is a great way to add a personal touch to verifying.
 
-## What are Whales, Dolphins and Minnows?
+## What are whales, dolphins and minnows?
 
-These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest - whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective.  There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
+These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest, whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective. There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
 
-<a href="https://steemd.com/distribution">Steemd.com</a> uses a slightly different system based on the number of Steem Power vests a user has:
+<a href="https://steemd.com/distribution">Steemd.com</a> uses a slightly different system based on the number of STEEM Power vests a user has:
 
 <img src="https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png">
 
@@ -137,17 +133,17 @@ You can get to your account menu by clicking on the avatar icon in the top-right
 
 **Blog** - Here is where you go to see all of your posts and resteems. It is also where you go to see your profile page that is viewable by other users.
 
-**Comments** - Here is where you go to see all of the comments you have made to other's posts and comments.
+**Comments** - Here is where you go to see all of the comments and replies you have made.
 
 **Replies** - Here is where you go to see all replies other users have made to your posts and comments.
 
-**Wallet** - Here is where you go to see your wallet balances, make transfers, exchange STEEM/SBD, and Power Up.
+**Wallet** - Here is where you go to see your wallet balances, make transfers, exchange STEEM or Steem Dollars, and Power Up.
 
 **Change Password** - Here is where you go to change your password.
 
 **Settings** - Here is where you go to update your settings.
 
-**Logout** - Here is where you go to logout.
+**Logout** - If you'd like to logout.
 
 ## What do the Blog, Comments, Replies, Rewards links show?
 
@@ -157,13 +153,27 @@ You can get to your account menu by clicking on the avatar icon in the top-right
 
 **Replies** - Shows the replies you have received from other users, beginning with the most recent.
 
-**Rewards** - Shows the rewards you have recently received. These rewards are separated into “Author rewards” (for blog posts and comments) and “Curation awards” (for posts and comments you have voted on).
+**Rewards** - Shows the rewards you have recently received. These rewards are separated into “Author rewards” (for posts and comments) and “Curation awards” (for the posts and comments you have voted on).
 
 You can also view the same information for other users by clicking on their account name to visit their profile.
 
 ## What information is shown in my wallet?
 
-Your wallet will show you how many STEEM, Steem Power, and SBD tokens you have in your account. It will also show you how many of your STEEM and SBD tokens are being held in your savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page will show any STEEM to SBD conversions that are in progress, as well as the status of any power-downs that are in progress. It also shows an estimated value of all the coins in your account, based on the recent market prices of STEEM and SBD. 
+Your wallet shows how many STEEM and Steem Dollar tokens you have in your account, and how much STEEM Power it has. It also shows how many of your STEEM and Steem Dollar tokens are being held in the savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page shows any the progress of any STEEM to Steem Dollar conversions as well as the status of any power downs. It also shows an estimated value of all the tokens in your account, based on the recent market prices of STEEM and SBD. 
+
+## How do I transfer my STEEM or Steem Dollars into savings?
+
+Your savings balance is STEEM and SBD coins that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account is hacked. To transfer STEEM or SBD coins into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
+
+## How do I send money to another user?
+
+- From your wallet page, click the down arrow where your STEEM or Steem Dollars are displayed. 
+- In the drop-down menu, click 'Transfer'. 
+- Type the username of the account you want to send the STEEM or Steem Dollars to. Double and triple check spelling.
+- Enter the amount of STEEM or Steem Dollars to send.
+- Enter a memo to go along with the transaction (optional).
+- Click Submit.
+- You will be prompted for your password. You will need to enter your master password or active key.
 
 ## Will I receive notifications when there is activity with my account?
 
@@ -175,77 +185,61 @@ Currently, there are no options to receive notifications for votes directly on S
 
 ## What is shown in my profile?
 
-At the top of your profile is your display name and reputation score. Below your display name is the number of follwers you have, the number of posts and comments you have written, and the number of people you are following. It will also show the date that you created your account.
+At the top of your profile is your display name and reputation score. Below your display name is the number of followers you have, the number of posts and comments you have written, and the number of people you are following. It also shows the month and year when your account was created.
 
-You have the option to change your display name, as well as set additional information such as "about" information, your location, and a website through your settings page. You can also set your avitar image via your settings.
+You have the option to change your avatar and display name on the Settings page. There, you can set additional information such as "about" information, your location, and add a link to a website of your choosing.
 
-You can view your own profile by clicking on the link to your "Blog" in your account menu.
+You can view your own profile by clicking on the link to your Blog in your account menu.
 
-## How do I change my avitar image?
+## How do I change my avatar image?
 
-Your avitar image is set in your settings page. In order to update your avitar picture, you will need to host the image on a third party website such as http://imgsafe.org. Once your image is uploaded onto a third party website and you have the URL, enter the URL into your settings page and click "Update".
+Your avatar image is set in your Settings page. In order to update your avatar picture, you will need to host the image somewhere. This can be done by uploading it to a Steemit comment or post, or using a third-party image host such as <a href="http://postimage.io/">Postimage</a>.  Once your image is uploaded, copy its URL and paste it into the "Profile Picture URL" box. Then click the Update button and enter your password.
 
 ## How do I search for content?
 
-In the upper right corner, there is a search link where you can find posts using a keyword search.
+In the upper right corner of Steemit, there is a search link where you can find posts using a keyword search.
 
 There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
-
-## How do I send money to another user?
-
-- From your wallet page, click the down arrow where your STEEM or Steem Dollars are displayed. 
-- In the drop-down menu, click 'Transfer'. 
-- Type the username of the account you want to send the STEEM/Steem Dollars to.
-- Enter the amount of STEEM/Steem Dollars to send.
-- Enter a memo to go along with the transaction (optional).
-- Click Submit.
-- You will be prompted for your password. You will need to enter your Active or Owner key.
 
 ## How can I control whether I see "Not Safe For Work" (NSFW) content?
 
 By default, content that users have tagged as "NSFW" will be hidden, but a link will be shown to reveal the content.
 
-You can update your display preference via your settings so that NSFW content is always shown by default, or is completely hidden with no option to reveal.
+You can update your display preference with the Settings page so that NSFW content is always shown by default, remains hidden until clicked, or is completely hidden with no option to reveal.
 
 ## Can I see which users I have muted?
 
-Yes. This can be seen under your settings page.
+Yes. This can be seen under the Settings page.
 
 ## Can I see which users have muted me?
 
-No. This information is currently not presented via Steemit.com.
+No. This information is not presented on Steemit.com.
 
-## Can I see the list of users I am following and who is following me?
+## Can I see the list of users I am following, and who is following me?
 
-Yes. You can see the list of followers or people you are following by clicking on the links in your profile page.
-
-## How do I transfer my STEEM or SBD into savings?
-
-Your savings balance is STEEM and SBD coins that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account is hacked. To transfer STEEM or SBD coins into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
+Yes. You can see the list of followers or people you are following by clicking on the links on your profile page.
 
 ## What languages are supported?
 
-English is the primary language used on the SteemIt platform, but communities are forming around other languages.
+English is the most-used language used on the Steemit platform, but communities are forming that speak other languages.
 
 # Posting
 
 ## What can users upload to Steemit?
 
-Steemit users can upload anything they want, whether it be phrases, quotes, anecdotes, photos, videos, memes, songs; anything that adds value to the ecosystem and generates commentary or critique.
+Steemit users can upload anything they want, whether it be phrases, quotes, blogs, anecdotes, photos, videos, memes, songs, and more. It is an open platform meant to host and welcome any legal content.
 
-## What are the different choices for post rewards (50/50, Power Up 100%, Decline Payout)?
+## What are the different choices for post rewards (50%/50%, Power Up 100%, Decline Payout)?
 
-- **50/50** - This will pay you in 50% Steem Power, and 50% liquid STEEM / SBD. The amount of liquid STEEM vs. SBD that you receive will be based on network conditions at the time of payout. This is the default payout option.
+- **50%/50%** - This rewards in half STEEM Power, and half liquid STEEM / Steem Dollars. The amount of liquid STEEM vs. Steem Dollars that is rewarded is based on network conditions at the time of payout. This is the default payout option.
 
-- **Power Up 100%** - This will pay you in 100% Steem Power.
+- **Power Up 100%** - This option rewards the post in 100% STEEM Power.
 
-- **Decline Payout** - You will receive no payouts for posts with "Decline Payout" selected.
-
-Each time you create a new post, you must reselect your option if you do not want the default 50/50 payout option selected.
+- **Decline Payout** - Use this option to receive no post rewards. Upvotes will affect the post's position on the trending ranking but no rewards are paid from Steem's reward pool. Replies made to the post are still eligible for rewards.
 
 ## Can I delete something I posted?
 
-The blockchain will always contain the full edit history of a post, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com though, you can edit the post and replace it with blank content.
+The blockchain will always contain the full edit history of a post, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace it with blank content.
 
 ## What are tags?
 
