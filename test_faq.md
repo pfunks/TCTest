@@ -243,15 +243,15 @@ The blockchain will always contain the full edit history of a post, so it can ne
 
 ## What are tags?
 
-Tags are a way to categorize your content, so that othe readers can find it. The more relevant tags used, the more like-minded readers will come across your post.
+Tags are a way to categorize your content, so that others can find it. The more relevant the tags are to the post, the more like-minded people will come across it.
 
 ## What tags should I use?
 
-Try to use tags that are relevant to your post, and that will be popular for other readers to browse. For example, "mytriptoalaska" may be relevant to your post, but readers are probably not going to go searching for that. "vacation" would be a better choice for a tag in this case.
+Try to use tags that are relevant to your post, and that will be popular for other people to browse. For example, "mytriptoalaska" may be relevant to your post, but readers are probably not going to go searching for that. Using "travel" would be a better choice for a tag in this case.
 
 You can browse through commonly used tags using the "Explore" link, in the main menu.
 
-Be careful when choosing tags though. If your tags aren’t related to your post, you may get flagged for deceptive tagging.
+Be careful when choosing tags though. If your tags aren’t related to your post, you may get downvotes for mistagging.
 
 All tags must be lowercase letters, and hyphenated words may include one dash.
 
@@ -293,41 +293,45 @@ For more advanced formatting, a third-party guide describing the common markdown
 
 ## If posting in a language other than English, how will I get recognized?
 
-You can use language hashtags to help you to reach the audience that speaks your language. 
+You can use language-specific tags to help you to reach the audience that speaks your language. 
 
 Language-specific groups include:
 - Chinese = cn
 - German = deutsch
+- Spanish = spanish
 - Korean = kr
 - Russian = ru
-- Swedish = sv
 
 ## How often can I post?
 
-You are allowed to post as often as you like, within reasonable bandwidth limitations. The community may not find value in users that are posting too frequently though. Keep in mind what your audience will be interested in reading, so that you do not overwhelm your readers with too much content.
+You are allowed to post almost as often as you like. Currently, posts must be spaced 5 minutes apart. The community may not find value in users that are posting too frequently though. Keep in mind what your audience will be interested in viewing, so that you do not overwhelm your followers with too much content.
 
 ## How long can my post be?
 
-You can make your posts as long as you want, but consider how much people are going to be willing to read at one time. If you make your posts too long, readers may lose interest which may affect the amount of upvotes/rewards you recevive.
+Post sizes are limited to about 64,000 characters including formatting. This is ample for most posts. If writing blogs, consider how much people are willing to read at one time. If you make your posts too long, readers may lose interest which may affect the amount of upvotes and rewards you receive.
 
-## How do I add pictures to my blog posts?
+## How do I add images and photos to my blog posts?
 
-If you have the image copied to your clipboard, you can simply paste (`ctrl + v`) while in the posting editor, and your image will be uploaded into the post. You can also browse your harddrive for the image by clicking on the "selecting them" link from within the editor.
+You can browse your hard drive to add an image by clicking on the "selecting them" link from within the editor.
+
+If you have an image copied to your clipboard, you can simply paste (`ctrl + v`) while in the post/comment editor, and your image will be uploaded into your post or comment. Due to the file size of these pasted images, this method is only recommended for graphics. Photos (.JPG) should be uploaded from your disk.
+
+Pictures can also be hosted on an external site. Paste the image's web address into the editor and it will automatically be added.
 
 ## How do I add videos to my blog posts?
 
-To add a video to your blog post, simply paste the link to the video into the post. 
+To add a YouTube or Vimeo video to your blog post, simply paste the link to the video into the post. 
 
-You can also read this guide from @algimantas, which has more detailed instructions:
-https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in-steemit
+You can also read <a href="https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in-steemit">this guide from @algimantas</a>, which has more detailed instructions:
+
 
 ## Is there a way I can make my images smaller?
 
-Yes, but the photo must be resized before it is uploaded into the Steemit.com posting interface. One way to do this is to upload your photos to a third-party website like imgur.com.
+Yes, but the picture must be resized before it is uploaded into the Steemit.com editor. This can be done in your favorite photo editing software, or online by uploading to a third-party website that features editing such as imgur.com.
 
 ## What does "Promoting" a post do?
 
-When you make a blog post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order that it shows up in the list depends on how much the post was promoted for. Posts with a higher promoted amount will show up first.
+When you make a post, there is the option to promote it with Steem Dollars. It will then show up in the “Promoted” tab. The order that it appears in the list depends on how much the post was promoted for. Posts with a higher promoted amount will be higher than posts with less.
 
 Steem Dollars spent to promote a post are paid to the account @null, which nobody owns or controls. Once a user transfers SBD to @null, the Steem blockchain removes them from the currency supply. Details can be found in this <a href="https://steemit.com/steemit/@steemitblog/introducing-promoted-content">official post</a>.
 
@@ -335,58 +339,56 @@ You can promote your own posts, or posts that you like from other users.
 
 ## How do I promote a post?
 
-At the bottom of each post is a button to "Promote". After clicking the button, type the number of Steem Dollars that you want to spend and click “PROMOTE”. The operation will require your Active or Owner key.
-
-This action cannot be undone!
+At the bottom of each post is a button to "Promote". After clicking the button, type the number of Steem Dollars that you want to spend and click “PROMOTE”. The operation will require your master password or active key.
 
 # Comments
 
 ## Can I earn digital tokens for commenting?
 
-Yes, comments that are upvoted can earn rewards just like blog posts!
+Yes, comments that are upvoted can earn rewards just like posts!
 
 ## How often can I comment?
 
-There is a 20 second wait time in between comments to prevent spam.
+There is a 20 second wait time in between comments to limit spam.
 
 # Economics
 
 ## Where do the new STEEM tokens come from?
 
-Blockchains like Steem and Bitcoin produce new coins each time a block is produced. Unlike Bitcoin though, where all of the new coins go to the block producers (often called miners), the Steem blockchain allocates a majority of the new tokens to the users for participating in the platform.
+Blockchains like Steem and Bitcoin produce new tokens each time a block is produced. Unlike Bitcoin, where all of the new coins go to the block producers (called miners), the Steem blockchain allocates a majority of the new tokens to a reward fund. The reward fund the users for participating in the platform.
 
 ## How many new tokens are generated by the blockchain?
 
-Starting with hardfork 16, the Steem blockchain began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate has been decreasing at a rate of 0.01% every 250k blocks. It is set continue decreasing 0.01% every 250k blocks until it eventually reaches a rate of 0.95%, which will take approximately 20.5 years from the time hardfork 16 went into effect.
+Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, and will continue decreasing at this rate until the overall inflation rate reaches 0.95%. This will take approximately 20.5 years from the time hard fork 16 went into effect.
 
 ## What is the reward pool?
 
-Every day, a fixed amount of money is allocated to the "rewards pool". These are the coins that get distributed to authors and curators for posting and voting on content.
+Every day, a fixed amount of STEEM is allocated to the network reward fund, commonly called the "reward pool". These are the tokens that get distributed to authors and curators for posting and voting on content.
 
 ## How are the new tokens distributed?
 
 Out of the new tokens that are generated:
-- 75% go to the rewards pool, which is split between authors and curators. 
-- 15% of the new tokens are awarded to holders of Steem Power. 
+- 75% go to the reward pool, which is split between authors and curators. 
+- 15% of the new tokens are awarded to holders of STEEM Power. 
 - The remaining 10% pays for the witnesses to power the blockchain.
 
 ## How is the reward pool split between authors and curators?
 
-Up to 25% of a post's payout is awarded to curators (the people who upvoted the post) as a reward for discovering the content. The other 75% is awarded to the author. If curators vote for a post within the first 30 minutes of it being created, a portion of their curation reward is added to the author payout.
+Up to 25% of a post's payout is awarded to curators (the people who upvoted the post) as a reward for discovering the content. The other 75% is awarded to the author. If curators vote for a post within the first 30 minutes of it being created, a portion of their curation reward is added to the author payout. This portion is linear to the age of the post between 0 and 30 minutes. Therefore upvoting at 15 minutes old will donate half of your potential curation reward to the author.
 
 ## Will the rewards pool pay out more or less depending on who votes?
 
-When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is divided. The same amount of rewards will be paid out no matter what.
+When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what.
 
 If there is $70,000 in the rewards pool for the week - then that $70,000 is split across all of the active posts based on how many upvotes/downvotes they receive. If there is a post with a pending payout of $5000, then that means there is only $65,000 left to be paid to all the other posts.
 
-## When do I get paid?
+## When do I get paid?   <#####! Update as needed pending HF17 / UI !#####> 
 
-Posts and comments remain active for approximately 7 days. At the end of the 7 days, there is a brief period where the payout can be adjusted (up/down). Once that period is over, then you will see the payment show up in your wallet.
+Posts and comments remain active for 7 days. Once that period is over, then you will see the option to collect the payout, if any, in your wallet.
 
-## Why do the earnings for my post go up/down?
+## Why do the earnings for my post go up or down?
 
-The amount that is shown next to a post is a "**Potential Payout**". This is an estimated value of how much money the post will make based on the votes that have occurred so far. Until the payout window closes though, this value can go up or down.
+The amount that is shown next to a post is a "**Potential Payout**". This is an estimated value of how much money the post will make based on the votes that have occurred so far. Depending on various factors, this value can go up or down until the payout window closes:
 
 - If a post receives more upvotes, the potential payout of the post can go up.
 - If a post receives more downvotes, the potential payout of the post can go down.
@@ -397,37 +399,35 @@ The amount that is shown next to a post is a "**Potential Payout**". This is an 
 - If the price of STEEM goes up, the potential payout of all posts can go up.
 - If the price of STEEM goes down, the potential payout of all posts can go down.
 
-## What is the difference between STEEM, Steem Power, and Steem Dollars?
+## What is the difference between STEEM, STEEM Power, and Steem Dollars?
 
-STEEM, Steem Power and Steem Dollars are the three forms of digital points plugged into the Steem blockchain:
+**STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
 
-**STEEM** - STEEM is the most liquid form of currency in the platform. Steem can be converted into Steem Power, Steem Dollars, or traded. It is a cryptocurrency, similar to Bitcoin (https://en.wikipedia.org/wiki/Bitcoin).
+**STEEM Power** - STEEM Power (abbreviated SP) is a measurement of how much influence a user has in the Steem network. The more STEEM Power a user holds, the more they can influence the value of posts and comments. STEEM Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the STEEM weekly, over a 13 week period.
 
-**Steem Power** - Steem Power is a measurement of how much influence a user can wield via Steemit. The more Steem Power a user holds, the more they may influence the value of the content on the network. It is important to note when a user decides to “Power Down” Steem Power, they will receive equal distributions of the Steem Power as Steem over 13 weeks.
+**Steem Dollars** - Steem Dollars (commonly abbreviated SBD) are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM, and transferred to other accounts for commerce or exchange.  Steem Dollars may also be converted into STEEM in a process that takes 3.5 days. Steem Dollars can be used to buy things in marketplaces, such as PeerHub.com.
 
-**Steem Dollars** - Steem Dollars (SBD) are a blockchain and market powered token designed to be pegged to $1 USD. Steem Dollars may be turned into STEEM before they can be “Powered Up” into Steem Power. Steem Dollars may also be used to buy things in marketplaces, such PeerHub.com.
+## Will 1 Steem Dollar always be worth $1.00 USD?
 
-## Will 1 Steem Dollar always be worth $1 USD?
+The market value of SBD is dictated by the supply and demand of the coin. Therefore it is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions. However, the network's conversion feature serves as a mechanism to hold Steem Dollars within a small margin of the value of USD.
 
-The market value of SBD is dictated by the supply and demand of the coin. It is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions.
+## How do Steem Dollar to STEEM conversions work?
 
-## How do SBD to STEEM conversions work?
+If you convert Steem Dollars to STEEM via the Steemit wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with approximately $1 USD worth of STEEM tokens. The "approximately 1 USD worth of STEEM tokens" is based on the median STEEM price over the 3.5 days, using the price feeds from the Steem witnesses. Depending on price fluctuations during the 3.5 days it is possible to end up with more or less than $1 USD worth of STEEM per SBD at the end of the conversion, but the difference is generally minor.
 
-If you convert SBD to STEEM via your wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with "approximately 1 USD worth of STEEM" tokens. The "approximately 1 USD worth of STEEM tokens" is based on the average STEEM price over the 3.5 days, using the price feeds produced by the witnesses. Depending on the price fluxuations during the 3.5 days, it is possible to end up with more or less than 1 USD worth of STEEM per SBD at the end of the conversion.
+## Is there a way for me to convert my Steem Dollars to STEEM without waiting 3.5 days?
 
-## Is there a way for me to convert my SBD to STEEM without waiting 3.5 days?
-
-Yes. If you go to the internal "Market", found in the main menu, you can exchange your SBD for STEEM in real-time at whatever the current market price is.
+You can exchange them. Visit the internal Market, found in the main menu. There you can exchange your SBD for STEEM in real-time at whatever the current market price is.
 
 ## Can I sell goods and services on Steemit?
 
-You cannot sell items directly on Steemit.com, but you can list them on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit blog posts.
+You cannot sell items directly on Steemit.com, but you can list them on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
 
 ## What is Powering Down and Powering Up?
 
-**Powering Down** - If you have Steem Power, you can begin to Power Down to obtain Steem. The system will transfer 1/13 of your Steem Power to STEEM each week, for three months (13 weeks).
+**Powering Up** - If you have STEEM tokens, you can power them up to STEEM Power to get more voting influence on posts and comments. Having more STEEM Power also increases the amount of curation rewards and interest that you can earn. More SP also grants more influence on approving Steem witnesses.
 
-**Powering Up** - If you have STEEM tokens, you can power them up to Steem Power to gain additional influence on the site. Steem Power also increases the amount of curation rewards and interest that you can earn via the platform.
+**Powering Down** - If you have STEEM Power, you can Power Down to turn it into liquid STEEM. The system will transfer 1/13 of your STEEM Power to STEEM each week for about three months (13 weeks), starting 1 week from the time it is started. However, you will lose your influence in the network proportionally to how much is powered down, so think about it carefully. Power downs can be stopped at any time.
 
 ## What can I do with my STEEM tokens?
 
