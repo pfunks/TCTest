@@ -26,25 +26,25 @@ You can earn digital tokens on Steemit by:
 
 **Voting and curating** - If you discover a post and upvote it before it becomes popular, you can earn a curation reward. The reward amount will depend on the amount of STEEM Power you have.
 
-**Investing** - Users can purchase STEEM or Steem Dollar tokens directly through the Steemit wallet using Bitcoin, Ether, or BitShares tokens. STEEM tokens that are powered up to STEEM Power earn a small amount of interest for holding.
+**Investing** - Users can purchase STEEM or Steem Dollar tokens directly through the Steemit wallet using Bitcoin, Ether, or BitShares tokens. They are also available from other markets and exchanges including Poloniex, Bittrex, Shapeshift.io, and Changelly. STEEM tokens that are powered up to STEEM Power earn a small amount of interest for holding.
 
 ## Where do the tokens come from?
 
-Steem uses pre-determined mathematical formulas to determine how many new tokens it will issue to users each day, and the Steem network continually creates digital tokens to reward content creators and curators. Some of the newly-created tokens are transferred to users who add value to Steemit by posting, commenting, and voting on other people's posts. The remainder is distributed to holders of STEEM Power and the witnesses that power the blockchain.
+The Steem network continually creates digital tokens to reward content creators and curators. Some of the newly-created tokens are transferred to users who add value to Steemit by posting, commenting, and voting on other people's posts. The remainder is distributed to holders of STEEM Power and the witnesses that power the blockchain.
 
 ## Where does the value come from?
 
-At its root, Steem is simply a points system similar to other arcade style points systems, however, because this points system is blockchain-based, the points are traded on cryptocurrency markets as tokens. The speculation on these markets makes the value of the tokens go up and down based on their supply and demand.
+At its root, Steem is simply a points system. However, because this points system is blockchain-based, the points can be traded on markets as tokens. The speculation and investment in the market makes the value of the tokens go up and down based on their supply and demand.
 
-By analogy, Steem is a game system where users compete for attention and rewards by bringing content and adding value to the platform. The rewards people earn are tokens that have real market value and are readily tradable. It is similar to how someone playing a video game could obtain a rare item by playing the game. If they have the scarce item, then they could potentially sell it on video game item markets.
+By analogy, Steem is a game system where users compete for attention and rewards by bringing content and adding value to the platform. The rewards people earn are tokens that have real market value and are readily tradable. It is similar to how someone playing a video game could obtain a limited item or currency by playing the game. If the currency or items are transferable between users, then they can sell or buy them on game item markets.
 
-## Why are my posts not earning many tokens?
+## Why are my posts not earning as much as I expect?
 
-Steemit is not a "get rich quick" scheme. While it is possible to post content that goes viral quickly and earn a lot of rewards on a single post, that is not typical for most users. 
+Steemit is not a "get rich quick" scheme. While it is possible to post content that goes viral quickly and earn a lot of rewards on a single post, this is not typical for most users. 
 
 Most of the authors that you see earning high rewards are users that have spent a lot of time in the network building followings, making connections with others, and developing a reputation for bringing high quality content.
 
-It is best not to focus on the rewards when you are first starting out. Work on building a following, making connections, and developing a good reputation. Consistency will pay off in the long run.
+It is best to have realistic expectations, without focusing on rewards when you are first starting out. Work on building a following, making connections, and developing a good reputation. Consistency will pay off in the long run.
 
 # Accounts
 
@@ -54,7 +54,7 @@ Click on the "Sign Up" link at the top of Steemit.com to get started.
 
 ## What information do I need to provide in order to create an account?
 
-You will need to provide your email and phone number.
+You will need to provide your email address and phone number.
 
 ## Why do I need to provide my email and phone number?
 
@@ -76,7 +76,7 @@ Ask for help in the <a href="https://steemit.chat/channel/help">Steemit.chat #he
 
 ## What happens if my email or phone number changes?
 
-Currently there is no way to change the email or phone number that is linked to your account. Once your account is created though, you can continue to use it even if the email or phone number that is linked to the account has changed.
+Currently there is no way to change the email or phone number that is linked to your account.  Though once your account is created, you can continue to use it even if the email or phone number that is linked to the account has changed.
 
 ## Can I delete or deactivate my account?
 
@@ -239,7 +239,7 @@ Steemit users can upload anything they want, whether it be phrases, quotes, blog
 
 ## Can I delete something I posted?
 
-The blockchain will always contain the full edit history of a post, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace it with blank content.
+The blockchain will always contain the full edit history of posts and comments, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace it with blank content.
 
 ## What are tags?
 
@@ -289,7 +289,7 @@ Lists can be made using:
 - Item 2
 - Item 3
 
-For more advanced formatting, a third-party guide describing the common markdown formatting syntax can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>.
+For more advanced formatting, a guide describing the common markdown formatting syntax can be found here: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
 
 ## If posting in a language other than English, how will I get recognized?
 
@@ -363,7 +363,7 @@ Starting with the network's 16th hard fork in December 2016, Steem began creatin
 
 ## What is the reward pool?
 
-Every day, a fixed amount of STEEM is allocated to the network reward fund, commonly called the "reward pool". These are the tokens that get distributed to authors and curators for posting and voting on content.
+Every day, a fixed amount of STEEM is allocated to the network reward fund, commonly called the "reward pool." These are the tokens that get distributed to authors and curators for posting and voting on content.
 
 ## How are the new tokens distributed?
 
@@ -380,9 +380,9 @@ Up to 25% of a post's payout is awarded to curators (the people who upvoted the 
 
 When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what.
 
-If there is $70,000 in the rewards pool for the week - then that $70,000 is split across all of the active posts based on how many upvotes/downvotes they receive. If there is a post with a pending payout of $5000, then that means there is only $65,000 left to be paid to all the other posts.
+If there are $70,000 in the rewards pool for the week - then that $70,000 is split across all of the active posts based on the votes they receive. If there is a very successful post with a pending payout of $5000, then that means there is $65,000 left to be distributed to all the other posts.
 
-## When do I get paid?   <#####! Update as needed pending HF17 / UI !#####> 
+## When do I get paid?  <#####! Update as needed pending HF17 / UI !#####>
 
 Posts and comments remain active for 7 days. Once that period is over, then you will see the option to collect the payout, if any, in your wallet.
 
@@ -413,7 +413,7 @@ The market value of SBD is dictated by the supply and demand of the coin. Theref
 
 ## How do Steem Dollar to STEEM conversions work?
 
-If you convert Steem Dollars to STEEM via the Steemit wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, it will destroy the SBD and replace it with approximately $1 USD worth of STEEM tokens. The "approximately 1 USD worth of STEEM tokens" is based on the median STEEM price over the 3.5 days, using the price feeds from the Steem witnesses. Depending on price fluctuations during the 3.5 days it is possible to end up with more or less than $1 USD worth of STEEM per SBD at the end of the conversion, but the difference is generally minor.
+If you convert Steem Dollars to STEEM with the Steemit wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, the SBD will be gone and replaced by approximately $1 USD worth of STEEM tokens. The "approximately 1 USD worth of STEEM tokens" is based on the median STEEM price over the 3.5 days, using the price feeds from the Steem witnesses. Depending on price fluctuations during the 3.5 days it is possible to end up with more or less than $1 USD worth of STEEM per SBD at the end of the conversion, but the difference is generally minor.
 
 ## Is there a way for me to convert my Steem Dollars to STEEM without waiting 3.5 days?
 
@@ -421,7 +421,7 @@ You can exchange them. Visit the internal Market, found in the main menu. There 
 
 ## Can I sell goods and services on Steemit?
 
-You cannot sell items directly on Steemit.com, but you can list them on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
+Other than making a post, there is no interface for marketing items directly on Steemit.com. You can list goods on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
 
 ## What is Powering Down and Powering Up?
 
