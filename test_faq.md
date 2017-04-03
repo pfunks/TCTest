@@ -26,7 +26,7 @@ You can earn digital tokens on Steemit by:
 
 **Voting and curating** - If you discover a post and upvote it before it becomes popular, you can earn a curation reward. The reward amount will depend on the amount of STEEM Power you have.
 
-**Investing** - Users can purchase STEEM or Steem Dollar tokens directly through the Steemit wallet using Bitcoin, Ether, or BitShares tokens. They are also available from other markets and exchanges including Poloniex, Bittrex, Shapeshift.io, and Changelly. STEEM tokens that are powered up to STEEM Power earn a small amount of interest for holding.
+**Purchasing** - Users can purchase STEEM or Steem Dollar tokens directly through the Steemit wallet using Bitcoin, Ether, or BitShares tokens. They are also available from other markets and exchanges including Poloniex, Bittrex, Shapeshift.io, and Changelly. STEEM tokens that are powered up to STEEM Power earn a small amount of interest for holding.
 
 ## Where do the tokens come from?
 
@@ -34,7 +34,7 @@ The Steem network continually creates digital tokens to reward content creators 
 
 ## Where does the value come from?
 
-At its root, Steem is simply a points system. However, because this points system is blockchain-based, the points can be traded on markets as tokens. The speculation and investment in the market makes the value of the tokens go up and down based on their supply and demand.
+At its root, Steem is simply a points system. However, because this points system is blockchain-based, the points can be traded on markets as tokens. The market speculation makes the value of the tokens go up and down based on their supply and demand.
 
 By analogy, Steem is a game system where users compete for attention and rewards by bringing content and adding value to the platform. The rewards people earn are tokens that have real market value and are readily tradable. It is similar to how someone playing a video game could obtain a limited item or currency by playing the game. If the currency or items are transferable between users, then they can sell or buy them on game item markets.
 
@@ -566,7 +566,7 @@ Even though your vote may not have a noticable effect, when it gets added in alo
 
 Yes. The more Steem Power you have, the more influence your votes will have.
 
-The platform does not require that anybody purchase SP in order to participate, and there are many users who have earned a lot of Steem Power without investing any of their own money. You do have the option of purchasing more Steem Power through your Steemit wallet.
+The platform does not require that anybody purchase SP in order to participate, and there are many users who have earned a lot of Steem Power without spending any of their own money. You do have the option of purchasing more Steem Power through your Steemit wallet.
 
 ## What are the valid reasons for downvoting?
 
@@ -735,7 +735,7 @@ Over time, Steemit will allow advertisers and bloggers to promote content by buy
 
 Steemit, Inc. is a privately held company and is not available for public investment.
 
-You can invest in the platform though by purchasing STEEM tokens. These tokens have value based on the speculation that occurs on various exchanges. You can also power up these tokens into Steem Power, which gives you more influence in the platform as defined by the blockcain rules.
+Though not considered an investment, you can speculate on the platform's success by purchasing STEEM tokens. You can power up these tokens into STEEM Power, which grants more influence in the Steem platform.
 
 ## Can I purchase official Steemit merchandise?
 
