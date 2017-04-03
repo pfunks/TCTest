@@ -231,9 +231,24 @@ Steem is an open platform meant to host and welcome any legal content. Users can
 
 - **Decline Payout** - Use this option to receive no post rewards. Votes will affect the post's position on the trending ranking but no rewards are paid from Steem's reward pool. Replies made to the post are still eligible for rewards.
 
-## Can I delete something I posted?
+## How do I add images and photos to my posts?
 
-The blockchain will always contain the full edit history of posts and comments, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace it with blank content.
+You can browse your hard drive to add an image by clicking on the "selecting them" link from within the editor.
+
+If you have an image copied to your clipboard, you can simply paste (`ctrl + v`) while in the post/comment editor, and your image will be uploaded into your post or comment. Due to the file size of these pasted images, this method is only recommended for simple graphics. Photos (.JPG) should be uploaded from your disk.
+
+Pictures can also be hosted on an external site. Paste the image's web address (URL) into the editor and it will automatically be added.
+
+## How do I add videos to my posts?
+
+To add a YouTube or Vimeo video to your blog post, simply paste the link to the video into the post. 
+
+You can also read <a href="https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in-steemit">this guide from @algimantas</a>, which has more detailed instructions:
+
+
+## Is there a way I can make my images smaller?
+
+Yes, but the picture must be resized before it is uploaded into the Steemit.com editor. This can be done in your favorite photo editing software, or online by uploading to a third-party website that features editing such as imgur.com.
 
 ## What are tags?
 
@@ -274,6 +289,14 @@ Text can be sized using headers:
 
 For more advanced formatting, a guide describing the common markdown formatting syntax can be found here: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
 
+## How often can I post?
+
+You are allowed to post almost as often as you like. Currently, posts must be spaced 5 minutes apart. However, the community may not find value in users that are posting too frequently. Keep in mind what your audience will be interested in viewing, so that you do not overwhelm your followers with too much content.
+
+## How long can my post be?
+
+Post sizes are limited to about 64,000 characters including formatting. This is ample for most posts. If writing blogs, consider how much people are willing to read at one time. If you make your posts too long, readers may lose interest which may affect the amount of upvotes and rewards you receive.
+
 ## If posting in a language other than English, how will I get recognized?
 
 You can use language-specific tags to help you to reach the audience that speaks your language. 
@@ -286,32 +309,9 @@ Language-specific groups include:
 - Russian = ru
 - French = fr
 
-## How often can I post?
+## Can I delete something I posted?
 
-You are allowed to post almost as often as you like. Currently, posts must be spaced 5 minutes apart. However, the community may not find value in users that are posting too frequently. Keep in mind what your audience will be interested in viewing, so that you do not overwhelm your followers with too much content.
-
-## How long can my post be?
-
-Post sizes are limited to about 64,000 characters including formatting. This is ample for most posts. If writing blogs, consider how much people are willing to read at one time. If you make your posts too long, readers may lose interest which may affect the amount of upvotes and rewards you receive.
-
-## How do I add images and photos to my blog posts?
-
-You can browse your hard drive to add an image by clicking on the "selecting them" link from within the editor.
-
-If you have an image copied to your clipboard, you can simply paste (`ctrl + v`) while in the post/comment editor, and your image will be uploaded into your post or comment. Due to the file size of these pasted images, this method is only recommended for simple graphics. Photos (.JPG) should be uploaded from your disk.
-
-Pictures can also be hosted on an external site. Paste the image's web address (URL) into the editor and it will automatically be added.
-
-## How do I add videos to my blog posts?
-
-To add a YouTube or Vimeo video to your blog post, simply paste the link to the video into the post. 
-
-You can also read <a href="https://steemit.com/steemitguide/@algimantas/detailed-guide-how-to-add-videos-in-steemit">this guide from @algimantas</a>, which has more detailed instructions:
-
-
-## Is there a way I can make my images smaller?
-
-Yes, but the picture must be resized before it is uploaded into the Steemit.com editor. This can be done in your favorite photo editing software, or online by uploading to a third-party website that features editing such as imgur.com.
+The blockchain will always contain the full edit history of posts and comments, so it can never be completely deleted. If you would like to update a post so that users cannot see the content via Steemit.com, you can edit the post and replace it with blank content.
 
 ## What does "Promoting" a post do?
 
