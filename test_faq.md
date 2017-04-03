@@ -62,7 +62,7 @@ To create an account on the blockchain, it costs STEEM tokens. When you create a
 
 ## Can I create a Steem account without an email and phone number?
 
-The only way to have an account created via Steemit.com is to supply your email and phone number. Steem is an open and permissionless blockchain network however, therefore there are other ways to create a Steem account. Any Steem account can be used on Steemit.com
+The only way to have an account created via Steemit.com is to supply your email and phone number. Because Steem is an open and permissionless network, there are other ways to create a Steem account. Any Steem account can be used on Steemit.com
 
 ## What are other ways to create an account on the blockchain besides using Steemit.com?
 
@@ -98,13 +98,9 @@ Many users also like to post a photo or a video which shows them holding up a sh
 
 ## What are whales, dolphins and minnows?
 
-These are terms that people use to describe Steemit users with different amounts of Steem Power. There are no formal definitions.  As the names suggest, whales have the largest amount of SP, followed by dolphins in the middle, and minnows at the bottom. Where you set the boundaries for each is entirely subjective. There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
+These are terms that people use to describe Steemit users with different amounts of STEEM Power. There are no formal definitions.  As the names suggest, minnows have the smallest amount of SP, followed by dolphins in the middle, with whales having the most. Where the boundaries are for each label is subjective. There is a lot of talk about whales because they have the largest voting power and the most influence on the platform.
 
-<a href="https://steemd.com/distribution">Steemd.com</a> uses a slightly different system based on the number of STEEM Power vests a user has:
-
-<img src="https://steemitimages.com/DQmZfyY9HZ4DE4cn6bAj8ghKSHDN8342GP2VnVhZasQVkF2/image.png">
-
-# Site Navagation
+# Site Navigation
 
 ## How do I upvote a post or comment?
 
@@ -112,21 +108,21 @@ To upvote a post or comment, click on the "upvote" icon at the bottom of the pos
 
 ## What do the Home, New, Hot, Trending, and Promoted links show?
 
-These are various ways to sort blog posts.
+These are various ways to sort Steem posts.
 
-**Home** - Most recent posts of the people you follow (your feed).
+**Home** - The most recent posts of the accounts you follow (your feed).
 
-**New** - Posts are sorted by the time posted, newest first.
+**New** - Posts are sorted by the time posted, with newest first.
 
 **Hot** - Popular posts at the moment.
 
-**Trending** - Posts with the highest pending rewards currently.
+**Trending** - Posts with the most amount of votes, stake-weighted, recently.
 
-**Promoted** - Listings that are boosted by Steem Dollar payments get "Promoted" for greater visibility.
+**Promoted** - Listings that are boosted by Steem Dollar payments get promoted for greater visibility.
 
 ## What information is available in my account menu?
 
-You can get to your account menu by clicking on the avatar icon in the top-right corner of the screen. 
+You can get to your account menu by clicking on the avatar icon in the top-right corner of a Steemit.com page. 
 (Insert Icon)
 
 **Feed** - Here is where you go to see the most recent posts from the people you follow.
@@ -145,29 +141,27 @@ You can get to your account menu by clicking on the avatar icon in the top-right
 
 **Logout** - If you'd like to logout.
 
-## What do the Blog, Comments, Replies, Rewards links show?
+## How do I see my recent rewards?
 
-**Blog**  - Displays your blog posts and resteems, beginning with the most recent.
+The Rewards drop-down menu is available on your profile/blog page. Click it and there are two links:
 
-**Comments** - Shows the comments you have made in reply to other comments or blog posts, beginning with the most recent.
+**Curation rewards** - Shows the rewards earned for upvoting posts and comments.
 
-**Replies** - Shows the replies you have received from other users, beginning with the most recent.
+**Author rewards** - Shows the rewards earned by your own posts and comments.
 
-**Rewards** - Shows the rewards you have recently received. These rewards are separated into “Author rewards” (for posts and comments) and “Curation awards” (for the posts and comments you have voted on).
-
-You can also view the same information for other users by clicking on their account name to visit their profile.
+You can also view the same information for other users by visiting their profile.
 
 ## What information is shown in my wallet?
 
-Your wallet shows how many STEEM and Steem Dollar tokens you have in your account, and how much STEEM Power it has. It also shows how many of your STEEM and Steem Dollar tokens are being held in the savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page shows any the progress of any STEEM to Steem Dollar conversions as well as the status of any power downs. It also shows an estimated value of all the tokens in your account, based on the recent market prices of STEEM and SBD. 
+Your wallet shows how many STEEM and Steem Dollar tokens you have in your account. It shows how much STEEM Power it has, and how much SP is delegated. It also shows how many of your STEEM and Steem Dollar tokens are being held in the savings account, which is a balance that is subject to 3 day withdraw waiting period. The wallet page shows any the progress of any Steem Dollar to STEEM conversions as well as the status of a power down. It also shows an estimated value of all the tokens in your account, based on the recent market prices of STEEM and SBD.
 
 ## How do I transfer my STEEM or Steem Dollars into savings?
 
-Your savings balance is STEEM and SBD coins that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account is hacked. To transfer STEEM or SBD coins into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
+Your savings balance is STEEM and SBD tokens that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account credentials are compromised. To transfer STEEM or SBD tokens into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
 
 ## How do I send money to another user?
 
-- From your wallet page, click the down arrow where your STEEM or Steem Dollars are displayed. 
+- From your wallet page, click the STEEM or Steem Dollar balances with the down arrow next to them.
 - In the drop-down menu, click 'Transfer'. 
 - Type the username of the account you want to send the STEEM or Steem Dollars to. Double and triple check spelling.
 - Enter the amount of STEEM or Steem Dollars to send.
@@ -177,7 +171,7 @@ Your savings balance is STEEM and SBD coins that are subject to 3 day withdraw w
 
 ## Will I receive notifications when there is activity with my account?
 
-When there is new activity in your feed, or if you receive a reply from another user, you will receive a notification via your account menu. It will show a little red number indicating how many new events have occured. It will also display a notification if there are any new transfers into your wallet.
+When there is new activity in your feed, you receive a reply from another user, or there is a new transfer in your wallet, you will receive a notification in your account menu. It will show a little red number showing the number of new notifications.
 
 Steemit also allows you to subscribe to receive additional notifications when users mention you in a comment or post.
 
@@ -191,21 +185,21 @@ You have the option to change your avatar and display name on the Settings page.
 
 You can view your own profile by clicking on the link to your Blog in your account menu.
 
-## How do I change my avatar image?
+## How do I change my avatar image and other profile information?
 
-Your avatar image is set in your Settings page. In order to update your avatar picture, you will need to host the image somewhere. This can be done by uploading it to a Steemit comment or post, or using a third-party image host such as <a href="http://postimage.io/">Postimage</a>.  Once your image is uploaded, copy its URL and paste it into the "Profile Picture URL" box. Then click the Update button and enter your password.
-
-## How do I search for content?
-
-In the upper right corner of Steemit, there is a search link where you can find posts using a keyword search.
-
-There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
+Your profile info and avatar image are set in your Settings page. In order to update your avatar picture, you will need to host the image somewhere. This can be done by uploading it to a Steemit comment or post, or using a third-party image host such as <a href="http://postimage.io/">Postimage</a>.  Once your image is uploaded, copy its URL and paste it into the "Profile Picture URL" box. Then click the Update button and enter your password or active key.
 
 ## How can I control whether I see "Not Safe For Work" (NSFW) content?
 
 By default, content that users have tagged as "NSFW" will be hidden, but a link will be shown to reveal the content.
 
 You can update your display preference with the Settings page so that NSFW content is always shown by default, remains hidden until clicked, or is completely hidden with no option to reveal.
+
+## How do I search for content?
+
+In the upper right corner of Steemit, there is a magnifying glass search link where you can find posts using a keyword search.
+
+There is also an **Explore** link in the main menu, where you can browse through posts based on tags.
 
 ## Can I see which users I have muted?
 
@@ -225,17 +219,17 @@ English is the most-used language used on the Steemit platform, but communities 
 
 # Posting
 
-## What can users upload to Steemit?
+## What can users post to Steemit?
 
-Steemit users can upload anything they want, whether it be phrases, quotes, blogs, anecdotes, photos, videos, memes, songs, and more. It is an open platform meant to host and welcome any legal content.
+Steem is an open platform meant to host and welcome any legal content. Users can post anything they want, whether it be phrases, quotes, blogs, anecdotes, photos, videos, memes, songs, and more. Be creative!
 
 ## What are the different choices for post rewards (50%/50%, Power Up 100%, Decline Payout)?
 
-- **50%/50%** - This rewards in half STEEM Power, and half liquid STEEM / Steem Dollars. The amount of liquid STEEM vs. Steem Dollars that is rewarded is based on network conditions at the time of payout. This is the default payout option.
+- **50%/50%** - This rewards in half STEEM Power, and half liquid STEEM / Steem Dollars. The ratio of liquid STEEM to Steem Dollars rewarded is based on network conditions at the time of payout. This is the default payout option.
 
 - **Power Up 100%** - This option rewards the post in 100% STEEM Power.
 
-- **Decline Payout** - Use this option to receive no post rewards. Upvotes will affect the post's position on the trending ranking but no rewards are paid from Steem's reward pool. Replies made to the post are still eligible for rewards.
+- **Decline Payout** - Use this option to receive no post rewards. Votes will affect the post's position on the trending ranking but no rewards are paid from Steem's reward pool. Replies made to the post are still eligible for rewards.
 
 ## Can I delete something I posted?
 
@@ -251,9 +245,9 @@ Try to use tags that are relevant to your post, and that will be popular for oth
 
 You can browse through commonly used tags using the "Explore" link, in the main menu.
 
-Be careful when choosing tags though. If your tags aren’t related to your post, you may get downvotes for mistagging.
+Be mindful when choosing tags. If your tags aren’t related to your post, your post may get downvotes for mistagging.
 
-All tags must be lowercase letters, and hyphenated words may include one dash.
+All tags must be lowercase letters. Spaces aren't allowed, but hyphenated words with a single dash are.
 
 ## How many tags can I use?
 
@@ -266,7 +260,7 @@ Some common markdown syntax is:
 - `_italics_` _italics_
 - `~~cross out~~` ~~cross out~~
 
-Text can be sized using:
+Text can be sized using headers:
 ```
 # H1
 ## H2
@@ -277,17 +271,6 @@ Text can be sized using:
 ## H2
 ### H3
 #### H4
-
-Lists can be made using:
-```
-- Item 1
-- Item 2
-- Item 3
-```
-
-- Item 1
-- Item 2
-- Item 3
 
 For more advanced formatting, a guide describing the common markdown formatting syntax can be found here: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
 
@@ -301,10 +284,11 @@ Language-specific groups include:
 - Spanish = spanish
 - Korean = kr
 - Russian = ru
+- French = fr
 
 ## How often can I post?
 
-You are allowed to post almost as often as you like. Currently, posts must be spaced 5 minutes apart. The community may not find value in users that are posting too frequently though. Keep in mind what your audience will be interested in viewing, so that you do not overwhelm your followers with too much content.
+You are allowed to post almost as often as you like. Currently, posts must be spaced 5 minutes apart. However, the community may not find value in users that are posting too frequently. Keep in mind what your audience will be interested in viewing, so that you do not overwhelm your followers with too much content.
 
 ## How long can my post be?
 
@@ -314,9 +298,9 @@ Post sizes are limited to about 64,000 characters including formatting. This is 
 
 You can browse your hard drive to add an image by clicking on the "selecting them" link from within the editor.
 
-If you have an image copied to your clipboard, you can simply paste (`ctrl + v`) while in the post/comment editor, and your image will be uploaded into your post or comment. Due to the file size of these pasted images, this method is only recommended for graphics. Photos (.JPG) should be uploaded from your disk.
+If you have an image copied to your clipboard, you can simply paste (`ctrl + v`) while in the post/comment editor, and your image will be uploaded into your post or comment. Due to the file size of these pasted images, this method is only recommended for simple graphics. Photos (.JPG) should be uploaded from your disk.
 
-Pictures can also be hosted on an external site. Paste the image's web address into the editor and it will automatically be added.
+Pictures can also be hosted on an external site. Paste the image's web address (URL) into the editor and it will automatically be added.
 
 ## How do I add videos to my blog posts?
 
@@ -359,11 +343,25 @@ Blockchains like Steem and Bitcoin produce new tokens each time a block is produ
 
 ## How many new tokens are generated by the blockchain?
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, and will continue decreasing at this rate until the overall inflation rate reaches 0.95%. This will take approximately 20.5 years from the time hard fork 16 went into effect.
+Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+
+## What is the difference between STEEM, STEEM Power, and Steem Dollars?
+
+**STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
+
+**STEEM Power** - STEEM Power (abbreviated SP) is a measurement of how much influence a user has in the Steem network. The more STEEM Power a user holds, the more they can influence the value of posts and comments. STEEM Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the STEEM weekly, over a 13 week period.
+
+**Steem Dollars** - Steem Dollars (commonly abbreviated SBD) are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM, and transferred to other accounts for commerce or exchange.  Steem Dollars may also be converted into STEEM in a process that takes 3.5 days. Steem Dollars can be used to buy things in marketplaces, such as PeerHub.com.
+
+## What is Powering Down and Powering Up?
+
+**Powering Up** - If you have STEEM tokens, you can power them up to STEEM Power to get more voting influence on posts and comments. Having more STEEM Power also increases the amount of curation rewards and interest that you can earn. More SP also grants more influence on approving Steem witnesses.
+
+**Powering Down** - If you have STEEM Power, you can Power Down to turn it into liquid STEEM. The system will transfer 1/13 of your STEEM Power to STEEM each week for about three months (13 weeks), starting 1 week from the time it is started. However, you will lose your influence in the network proportionally to how much is powered down, so think about it carefully. Power downs can be stopped at any time.
 
 ## What is the reward pool?
 
-Every day, a fixed amount of STEEM is allocated to the network reward fund, commonly called the "reward pool." These are the tokens that get distributed to authors and curators for posting and voting on content.
+Every day, a fixed amount of STEEM tokens are allocated to the network reward fund, commonly called the "reward pool." These get distributed to authors and curators for posting and voting on content.
 
 ## How are the new tokens distributed?
 
@@ -376,15 +374,13 @@ Out of the new tokens that are generated:
 
 Up to 25% of a post's payout is awarded to curators (the people who upvoted the post) as a reward for discovering the content. The other 75% is awarded to the author. If curators vote for a post within the first 30 minutes of it being created, a portion of their curation reward is added to the author payout. This portion is linear to the age of the post between 0 and 30 minutes. Therefore upvoting at 15 minutes old will donate half of your potential curation reward to the author.
 
-## Will the rewards pool pay out more or less depending on who votes?
+## Will the reward pool pay out more or less depending on who votes?
 
-When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what.
+When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what. Votes in Steem are stake-weighted. Therefore voters with more STEEM Power have a greater influence over the allocation than voters with less SP, but higher-staked "whale" votes do not increase rewards overall.
 
-If there are $70,000 in the rewards pool for the week - then that $70,000 is split across all of the active posts based on the votes they receive. If there is a very successful post with a pending payout of $5000, then that means there is $65,000 left to be distributed to all the other posts.
+## When can I claim my rewards?
 
-## When do I get paid?  <#####! Update as needed pending HF17 / UI !#####>
-
-Posts and comments remain active for 7 days. Once that period is over, then you will see the option to collect the payout, if any, in your wallet.
+Posts and comments remain active for 7 days. When the period is over, you are able to claim their earned rewards. In your Wallet, click the Claim Rewards button to add the tokens to your account.
 
 ## Why do the earnings for my post go up or down?
 
@@ -399,35 +395,17 @@ The amount that is shown next to a post is a "**Potential Payout**". This is an 
 - If the price of STEEM goes up, the potential payout of all posts can go up.
 - If the price of STEEM goes down, the potential payout of all posts can go down.
 
-## What is the difference between STEEM, STEEM Power, and Steem Dollars?
-
-**STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
-
-**STEEM Power** - STEEM Power (abbreviated SP) is a measurement of how much influence a user has in the Steem network. The more STEEM Power a user holds, the more they can influence the value of posts and comments. STEEM Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the STEEM weekly, over a 13 week period.
-
-**Steem Dollars** - Steem Dollars (commonly abbreviated SBD) are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM, and transferred to other accounts for commerce or exchange.  Steem Dollars may also be converted into STEEM in a process that takes 3.5 days. Steem Dollars can be used to buy things in marketplaces, such as PeerHub.com.
-
 ## Will 1 Steem Dollar always be worth $1.00 USD?
 
-The market value of SBD is dictated by the supply and demand of the coin. Therefore it is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions. However, the network's conversion feature serves as a mechanism to hold Steem Dollars within a small margin of the value of USD.
+The market value of a Steem Dollar is dictated by the supply and demand of the token. Therefore it is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions. However, the network's SBD conversion feature serves as a mechanism to hold Steem Dollars within a small margin of the value of USD.
 
 ## How do Steem Dollar to STEEM conversions work?
 
-If you convert Steem Dollars to STEEM with the Steemit wallet, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, the SBD will be gone and replaced by approximately $1 USD worth of STEEM tokens. The "approximately 1 USD worth of STEEM tokens" is based on the median STEEM price over the 3.5 days, using the price feeds from the Steem witnesses. Depending on price fluctuations during the 3.5 days it is possible to end up with more or less than $1 USD worth of STEEM per SBD at the end of the conversion, but the difference is generally minor.
+If you convert Steem Dollars to STEEM on the Wallet page, the blockchain will process the transaction over a period of 3.5 days. At the end of the 3.5 days, the SBD will be gone and replaced by approximately $1 USD worth of STEEM tokens. The "approximately 1 USD worth of STEEM tokens" is based on the median STEEM price over the 3.5 days, using the price feeds from the Steem witnesses. Depending on price fluctuations during the 3.5 days it is possible to end up with more or less than $1 USD worth of STEEM per SBD at the end of the conversion, but the difference is generally minor.
 
 ## Is there a way for me to convert my Steem Dollars to STEEM without waiting 3.5 days?
 
 You can exchange them. Visit the internal Market, found in the main menu. There you can exchange your SBD for STEEM in real-time at whatever the current market price is.
-
-## Can I sell goods and services on Steemit?
-
-Other than making a post, there is no interface for marketing items directly on Steemit.com. You can list goods on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
-
-## What is Powering Down and Powering Up?
-
-**Powering Up** - If you have STEEM tokens, you can power them up to STEEM Power to get more voting influence on posts and comments. Having more STEEM Power also increases the amount of curation rewards and interest that you can earn. More SP also grants more influence on approving Steem witnesses.
-
-**Powering Down** - If you have STEEM Power, you can Power Down to turn it into liquid STEEM. The system will transfer 1/13 of your STEEM Power to STEEM each week for about three months (13 weeks), starting 1 week from the time it is started. However, you will lose your influence in the network proportionally to how much is powered down, so think about it carefully. Power downs can be stopped at any time.
 
 ## What can I do with my STEEM tokens?
 
@@ -443,15 +421,19 @@ Other than making a post, there is no interface for marketing items directly on 
 - Withdraw to an exchange, and trade for BTC or other digital tokens
 - Purchase items through third-party stores that accept SBD tokens
 
+## Can I sell goods and services on Steemit?
+
+Other than making a post, there is no interface for marketing items directly on Steemit.com. You can list goods on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
+
 ## What determines the price of STEEM?
 
-The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a share of stock is determined.
+The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a commodity like gold is determined.
 
-## How do I get more Steem Power?
+## How do I get more STEEM Power?
 
-If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click "Power Up" to turn them into Steem Power.
+If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click "Power Up" to turn them into STEEM Power.
 
-If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase using Bitcoin (BTC) or another cryptocurrency. You may purchase BTC on various exchanges, such as Coinbase.com or Localbitcoins.com. 
+If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase them using bitcoin (BTC) or another currency. You may purchase BTC on various exchanges, such as Coinbase.com or Localbitcoins.com. 
 
 Once you have your bitcoin:
 - Click “Buy Steem” from the main menu in the top right corner of Steemit.com.
