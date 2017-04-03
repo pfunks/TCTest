@@ -345,6 +345,10 @@ Blockchains like Steem and Bitcoin produce new tokens each time a block is produ
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
+## What determines the price of STEEM?
+
+The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a commodity like gold is determined.
+
 ## What is the difference between STEEM, STEEM Power, and Steem Dollars?
 
 **STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
@@ -395,6 +399,21 @@ The amount that is shown next to a post is a "**Potential Payout**". This is an 
 - If the price of STEEM goes up, the potential payout of all posts can go up.
 - If the price of STEEM goes down, the potential payout of all posts can go down.
 
+## How do I get more STEEM Power?
+
+With STEEM tokens in your wallet, click "Power Up" to turn them into STEEM Power. If you have Steem Dollars, you can convert them to STEEM from your wallet.
+
+If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase them using bitcoin (BTC), ether (ETH), or BitShares (BTS) tokens. You may purchase BTC on various exchanges, such as Coinbase.com or Localbitcoins.com. 
+
+To buy:
+- Click “Buy Steem” from the main menu in the top right corner of Steemit.com, or from your wallet.
+- Select whether you want to buy STEEM or STEEM Power.
+- Select the currency to deposit, and the amount of that currency you wish to use. Then send the currency to the provided address.
+
+STEEM purchases made on Steemit.com are facilitated by <a href="https://blocktrades.us">BlockTrades</a>.
+
+Bitcoin can also be exchanged for STEEM on external markets such as <a href="https://poloniex.com">Poloniex</a>, <a href="https://bittrex.com">Bittrex</a>, <a href="https://shapeshift.io">ShapeShift.io</a>, and href="https://changelly.com">Changelly</a>.
+
 ## Will 1 Steem Dollar always be worth $1.00 USD?
 
 The market value of a Steem Dollar is dictated by the supply and demand of the token. Therefore it is possible for 1 SBD to be worth more or less than 1 USD depending on market conditions. However, the network's SBD conversion feature serves as a mechanism to hold Steem Dollars within a small margin of the value of USD.
@@ -416,6 +435,7 @@ You can exchange them. Visit the internal Market, found in the main menu. There 
 
 ## What can I do with my SBD tokens?
 
+- Hold them as a stable-value token
 - Convert to STEEM via your wallet (takes 3.5 days)
 - Exchange for STEEM in the internal market
 - Withdraw to an exchange, and trade for BTC or other digital tokens
@@ -423,30 +443,11 @@ You can exchange them. Visit the internal Market, found in the main menu. There 
 
 ## Can I sell goods and services on Steemit?
 
-Other than making a post, there is no interface for marketing items directly on Steemit.com. You can list goods on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
-
-## What determines the price of STEEM?
-
-The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a commodity like gold is determined.
-
-## How do I get more STEEM Power?
-
-If you have Steem Dollars, you can convert them to STEEM from your wallet. Once you have STEEM in your wallet, click "Power Up" to turn them into STEEM Power.
-
-If you don’t already have STEEM or Steem Dollars in your wallet, you can purchase them using bitcoin (BTC) or another currency. You may purchase BTC on various exchanges, such as Coinbase.com or Localbitcoins.com. 
-
-Once you have your bitcoin:
-- Click “Buy Steem” from the main menu in the top right corner of Steemit.com.
-- Seelct whether you want to buy STEEM or Steem Power.
-- Send the amount of Bitcoins you want to use to the wallet address on the screen.
-
-You can also purchase STEEM and Steem Power using Bitshares or Ether using the steps above, by selecting "alternate currency" from the dropdown on the "Buy Steem" page.
-
-## What are Vests?
-
-Vests are a unit of measurement for the amount of Steem Power a user has. Since a single 'vest' is a _very_ small amount of Steem Power, often SP holdings are measured in "millions of vests" or MV.
+Other than making a post and making sales manually, there is no interface for selling items directly on Steemit.com. You can list goods on the third-party website <a href="https://www.peerhub.com">PeerHub.com</a>. Through PeerHub, you can accept payment in Steem Dollars or STEEM, and you have the option to advertise your items through Steemit posts.
 
 ## How can I withdraw my STEEM or SBD coins?
+
+STEEM and SBD tokens are readibly tradeable to bitcoin, which is readibly tradeable to the local currency of your choice.
 
 There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use the guides below at your own risk. 
 
@@ -461,32 +462,24 @@ https://steemit.com/steem-help/@piedpiper/how-to-withdraw-your-steem-dollars-in-
 #### Convert Steem Dollars to a country’s currency and withdraw to a bank account
 https://steemit.com/tutorial/@beanz/how-to-get-my-usdteemit-money-into-my-bank-account
 
-#### Convert Steem Dollars to bitpay debit card (USA ONLY)
-(need link)
-
-#### Convert Steem Dollars to WIREX debit card (USD EURO & GBP Supported)
-https://steemit.com/money/@b0y2k/convert-your-steem-dollars-to-physical-money-to-spend-or-withdraw-anywhere
-
 #### Convert STEEM to many other cryptocurrencies via ShapeShift
 https://steemit.com/steemit/@shapeshiftio/official-announcement-shapeshift-has-added-steem-to-the-exchange
 
 ## Will I get a 1099 from Steemit?
 
-No, you are not being paid by Steemit. The Steem network pays you. It is your responsibility to determine what, if any, taxes apply to the transactions you make, and it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
+No, you are not being paid by Steemit. The Steem network rewards you. It is your responsibility to determine what, if any, taxes apply to the transactions you make. Further, it is your responsibility to report and remit the correct tax to the appropriate tax authority. By creating an account, you agree that Steemit Inc is not responsible for determining whether taxes apply to your Steem transactions or for collecting, reporting, withholding, or remitting any taxes arising from any Steem transactions.
 
 ## How much are the transaction fees for sending tokens to other users?
 
 There are never any fees for transfers within the Steem network. However, if you transfer Steem to an exchange and convert it to another currency, you will incur a small fee from the exchange.
 
-## Are there fees for Powering Up, Powering Down, or converting SBD to STEEM?
+## Are there fees for Powering Up, Powering Down, trading on the internal market, or converting SBD to STEEM?
 
-No. None of these actions incur any fees. 
-
-Also, trading STEEM for SBD or SBD for STEEM on the internal marketplace exchange does not have any fees either.
+No. None of these actions incur any fees.
 
 ## How long does it take to transfer STEEM or SBD tokens between users?
 
-Transfers of tokens between new users typically take 3 seconds.
+A transfer of tokens between accounts typically takes 3 seconds. This is far faster than most blockchain tokens.
 
 # Voting and Curating
 
