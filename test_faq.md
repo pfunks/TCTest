@@ -380,7 +380,9 @@ Up to 25% of a post's payout is awarded to curators (the people who upvoted the 
 
 ## Will the reward pool pay out more or less depending on who votes?
 
-When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what. Votes in Steem are stake-weighted. Therefore voters with more STEEM Power have a greater influence over the allocation than voters with less SP, but higher-staked "whale" votes do not increase rewards overall.
+When users upvote or downvote posts, they are not adding or taking money away from the reward pool. They are only changing how the pool is allocated. The same amount of rewards will be paid out no matter what. 
+
+Votes in Steem are stake-weighted. Therefore voters with more STEEM Power have a greater influence over the allocation than voters with less SP, but higher-staked "whale" votes do not increase rewards overall.
 
 ## When can I claim my rewards?
 
@@ -485,37 +487,31 @@ A transfer of tokens between accounts typically takes 3 seconds. This is far fas
 
 ## What is my voting power?
 
-This is like an "energy bar" in a computer game that gets depleted every time you vote.  You start off with 100%. Every time you vote, you use some of your power. If you use up too much of your power, the value of your vote goes down. Think of it as a control measure to stop you from up-voting everything you see.
+Voting power is like an "energy bar" in a computer game that goes down a little bit every time you vote. Every time you vote, you use a small amount of your power. Less voting power means your votes carry less influence. But not to worry, you start off with 100%, and the network recharges it by 20% every day.
 
 ## How many times can I vote without depleting my voting power?
 
-You can use up to 40 full strength votes within a 24 hour period without depleting your voting power.
+You can use up to 40 full strength votes within a 24 hour period without depleting your voting power over time.
 
 ## Can I vote with less than 100% of my voting strength?
 
-Yes. Users can chose to vote with less than 100% of their voting strength. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an effect on the post rewards.
-
-## How do I vote with less than 100% voting strength?
-
 New users can only upvote and downvote with 100% voting strength. 
 
-Once you reach a certain amount of Steem Power, you will start to see a vote slider appear when you vote. You can use the slider to adjust the weight of your vote, between 1% and 100% voting strength.
+Once you reach about 500 STEEM Power, you will see a vote slider appear when you vote. You can use the slider to adjust the weight of your vote, between 1% and 100% voting strength. Voting with less than 100% voting weight will use up less voting power, but it will also have less of an influence on the post or comment's rewards.
 
 <img src="https://steemitimages.com/DQmV6c21tzSrgXwPHx4tvuc1UiCXBEvzkLBH9QCZHtVN6Ma/image.png">
+
+Upvotes and downvotes use the same amount of voting power.
 
 ## Where can I check my voting power?
 
 You can view your current voting power using third party tools such as https://steemd.com/@youraccount or https://steemstats.com.
 
-## Do both upvotes and downvotes use the same amount of voting power?
-
-Yes.
-
 ## What determines how much of the curation reward goes to the author versus curators?
 
 The rewards are allocated so that 75% of the payout goes to the author of the post/comment, and 25% goes to the curator. 
 
-Of the 25% that goes to the curator though, that portion will be split between the author and the curator if the curator votes within the first 30 minutes. The split of the 25% between the author and curator during the first 30 minutes is calculated as a linear function based on the time the vote is cast.
+Of the 25% that goes to the curator, that portion will be split between the author and the curator if the curator votes within the first 30 minutes. The split of the 25% between the author and curator during the first 30 minutes is calculated as a linear function based on the time the vote is cast.
 
 - If a post is upvoted the moment of posting, 100% of the curation award goes to the author.
 - At 3 minutes, 90% goes to the author and 10% to the curator.
@@ -523,7 +519,7 @@ Of the 25% that goes to the curator though, that portion will be split between t
 - At 27 minutes, 10% goes to the author and 90% to the curator.
 - If a post is upvoted 30 min after posting, 100% of the curation award goes to the curator.
 
-## Can I get curation rewards for voting up comments?
+## Can I get curation rewards for upvoting comments?
 
 Yes. You can earn curation rewards from upvoting both posts and comments!
 
