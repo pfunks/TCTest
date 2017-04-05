@@ -511,13 +511,13 @@ You can view your current voting power using third party tools such as https://s
 
 The rewards are allocated so that 75% of the payout goes to the author of the post/comment, and 25% goes to the curator. 
 
-Of the 25% that goes to the curator, that portion will be split between the author and the curator if the curator votes within the first 30 minutes. The split of the 25% between the author and curator during the first 30 minutes is calculated as a linear function based on the time the vote is cast.
+Of the 25% that goes to the curator, that portion will be split between the author and the curator if the curator votes within the first 30 minutes. The split of the 25% between the author and curator during the first 30 minutes is calculated linearly based on the time the vote is cast.
 
-- If a post is upvoted the moment of posting, 100% of the curation award goes to the author.
+- If a post is upvoted the moment of posting, 100% of the curation reward goes to the author.
 - At 3 minutes, 90% goes to the author and 10% to the curator.
 - At 15 minutes it's a 50/50 split.
 - At 27 minutes, 10% goes to the author and 90% to the curator.
-- If a post is upvoted 30 min after posting, 100% of the curation award goes to the curator.
+- If a post is upvoted 30 min after posting, 100% of the curation reward goes to the curator.
 
 ## Can I get curation rewards for upvoting comments?
 
@@ -531,25 +531,25 @@ No. Since downvoting reduces the rewards on a post/comment, it does not earn cur
 
 A user with more SP is going to have a larger influence on the rewards than users with less SP. One vote from a user with a lot of SP can often have more of an effect than 100 votes from users with a small amount of SP.
 
-Even though your vote may not have a noticable effect, when it gets added in along with all the other votes at the end of the payout period, it can still effect the payout. It may also cause more users to vote on the post too, because they saw that you upvoted it - so your votes can have an indirect effect on the payout in this way.
+Even though your vote may not have an immediate effect, when it gets added in along with all the other votes at the end of the payout period, it can still affect the payout. It may also cause more users to vote on the post too, because they saw that you upvoted it - so your votes can have an indirect effect on the payout this way.
 
 ## Is there a way to make my votes count for more?
 
-Yes. The more Steem Power you have, the more influence your votes will have.
+Yes. The more STEEM Power you have, the more influence your votes will have.
 
-The platform does not require that anybody purchase SP in order to participate, and there are many users who have earned a lot of Steem Power without spending any of their own money. You do have the option of purchasing more Steem Power through your Steemit wallet.
+The platform does not require that anybody purchase SP in order to participate, and there are many users who have earned a lot of STEEM Power without spending any of their own money. You have the option of purchasing more STEEM Power through your Steemit wallet.
 
 ## What are the valid reasons for downvoting?
 
-Users are allowed to downvote for any reason that they want. There are many users in the community who recommend only using the flag/downvote on posts that are abusive/bad. It is up to you if you want to follow this etiquette.
+Users are allowed to downvote for any reason that they want. There are many users in the community who recommend only using the downvote on posts that are abusive. It is up to you if you want to follow this etiquette.
 
 ## Does a downvote mean that I did something wrong?
 
-Just because you received a downvote/flag does not mean that you did something wrong. They may have just been voting to reallocate the rewards in a way that they felt was more beneficial to the other active posts in the platform. Often users will leave a comment explaining why they downvoted/flagged, but sometimes they might not. If they left a reason, it is up to you to determine if you did anything wrong, and if there is anything you want to change.
+Just because you received a downvote does not mean that you did something wrong. The downvoting person may have just been voting to reallocate the rewards in a way that they felt was more beneficial to the other active posts in the platform. Often users will leave a comment explaining why they downvoted, but sometimes they might not. If they left a reason, it is up to you to determine if you did anything wrong, and if there is anything you want to change.
 
 ## Will a downvote hurt my reputation?
 
-Not neccesarly. See <a href="">What causes my reputation score to go down?</a>.
+Not neccesarily. See <a href="">What causes my reputation score to go down?</a>.
 
 ## What is the difference between a downvote and a flag?
 
@@ -559,49 +559,48 @@ With the current implementation, there is no difference between a downvote and a
 
 ## What are Steemit’s policies on plagiarism and spam?
 
-If you are posting plagiarized content, you can get in legal trouble for violating copywrite laws. Plagiarized posts and spam are deemed as abuse and will be downvoted by community members. If you are posting or using someone else’s content, you must ensure that you have the rights to use the content, and properly reference the sources where you got the material from.
+If you are posting plagiarized or copied content, you can get in legal trouble for violating copyright laws. Plagiarized posts and spam are seen as abuse and will be downvoted by community members. If you are posting or using someone else’s content, you must ensure that you have the rights to use the content, and properly reference the sources where you got the material from.
 
 ## Is it okay to use random pictures from the internet?
 
-If you are using an image that is not your own, make sure you are allowed to use the image, and you cite the source of the image.
+If you are using an image that is not your own, make sure you are allowed to use the image, and cite the source of the image.
 
-Using random pictures from the internet without giving credit is not allowed. You may, however, use photos from “free image” websites such as Pexels.com or Pixabay.com. At the time of the writing of this FAQ, all photos on Pexels and Pixabay are free for personal and commercial use and require no attribution.
+Using random pictures from the internet without giving credit is discouraged. You may, however, use photos from “free image” websites such as Pexels.com or Pixabay.com. All photos on Pexels and Pixabay are free for personal and commercial use.
 
 Here is a post from @mindover that has links to many websites that have images you can use:
 https://steemit.com/steem-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-steemit
 
-## What is SteemCleaners?
+## What is Steemcleaners?
 
-Steemcleaners are a group of Steemians concerned with the plague of plagiarism, copy paste, spam, scams and other forms of abuse that keep cropping up on Steemit. Fighting individually seemed fruitless, often resulting in retaliatory flagging, harassment, and other issues. 
-
+Steemcleaners are a group of Steemians concerned with plagiarism, copy/paste, spam, scams and other forms of abuse on Steemit. 
 https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team
 
 ## What is @cheetah?
 
-@cheetah is a bot (developed by @anyx) that scours Steemit for copy/pasted content. Cheetah will not flag content immediately, but it alerts other users to look into it further.
+@cheetah is a bot developed by @anyx that scours Steemit for copy/pasted content. Cheetah will not downvote copied content, but it alerts other users to look into it further.
 
-The worst offenders (serial plagiarists or identity thieves, for example) will go on Cheetah’s blacklist. These users will get flagged by Cheetah when they post.
+Abusive accounts (serial plagiarists or identity thieves, for example) will go on Cheetah’s blacklist. These users will get downvoted by @cheetah accounts when they post.
 
 More information on the @cheetah bot can be found in this post:
 https://steemit.com/steemitabuse/@cheetah/cheetah-bot-explained
 
 ## Where do I report a post or comment that contains plagiarism, spam, or abuse?
 
-You can report any abusive content to the <a href="https://steemit.chat/channel/steemitabuse">steemitabuse</a> channel on steemit.chat.
+You can report any abusive content to the <a href="https://steemit.chat/channel/steemitabuse">#steemitabuse</a> channel on steemit.chat.
 
 # Reputation
 
 ## What is Reputation?
 
-Every user has a reputation score next to their name. The reputation score is one way Steemit measures the amount of value you have brought to the community. It is also a mechanism that is designed to help control abuse of the Steemit platform. 
+Every user has a reputation score next to their name. The reputation score is one way Steemit measures the amount of value you have brought to the community. It is also a mechanism that is designed to help reduce abuse of the Steemit platform. 
 
-Your reputation goes up when users with a higher reputation vote on your content. Getting flagged by someone with a higher reputation can push your repuation down and make your posts less visible.
+Your reputation goes up when accounts vote on your content. Getting downvoted by someone with a higher reputation can push your reputation down and make your posts less visible.
 
-Users with lower reputation are unable to affect your reputation.
+Users with a lower reputation score are unable to affect your reputation.
 
 ## How is the Reputation score measured?
 
-Every new user starts off with a figure of 25. The lowest possible reputation score is about -25 and the highest possible is 80.
+Every new user starts off with a reputation score of 25.
 
 The reputation score is based off of a `log10` system, which means that a score of 40 is about 10x better than a score of 30.
 
@@ -610,28 +609,28 @@ https://steemit.com/steemit/@digitalnotvir/how-reputation-scores-are-calculated-
 
 ## How do I improve my reputation score?
 
-Every time another user upvotes one of your posts or comments, it increases your reputation score. Users with a higher reputation than you will have more of a positive effect. Also, the more Steem Power that the voter has, the higher the effect as well. The best way to earn upvotes is by adding value to the Steemit community.
+Every time another user upvotes one of your posts or comments, it increases your reputation score. Users with a higher reputation than you will have more of a positive effect. The more STEEM Power that the voter has, the larger the effect is as well. The best way to earn upvotes is by adding value to the Steemit community.
 
 ## What causes my reputation score to go down?
 
 The only way for your reputation score to go down is to be downvoted by another user. Not all downvotes will cause a reputation loss though.
 
 - Downvotes from users with a lower reputation score than you will not hurt your score. 
-- If your post or comment that was downvoted still received more upvotes than downvotes (measured in Steem Power vests), then the net effect on your reputation score will still be positive.
+- If your post or comment that was downvoted still received more upvotes than downvotes (weighted by SP), then the net effect on your reputation score will still be positive.
 
 ## Why does my reputation score matter?
 
 A reputation score is one way Steemit measures the amount of value you have brought to the community. In real estate, they say there are three variables of the utmost importance: location, location, location. On Steemit, those things are: reputation, reputation, reputation. It’s not to say other variables aren’t important, but reputation will be an enormous factor in your level of success.
 
-Many Steemians glance at users’ reputation scores when deciding which articles to read because they know higher reputation scores means it is much more likely quality original content. Furthermore, the higher your rep, the more effect your vote will have on the reputation of others.
+Many Steemians glance at users’ reputation scores when deciding which articles to read because they know higher reputation scores means it is much more likely quality content. Furthermore, the higher your rep, the more effect your vote will have on the reputation of others.
 
-It is worth noting that if your reputation goes below 0, Steemit will hide your posts and comments making it very difficult to gain monetary rewards and followers. This incentivises online etiquette and respect for your fellow Steemians.
+It is worth noting that if your reputation score goes below 0, Steemit will hide your posts and comments making it very difficult to gain monetary rewards and followers. This incentivises online etiquette and respect for your fellow Steemians.
 
 # Followers, Feeds, and Resteem
 
 ## What is Resteeming?
 
-This is like reblogging or sharing posts on other platforms.  Once your reblog a post it will appear in your feed to your followers as if you had posted it yourself.  Use it conservatively and with caution.  It is great to want to share content you like and appreciate with people you follow, but you don't want to annoy them by overdoing it.
+This is like reblogging or sharing posts on other platforms.  Once you resteem a post it will appear in your feed and in your followers' feeds as if you had posted it yourself.  Use it conservatively and with caution.  It is great to want to share content you like and appreciate with people you follow, but you don't want to overwhelm your followers either.
 
 ## Can I share on other social media?
 
@@ -641,35 +640,31 @@ Yes you can use the share button to share on Facebook, Twitter or Linkedin. You 
 
 ## What is a blockchain?
 
-A blockhchan is a public ledger of all transactions ever executed. All of the transactions and data are stored in a distributed database. Each time the database is updated, all of updates are done together in a batch called a 'block'. Each time a new block is produced/added, it is appended on to all of the previous blocks - hence the name "blockchain".
+A blockchain is a public ledger of all transactions ever executed. All of the transactions and data are stored in a distributed database. Each time the database is updated, all of updates are done together in a batch called a 'block'. Each time a new block is produced/added, it is appended on to all of the previous blocks - hence the name "blockchain".
 
 ## What is the Steem blockchain?
 
-The Steem blockchain is the publicly accessible distributed database, which records all posts and votes, and distributes the rewards across the network. It is where all of the content and voting data is stored, and it is where all of the reward calculations and payouts are performed.
+The Steem blockchain is the publicly accessible distributed database, which records all posts and votes, and distributes the rewards across the network. It is where all of the text content and voting data is stored, and it is where all of the reward calculations and payouts are performed.
 
 ## What is the difference between Steem and Steemit?
 
 Steem is the name of the blockchain that stores all of the data and transactions, and processes all of the events that take place. STEEM is also a name for the system’s value token (currency).
 
-Steemit is simply an interface to interact with the blockchain, and view the blockchain data.
+Steemit is a front end web interface to interact with the blockchain, and view the blockchain data.
+
+## How is Steem different from Bitcoin?
+
+On a technical level, the two networks rely on the same model of a blockchain, but are built upon different technologies and codebase. Steem is based on a new state-of-the-art blockchain technology called Graphene, which uses "witnesses" instead of "miners" to produce blocks. 
+
+The "delegated proof of stake" model of using witnesses instead of miners allows for greater efficiency in block production. With BTC, 100% of the new coins that are created are allocated to block producers (miners). With the Steem blockchain, only 10% of the new coins are paid to block producers (witnesses). The other 90% of new STEEM coins are awarded to content producers, curators, and STEEM Power holders.
 
 ## What is the difference between Proof of Work, Proof of Stake, and Delegated Proof of Stake?
 
 **Proof of work** - Miners solve a complex mathematical problem. The miner that solves the problem first adds the block to the blockchain. The network rewards the miner for doing so.
 
-**Proof of stake** - Requires ownership of the cryptocurrency. The more cryptocurrency you own, the more mining power you have. Benefits: eliminates the need for expensive mining rigs, runs on a tiny fraction of the power, and it requires miners to have a stake in the network.
+**Proof of stake** - Requires ownership, or stake, in the cryptocurrency. The more tokens you own, the more block creation power you have. Benefits: eliminates the need for expensive mining rigs, runs on a tiny fraction of the power, and it requires block producers to have a stake in the network.
 
-**Delegated Proof of stake** - [Need to fill in]
-
-## How is Steem different from Bitcoin?
-
-On a technical level, the two cryptocurrencies are running different technologies for their blockchains. Steem is based on a new state-of-the-art blockchain technology called Graphene, which uses "witnesses" instead of "miners" to produce blocks. 
-
-The "Delegated Proof of stake" model of using witnesses instead of miners allows for greater efficiency in block production. With BTC, 100% of the new coins that are created are allocated to block producers (miners). With the Steem blockchain, only 10% of the new coins are paid to block producers (witnesses). The other 90% of new STEEM coins are awarded to content producers, curators, and Steem Power holders.
-
-## Where can I find the informaton for the official launch of the blockchain?
-
-The original launch of Steem was on March 23, 2016 via <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. There was a bug found in the original code though, and a majority of the stakeholders agreed that it would be easier to fix via a re-launch than a hardfork. The blockchain was reset and officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+**Delegated proof of stake** - Block-creating accounts, called witnesses, are collectively approved by Steem stakeholders. Instead of relying on proof of work to find blocks, the Steem network actively schedules these accounts to improve the time between blocks to 3 seconds.
 
 ## How often does the Steem blockchain produce a new block?
 
@@ -681,7 +676,12 @@ To have consistent and reliable block production every 3 seconds, Steem separate
 
 ## Is there a way to see the raw data that is stored in the blockchain?
 
-Yes. The blockchain data can be viewed through the third-party tool <a href="https://steemd.com/">steemd.com</a>.
+Yes. The blockchain data can be viewed in different ways with third-party tools such as <a href="https://steemd.com">steemd.com</a> and <a href="https://steemdb.com">steemdb.com</a>.
+
+## Where can I find the informaton for the official launch of the blockchain?
+
+The original launch of Steem was on March 23, 2016, announced on <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. There was a bug found in the original code though, and a majority of the stakeholders agreed that it would be easier to fix via a re-launch than a hardfork. The blockchain was reset and officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+
 
 # Steemit, Inc.
 
@@ -693,31 +693,15 @@ https://www.linkedin.com/in/nedscott
 Daniel Larimer, CTO of Steemit, @dan @dantheman
 https://www.linkedin.com/in/daniel-larimer-0a367089
 
-## How does Steemit respond to public criticism?
-
-Steemit is 100% committed to building the Steemit platform and contributing to Steem wherever possible. With new and disruptive technologies, critics are to be expected, but we believe the issue stems from lack of education. The Steemit founders openly address criticisms in several podcasts. In regards to founding ownership, Dan and Ned have sold a very small % of their holdings and the @steemit account only powers down to prepare for engagements that fund operations, marketing and development.
-The Steemit founders respect people’s right to freedom of speech and their own opinions, but they encourage self-education and research on cutting edge concepts in decentralized social media.
-
 ## How does Steemit, Inc. earn money?
 
-Over time, Steemit will allow advertisers and bloggers to promote content by buying and burning Steem. Steemit can benefit from sales of Steem to advertisers in the cryptocurrency markets or offer advanced services to these advertisers and bloggers.
+Over time, Steemit will allow advertisers and bloggers to promote content by buying and burning SBD/STEEM. Steemit can benefit from sales of Steem to advertisers in the cryptocurrency markets or offer advanced services to these advertisers and bloggers.
 
 ## Can I invest in Steemit?
 
 Steemit, Inc. is a privately held company and is not available for public investment.
 
 Though not considered an investment, you can speculate on the platform's success by purchasing STEEM tokens. You can power up these tokens into STEEM Power, which grants more influence in the Steem platform.
-
-## Can I purchase official Steemit merchandise?
-
-There is no official merchandise yet, but it is easy to make Steemit gear on zazzle.com or similar websites. 
-
-Here is a post with instructions from @artist1989:
-https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
-
-## What is the Steemit Privacy Policy?
-
-https://steemit.com/privacy.html
 
 ## What does Steemit’s development roadmap look like?
 
@@ -726,13 +710,20 @@ https://steemit.com/steemit/@steemitblog/steemit-2017-roadmap
 
 ## Am I allowed to use the Steemit logo?
 
-Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo created in the next few months so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three squiggles will remain open for public use.
+Currently, the Steem and Steemit logos are the same and is free to use. In the future, Steemit, Inc. will have its own logo so that it can be distinguished from Steem. The Steemit logo will be proprietary while Steem and its three S-shaped squiggles will remain open for public use.
+
+## Can I purchase official Steemit merchandise?
+
+There is no official merchandise yet, but it is easy to make Steemit gear on zazzle.com or similar websites. 
+
+Here is a post with instructions from @artist1989:
+https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
 
 ## Did Steemit "pre-mine" coins? Is what they did unfair?
 
-The challenge for a blockchain startup company, is that they need tokens to sell to get funding for the development. If the blockchain is launched so that anybody can mine as much as they want, founders will get very little and may not be able to fund the development.
+The challenge for a blockchain startup company is that they need tokens to sell to get funding for the development. If the blockchain is launched so that anybody can mine as much as they want, founders will get very little and may not be able to fund the development.
 
-When Steem was designed, one of the most important factors was to make it happen so that it won't cause any legal troubles for the founding team.
+When Steem was designed, one of the most important factors was to launch in a way to avoid legal pitfalls for the founding team.
 
 Before the launch of Steem, Dan Larimer wrote a blog post <a href="https://bytemaster.github.io/article/2016/03/27/How-to-Launch-a-Crypto-Currency-Legally-while-Raising-Funds/">How to Launch a Crypto Currency Legally while Raising Funds</a> where he described the problems that founders might face from authorities.
 
@@ -745,52 +736,42 @@ Here are some of the key take-aways:
 
 To secure a portion of the tokens for themselves, the founders released the blockchain with very little information other than the code itself. This allowed them mine it before many others got too interested in it. The other miners that did get involved early on were the ones that took the time to read and understand the code, and saw the potential of what the platform could become. This was successful, and a majority of the coins were mined by the Steemit development team.
 
-The STEEM coins were not "pre-mined" though. All mining took place after the coin was officially and publicly announced on <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
+The STEEM tokens mined by Steemit, Inc were not "pre-mined". All mining took place after the coin was officially and publicly announced on <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
 
-We understand that anybody who doesn't know the reasons why the launch was made this way could be very suspicious. The way it was done was intended to accomplish the goal of funding the startup, without doing it in a way that was illegal or deceptive. Another possibility would have been to make the launch under different jurisdiction, but the team wasn't ready to move to another country just for this.
+## What is the Steemit Privacy Policy?
+
+https://steemit.com/privacy.html
 
 # Security
 
-## What are my different keys for?
-
-**Owner Key** - The owner key allows its user to post, vote, transfer funds, vote for witnesses, and change all keys including being able to alter the owner key. The owner key is only meant for use when necessary.The only thing the owner key can not do is decrypt private messages/memos sent to you, only the memo key can.
-
-**Posting Key** - The posting key allows accounts to post, comment, vote, and follow other accounts. Most users should be logging into Steemit every day with the posting key, only using the active key when something to do with transferring funds or changing keys is necessary. You are more likely to have your password or key compromised the more you use it, so a limited posting key exists to restrict the damage that a compromised account key would cause.
-
-**Active Key** - The active key can perform almost all functions for an account except change the owner key. It can change all other keys on an account, including the active key. The active key can do everything the post key can do, plus allows transferring, trading, powering up/powering down Steem Power, and voting for witnesses. It cannot decrypt private messages encrypted to your memo key.
-
-**Memo Key** - The memo key is the only key that can decrypt private messages sent to your account. The Steemit team will implement this private message feature in the future.
-
-## Are my Steem and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
-
-No, it is not. If your money is in Steem Power, however, it is impossible for a hacker to take out more than 1/13 per week.
-
-## How does the recovery process work?
-
-In order to be able to recover a hacked account, you must first assign a trusted individual as your designated recovery account. This is someone who can identify you independently of your key. 
-
-Steemit is the default recovery account for all users who sign up using Steemit.com. Steemit can identify users by their email, Facebook, and Reddit logins (if you signed up through us). You can also assign your mother, wife, employer, or friend, or another third party provider as your recover account if you prefer.
-
-If your password has been changed without your concent, then the person you designated as you recovery account can allow you to generate a new set of keys (aka passwords) using any of the keys you have used in the past 30 days.
-
-If you don't have a key used in the past 30 days, then your account will be unrecoverable.
-
 ## How can I keep my Steemit account secure?
 
-Save your master key and keep it somewhere safe.
+Save your master password and keep it somewhere safe.
 
 Only log into your account using the key with the appropriate permissions for what you are doing:
 - Posting Key (Recommended, can be used to upvote/comment/post)
 - Active Key (All permissions of posting key + Ability to transfer funds)
-- Owner Key (Change the keys for your account)
+- Master password/Owner Key (Change the keys for your account)
 
-Change your key frequently.
+It is not recomended to share your password or keys with any third party site.
 
-It is not recomended to share your keys with any third party site.
+## Master password stuff
 
-## Is it safe to use my account while on public wifi?
+(insert why is it so long and random, how it contains the 4 keys)
 
-No, not without first taking additional steps. To prevent someone from hacking into your account while on a public wifi network, you should use a service like Private Tunnel VPN. Also, if you are only posting, commenting and voting, log in using your Posting Key.
+## What are my different keys for?
+
+**Posting key** - The posting key allows accounts to post, comment, edit, vote, resteem and follow or mute other accounts. Most users should be logging into Steemit every day with the posting key. You are more likely to have your password or key compromised the more you use it so a limited posting key exists to restrict the damage that a compromised account key would cause.
+
+**Active key** - The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, updating profile details and avatar, and placing a market order. 
+
+**Memo key** - The memo key is the only key that can decrypt private messages or memos sent to your account. Currently these features are not present on Steemit.com
+
+**Owner key** - The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key. Ideally it is meant to be stored offline, and only used to recover a compromised account.
+
+## Are my STEEM and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
+
+No. If your tokens are in STEEM Power, it is impossible for a hacker to take out more than 1/13 per week. If your tokens are in savings, there is a three-day wait period for them to become transferrable.
 
 ## What should I do if I discover that someone hacked my account?
 
@@ -800,21 +781,31 @@ Once they submit the proposal to the blockchain, you will have 24 hours to log i
 
 If you are using Steemit as your account recovery partner, there is a link to begin the process of account recovery in the main menu.
 
+## How does the recovery process work?
+
+In Steem, to be able to recover a compromised account, accounts have assigned a trusted individual as a designated recovery account. This is someone who can identify you independently of your key.
+
+Steemit owns the default recovery account (@steem) for all users who sign up using Steemit.com. Steemit can identify users by their email, Facebook, and Reddit logins (if you signed up through us).
+
+Advanced users using the blockchain software can recover accounts that have different recovery accounts assigned. If your password has been changed without your consent, then the account designated as your recovery account can generate a new owner key after you've supplied a recent owner key (valid in the last 30 days) for the account.
+
+If you don't have the master password or owner key that was valid the past 30 days, then your account will be unrecoverable.
+
 ## What do I do if I lost my password/keys?
 
-There is no way to recover your account if you lose your password / keys! It is **very important** that you save your keys somewhere safe where you will not lose them.
+There is no way to recover your account if you lose your password or owner key! Because your account has real value, it is **very important** that you save your master password or keys somewhere safe where you will not lose them.
 
-It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage, such as a flash drive or burned CD, as well as printed paper. Use a safe deposit box for best redundancy.
+It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage, such as an external disk or flash drive, as well as printed paper. Use a safe deposit box for best redundancy.
 
 ## How do I report a security vulnerability?
 
-If you find a security issue please report details to security@steemit.com.
+If you find a security issue please report the details to security@steemit.com.
 
 # Developers
 
 ## Are the Steem blockchain and Steemit.com code open-source?
 
-Yes, although please review the license terms pertaining to creating hardforks of the Steem blockchain.
+Yes, although please review the license terms pertaining to creating forks of the Steem blockchain.
 
 ## Is there a github page for Steemit.com?
 
