@@ -430,7 +430,7 @@ You can exchange them. Visit the internal Market, found in the main menu. There 
 
 ## What can I do with my STEEM tokens?
 
-- "Power Up" to Steem Power
+- "Power Up" to STEEM Power
 - Exchange for SBD in the internal market
 - Withdraw to an exchange, and trade for BTC or other digital tokens
 - Purchase items through third-party stores that accept STEEM tokens
