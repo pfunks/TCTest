@@ -345,24 +345,6 @@ Blockchains like Steem and Bitcoin produce new tokens each time a block is produ
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
-## What determines the price of STEEM?
-
-The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a commodity like gold is determined.
-
-## What is the difference between STEEM, STEEM Power, and Steem Dollars?
-
-**STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
-
-**STEEM Power** - STEEM Power (abbreviated SP) is a measurement of how much influence a user has in the Steem network. The more STEEM Power a user holds, the more they can influence the value of posts and comments. STEEM Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the STEEM weekly, over a 13 week period.
-
-**Steem Dollars** - Steem Dollars (commonly abbreviated SBD) are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM, and transferred to other accounts for commerce or exchange.  Steem Dollars may also be converted into STEEM in a process that takes 3.5 days. Steem Dollars can be used to buy things in marketplaces, such as PeerHub.com.
-
-## What is Powering Down and Powering Up?
-
-**Powering Up** - If you have STEEM tokens, you can power them up to STEEM Power to get more voting influence on posts and comments. Having more STEEM Power also increases the amount of curation rewards and interest that you can earn. More SP also grants more influence on approving Steem witnesses.
-
-**Powering Down** - If you have STEEM Power, you can Power Down to turn it into liquid STEEM. The system will transfer 1/13 of your STEEM Power to STEEM each week for about three months (13 weeks), starting 1 week from the time it is started. However, you will lose your influence in the network proportionally to how much is powered down, so think about it carefully. Power downs can be stopped at any time.
-
 ## How are the new tokens distributed?
 
 Out of the new tokens that are generated:
@@ -384,10 +366,6 @@ When users upvote or downvote posts, they are not adding or taking money away fr
 
 Votes in Steem are stake-weighted. Therefore voters with more STEEM Power have a greater influence over the allocation than voters with less SP, but higher-staked "whale" votes do not increase rewards overall.
 
-## When can I claim my rewards?
-
-Posts and comments remain active for 7 days. When the period is over, you are able to claim their earned rewards. In your Wallet, click the Claim Rewards button to add the tokens to your account.
-
 ## Why do the earnings for my post go up or down?
 
 The amount that is shown next to a post is a "**Potential Payout**". This is an estimated value of how much money the post will make based on the votes that have occurred so far. Depending on various factors, this value can go up or down until the payout window closes:
@@ -400,6 +378,22 @@ The amount that is shown next to a post is a "**Potential Payout**". This is an 
 - If downvotes are removed from a post, the potential payout of the post can go up.
 - If the price of STEEM goes up, the potential payout of all posts can go up.
 - If the price of STEEM goes down, the potential payout of all posts can go down.
+
+## When can I claim my rewards?
+
+Posts and comments remain active for 7 days. When the period is over, you are able to claim their earned rewards. In your Wallet, click the Claim Rewards button to add the tokens to your account.
+
+## What is the difference between STEEM, STEEM Power, and Steem Dollars?
+
+**STEEM** - STEEM is the base liquid currency token in the platform. STEEM can be powered up into STEEM Power, traded for Steem Dollars, and transferred to other accounts. It is a cryptocurrency token, similar to Bitcoin.
+
+**STEEM Power** - STEEM Power (abbreviated SP) is a measurement of how much influence a user has in the Steem network. The more STEEM Power a user holds, the more they can influence the value of posts and comments. STEEM Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the STEEM weekly, over a 13 week period.
+
+**Steem Dollars** - Steem Dollars (commonly abbreviated SBD) are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM, and transferred to other accounts for commerce or exchange.  Steem Dollars may also be converted into STEEM in a process that takes 3.5 days. Steem Dollars can be used to buy things in marketplaces, such as PeerHub.com.
+
+## What determines the price of STEEM?
+
+The price of STEEM is based on the supply and demand of the token, determined by buyers and sellers on the exchanges. It is similar to how the price of a commodity like gold is determined.
 
 ## How do I get more STEEM Power?
 
@@ -415,6 +409,12 @@ To buy:
 STEEM purchases made on Steemit.com are facilitated by <a href="https://blocktrades.us">BlockTrades</a>.
 
 Bitcoin can also be exchanged for STEEM on external markets such as <a href="https://poloniex.com">Poloniex</a>, <a href="https://bittrex.com">Bittrex</a>, <a href="https://shapeshift.io">ShapeShift.io</a>, and href="https://changelly.com">Changelly</a>.
+
+## What is powering up and down?
+
+**Powering up** - If you have STEEM tokens, you can Power Up to STEEM Power to get more voting influence on posts and comments. Having more STEEM Power also increases the amount of curation rewards and interest that you can earn. More SP also grants more influence on approving Steem witnesses.
+
+**Powering down** - If you have STEEM Power, you can power down to turn it into liquid STEEM over a period of time. The system will transfer 1/13 of your STEEM Power to STEEM each week for about three months (13 weeks), starting 1 week from the time it is started. However, you will lose your influence in the network proportionally to how much is powered down, so think about it carefully. Power downs can be stopped at any time.
 
 ## Will 1 Steem Dollar always be worth $1.00 USD?
 
