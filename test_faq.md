@@ -744,24 +744,30 @@ https://steemit.com/privacy.html
 
 # Security
 
-## How can I keep my Steemit account secure?
+## How can I keep my Steem account secure?
 
-Save your master password and keep it somewhere safe.
+<b>Save your master password and keep it somewhere safe.</b>
 
 Only log into your account using the key with the appropriate permissions for what you are doing:
-- Posting Key (Recommended, can be used to upvote/comment/post)
-- Active Key (All permissions of posting key + Ability to transfer funds)
-- Master password/Owner Key (Change the keys for your account)
+- Posting key for every day logins
+- Active key when necessary for transfers, power ups, etc.
+- Master password or owner key when changing the password
 
-It is not recommended to share your password or keys with any third party site.
+Again, <b>save your master password</b> and keep it safe! If logging in with your post key, make sure you don't overwrite or misplace your original master password.
 
-## Master password stuff
+It is not recommended to share your password or keys with any third party site. Steemit Inc. is developing a login application that can be used on third party Steem front ends.
 
-(insert why is it so long and random, how it contains the 4 keys)
+## Why should I be careful with my master password?
+
+The master password is used to derive all keys for your account, including the owner key.
+
+## Why is the master password a long string of gibberish?
+
+The password has to be long and random for maximum account security.
 
 ## What are my different keys for?
 
-**Posting key** - The posting key allows accounts to post, comment, edit, vote, resteem and follow or mute other accounts. Most users should be logging into Steemit every day with the posting key. You are more likely to have your password or key compromised the more you use it so a limited posting key exists to restrict the damage that a compromised account key would cause.
+**Posting key** - The posting key allows accounts to post, comment, edit, vote, resteem, and follow or mute other accounts. Most users should be logging into Steemit every day with the posting key. You are more likely to have your password or key compromised the more you use it so a limited posting key exists to restrict the damage that a compromised account key would cause.
 
 **Active key** - The active key is meant for more sensitive tasks such as transferring funds, power up/down transactions, converting Steem Dollars, voting for witnesses, updating profile details and avatar, and placing a market order. 
 
@@ -769,33 +775,33 @@ It is not recommended to share your password or keys with any third party site.
 
 **Owner key** - The owner key is only meant for use when necessary. It is the most powerful key because it can change any key of an account, including the owner key. Ideally it is meant to be stored offline, and only used to recover a compromised account.
 
+## How can I extract these keys from my master password?
+
+The posting key is available on the Permissions sub-tab on your wallet page, after pressing the "show private key" button. The other keys can be derived using @xeroc's paper wallet generator: https://steemit.com/steem/@xeroc/paperwallet-easily-secure-your-account-with-steem-paperwallet-generator
+
+## What do I do if I lost my password/keys?
+
+There is no way to recover your account if you lose your password or owner key! Because your account has real value, it is **very important** that you save your master password somewhere safe where you will not lose it.
+
+It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage, such as an external disk or flash drive, as well as printed paper. Use a safe deposit box for best redundancy.
+
 ## Are my STEEM and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
 
-No. If your tokens are in STEEM Power, it is impossible for a hacker to take out more than 1/13 per week. If your tokens are in savings, there is a three-day wait period for them to become transferable.
+No, liquid tokens can not be taken back if stolen or sent to the wrong account. If your tokens are in STEEM Power, it is impossible for a hacker to take out more than 1/13 per week. If your tokens are in savings, there is a three-day wait period for them to become transferable.
 
 ## What should I do if I discover that someone hacked my account?
 
-If you notice your account has been compromised, you should contact your account recovery partner (the trusted individual) and ask them to submit a request to change the locks on your account. They verify you by whatever means they find satisfactory and then submit a proposal to the blockchain to change the locks on your account.
-
-Once they submit the proposal to the blockchain, you will have 24 hours to log in with both your old and new keys (aka passwords). Any key you used within the past 30 days is sufficient. If you login in time, then the keys will be changed, and the hacker will be locked out.
-
-If you are using Steemit as your account recovery partner, there is a link to begin the process of account recovery in the main menu.
+If you made your account through Steemit and it is compromised, immediately visit the <a href="https://steemit.com/recover_account_step_1">Stolen Account Recovery</a> page. This link is also available in the main site menu. You will need to provide your account name and a master password that was used in the last 30 days.
 
 ## How does the recovery process work?
 
-In Steem, to be able to recover a compromised account, accounts have assigned a trusted individual as a designated recovery account. This is someone who can identify you independently of your key.
+In Steem, to be able to recover a compromised account, each account has another account assigned as its designated recovery agent. This is someone who can identify you independently of your key.
 
-Steemit owns the default recovery account (@steem) for all users who sign up using Steemit.com. Steemit can identify users by their email, Facebook, and Reddit logins (if you signed up through us).
+Steemit Inc. owns the default recovery account (@steem) for all users who sign up using Steemit.com. Steemit can identify users by their email, Facebook, and Reddit logins if you made an account using Steemit.com.
 
 Advanced users using the blockchain software can recover accounts that have different recovery accounts assigned. If your password has been changed without your consent, then the account designated as your recovery account can generate a new owner key after you've supplied a recent owner key (valid in the last 30 days) for the account.
 
 If you don't have the master password or owner key that was valid the past 30 days, then your account will be unrecoverable.
-
-## What do I do if I lost my password/keys?
-
-There is no way to recover your account if you lose your password or owner key! Because your account has real value, it is **very important** that you save your master password or keys somewhere safe where you will not lose them.
-
-It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage, such as an external disk or flash drive, as well as printed paper. Use a safe deposit box for best redundancy.
 
 ## How do I report a security vulnerability?
 
@@ -831,23 +837,17 @@ https://steemit.com/steemhelp/@pfunk/a-learner-s-guide-to-using-steem-s-cliwalle
 
 ## What are Steem witnesses?
 
-The community also elected 'witnesses' to act as Steem’s governance body, making decisions on improving the platform and preventing early adopters who may attempt to make unfair financial gain.
+The Steem blockchain requires a set of people to create blocks and uses a consensus mechanism called delegated proof of stake, or DPOS. The community elects 'witnesses' to act as the network's block producers and governance body. 
 
-The Steem blockchain requires a set of people to create blocks and uses a consensus mechanism called Delegated Proof of Stake, or DPOS, in combination with Proof of Work. The people delegated to create these blocks are called witnesses and miners.
-
-Steemit leverages Steem because the founders of Steemit believe Steem’s decentralized governance model makes Steem an excellent platform for supporting long term success of its social network and digital points.
+Steemit leverages Steem because the founders of Steemit believe Steem’s decentralized text content storage and governance model makes Steem an excellent platform for supporting the long term success of its social network and digital currency tokens.
 
 ## How can I vote for witnesses?
 
-https://steemit.com/~witnesses
+Visit https://steemit.com/~witnesses
 
 ## How many witnesses can I vote for?
 
-Each user can vote for up to 30 witnesses.
-
-## Why should I vote for witnesses?
-
-## How do I become a witness?
+Each account can vote for up to 30 witnesses.
 
 # Miscellaneous
 
@@ -865,11 +865,13 @@ https://twitter.com/steemit
 
 ## Steemithelp.net
 
+<<<Insert some text here or delete?>>>
+
 ## What is the Steem Whitepaper and what is its purpose?
 
-The Steem Whitepaper was written to describe the mechanics of the token system that makes decentralized content incentives and distribution possible in a way that can improve web technologies across the board. It is also applicable to Steemit, one of the first websites to plug into the Steem blockchain. Users who have read the Steem Whitepaper will better understand how their interactions with Steemit are interactions with Steem, the decentralized network.
+The Steem Whitepaper was written to describe the mechanics of the token system that makes decentralized content incentives and distribution possible in a way that can improve web technologies across the board. It is also applicable to Steemit, the first website to plug into the Steem blockchain. Users who have read the Steem Whitepaper will better understand how their interactions with Steemit are interactions with Steem, the decentralized network.
 
-It is worth noting that the Whitepaper hasn’t been updated since Steem came into existence. Many changes have been made since that time, so much of the Whitepaper is now incorrect.
+It is worth noting that the Whitepaper hasn’t been updated almost since Steem came into existence. Many changes have been made since then, so much of the Whitepaper is now out of date. It is in the process of being rewritten.
 
 https://steem.io/SteemWhitePaper.pdf
 
@@ -883,8 +885,8 @@ You can also create a post on Steemit.com with the tag #help, and someone in the
 
 ## Third Party References and User Links
 
-PeerHub, BlockTrades, Poloniex, Bittrex, Changelly, Shapeshift.io, Steemit.chat, [Continue list] are third party applications/services, and are not owned or maintained by Steemit, Inc. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
+PeerHub, BlockTrades, Poloniex, Bittrex, Changelly, Shapeshift.io, Steemit.chat, SteemTools, AnonSteem, [[[add more here]]] are third party applications/services, and are not owned or maintained by Steemit, Inc. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
 
-All of the links to user posts were created by our users and do not necessarily represent the views of Steemit, Inc. or its management. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
+All links to user posts were created by our users and do not necessarily represent the views of Steemit, Inc. or its management. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
 
 Please use the third party tools and content at your own risk.
