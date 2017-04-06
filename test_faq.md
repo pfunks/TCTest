@@ -408,7 +408,7 @@ To buy:
 
 STEEM purchases made on Steemit.com are facilitated by <a href="https://blocktrades.us">BlockTrades</a>.
 
-Bitcoin can also be exchanged for STEEM on external markets such as <a href="https://poloniex.com">Poloniex</a>, <a href="https://bittrex.com">Bittrex</a>, <a href="https://shapeshift.io">ShapeShift.io</a>, and href="https://changelly.com">Changelly</a>.
+Bitcoin can also be exchanged for STEEM on external markets such as <a href="https://poloniex.com">Poloniex</a>, <a href="https://bittrex.com">Bittrex</a>, <a href="https://shapeshift.io">ShapeShift.io</a>, and <a href="https://changelly.com">Changelly</a>.
 
 ## What is powering up and down?
 
