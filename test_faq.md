@@ -668,11 +668,7 @@ The "delegated proof of stake" model of using witnesses instead of miners allows
 
 ## How often does the Steem blockchain produce a new block?
 
-The Steem blockchain produces a new block every 3 seconds.
-
-## How can Steem consistently produce blocks every 3 seconds since proof of work takes an unpredictable amount of time?
-
-To have consistent and reliable block production every 3 seconds, Steem separates block output from solving proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included, the miner is added to the queue of miners scheduled to produce blocks. Each round, one miner is popped from the queue and listed in the active set of witnesses.
+The Steem blockchain schedules witnesses to produce a new block every 3 seconds. 21 witness nodes produce 21 blocks in each 63-second round.
 
 ## Is there a way to see the raw data that is stored in the blockchain?
 
@@ -682,6 +678,9 @@ Yes. The blockchain data can be viewed in different ways with third-party tools 
 
 The original launch of Steem was on March 23, 2016, announced on <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. There was a bug found in the original code though, and a majority of the stakeholders agreed that it would be easier to fix via a re-launch than a hardfork. The blockchain was reset and officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
 
+## Can I mine STEEM?
+
+No. Proof of work mining has been removed from Steem.
 
 # Steemit, Inc.
 
@@ -837,7 +836,7 @@ https://steemit.com/steemhelp/@pfunk/a-learner-s-guide-to-using-steem-s-cliwalle
 
 ## What are Steem witnesses?
 
-The Steem blockchain requires a set of people to create blocks and uses a consensus mechanism called delegated proof of stake, or DPOS. The community elects 'witnesses' to act as the network's block producers and governance body. 
+The Steem blockchain requires a set of people to create blocks and uses a consensus mechanism called delegated proof of stake, or DPOS. The community elects 'witnesses' to act as the network's block producers and governance body. There are 20 full-time witnesses, producing a block every 63-second round. A 21st position is shared by backup witnesses, who are scheduled proportionally to the amount of stake-weighted community approval they have. Witnesses are compensated with STEEM Power for each block they create.
 
 Steemit leverages Steem because the founders of Steemit believe Steem’s decentralized text content storage and governance model makes Steem an excellent platform for supporting the long term success of its social network and digital currency tokens.
 
