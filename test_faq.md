@@ -549,7 +549,7 @@ Just because you received a downvote does not mean that you did something wrong.
 
 ## Will a downvote hurt my reputation?
 
-Not neccesarily. See <a href="">What causes my reputation score to go down?</a>.
+Not necessarily. See: <a href="">What causes my reputation score to go down?</a>
 
 ## What is the difference between a downvote and a flag?
 
