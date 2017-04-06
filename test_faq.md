@@ -90,7 +90,7 @@ There are no official rules for participating on Steemit.com, but one of the use
 
 ## Am I required to verify my identity?
 
-Verfication is a process where users give evidence to show that they are the person that they claim to be.  This is to reduce fraud and people impersonating known figures. If you would like to remain anonymous, that is perfectly fine. However if you claim to be someone specific, the community may expect that you verify you are who you say you are.
+Verification is a process where users give evidence to show that they are the person that they claim to be.  This is to reduce fraud and people impersonating known figures. If you would like to remain anonymous, that is perfectly fine. However if you claim to be someone specific, the community may expect that you verify you are who you say you are.
 
 There are a number of ways to do this. The most common way to verify your identity is by posting a link to your Steemit profile on a website or social media account which you are already known for having such as Twitter, Facebook, LinkedIn, a blog, or photography site.
 
@@ -157,7 +157,7 @@ Your wallet shows how many STEEM and Steem Dollar tokens you have in your accoun
 
 ## How do I transfer my STEEM or Steem Dollars into savings?
 
-Your savings balance is STEEM and SBD tokens that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account credentials are compromised. To transfer STEEM or SBD tokens into savings, click on the dropdown arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
+Your savings balance is STEEM and SBD tokens that are subject to 3 day withdraw waiting period. This is an extra security measure in case your account credentials are compromised. To transfer STEEM or SBD tokens into savings, click on the drop-down arrow next to STEEM or STEEM DOLLARS in your wallet, and select "Transfer to Savings".
 
 ## How do I send money to another user?
 
@@ -449,11 +449,11 @@ Other than making a post and making sales manually, there is no interface for se
 
 ## How can I withdraw my STEEM or SBD coins?
 
-STEEM and SBD tokens are readibly tradeable to bitcoin, which is readibly tradeable to the local currency of your choice.
+STEEM and SBD tokens are readily tradable to bitcoin, which is readily tradable to the local currency of your choice.
 
 There are several guides that have been posted by users in the community for using various exchanges to withdraw STEEM and SBD tokens. Please read the <a href="">disclaimer</a> before using any of these guides to withdraw your coins. The users, guides, and exchanges listed in the guides are not endorsed by Steemit, Inc. Use the guides below at your own risk. 
 
-It is recomended that you withdraw a small amount first, to verify it works before withdrawing a larger amount.
+It is recommended that you withdraw a small amount first, to verify it works before withdrawing a larger amount.
 
 #### Sell Steem Dollars via Poloniex
 https://steemit.com/steemit/@ash/steemit-how-to-sell-steem-dollars-via-poloniex-newbie-friendly
@@ -624,7 +624,7 @@ A reputation score is one way Steemit measures the amount of value you have brou
 
 Many Steemians glance at users’ reputation scores when deciding which articles to read because they know higher reputation scores means it is much more likely quality content. Furthermore, the higher your rep, the more effect your vote will have on the reputation of others.
 
-It is worth noting that if your reputation score goes below 0, Steemit will hide your posts and comments making it very difficult to gain monetary rewards and followers. This incentivises online etiquette and respect for your fellow Steemians.
+It is worth noting that if your reputation score goes below 0, Steemit will hide your posts and comments making it very difficult to gain monetary rewards and followers. This incentivizes online etiquette and respect for your fellow Steemians.
 
 # Followers, Feeds, and Resteem
 
@@ -634,7 +634,7 @@ This is like reblogging or sharing posts on other platforms.  Once you resteem a
 
 ## Can I share on other social media?
 
-Yes you can use the share button to share on Facebook, Twitter or Linkedin. You are welcome to post your Steemit links on other websites and social media sites.
+Yes you can use the share button to share on Facebook, Twitter or LinkedIn. You are welcome to post your Steemit links on other websites and social media sites.
 
 # Blockchain
 
@@ -678,7 +678,7 @@ To have consistent and reliable block production every 3 seconds, Steem separate
 
 Yes. The blockchain data can be viewed in different ways with third-party tools such as <a href="https://steemd.com">steemd.com</a> and <a href="https://steemdb.com">steemdb.com</a>.
 
-## Where can I find the informaton for the official launch of the blockchain?
+## Where can I find the information for the official launch of the blockchain?
 
 The original launch of Steem was on March 23, 2016, announced on <a href="https://bitcointalk.org/index.php?topic=1408726.0">bitcointalk.org</a>. There was a bug found in the original code though, and a majority of the stakeholders agreed that it would be easier to fix via a re-launch than a hardfork. The blockchain was reset and officially re-launched on March 24, 2016, via <a href="https://bitcointalk.org/index.php?topic=1410943.0">bitcointalk.org</a>.
 
@@ -719,7 +719,7 @@ There is no official merchandise yet, but it is easy to make Steemit gear on zaz
 Here is a post with instructions from @artist1989:
 https://steemit.com/art/@artist1989/custom-steem-and-steemit-art-and-instructions-on-how-to-create-your-very-own-steem-steemit-gear-t-shirts-coffee-mugs-etc
 
-## Did Steemit "pre-mine" coins? Is what they did unfair?
+## Did Steemit "pre-mine" tokens?
 
 The challenge for a blockchain startup company is that they need tokens to sell to get funding for the development. If the blockchain is launched so that anybody can mine as much as they want, founders will get very little and may not be able to fund the development.
 
@@ -753,7 +753,7 @@ Only log into your account using the key with the appropriate permissions for wh
 - Active Key (All permissions of posting key + Ability to transfer funds)
 - Master password/Owner Key (Change the keys for your account)
 
-It is not recomended to share your password or keys with any third party site.
+It is not recommended to share your password or keys with any third party site.
 
 ## Master password stuff
 
@@ -771,7 +771,7 @@ It is not recomended to share your password or keys with any third party site.
 
 ## Are my STEEM and Steem Dollar tokens insured in the event of a hack or if someone takes over my account?
 
-No. If your tokens are in STEEM Power, it is impossible for a hacker to take out more than 1/13 per week. If your tokens are in savings, there is a three-day wait period for them to become transferrable.
+No. If your tokens are in STEEM Power, it is impossible for a hacker to take out more than 1/13 per week. If your tokens are in savings, there is a three-day wait period for them to become transferable.
 
 ## What should I do if I discover that someone hacked my account?
 
@@ -807,11 +807,11 @@ If you find a security issue please report the details to security@steemit.com.
 
 Yes, although please review the license terms pertaining to creating forks of the Steem blockchain.
 
-## Is there a github page for Steemit.com?
+## Is there a Github page for Steemit.com?
 
 https://github.com/steemit/condenser
 
-## Is there a github page for the Steem blockchain?
+## Is there a Github page for the Steem blockchain?
 
 https://github.com/steemit/steem
 
@@ -849,7 +849,7 @@ Each user can vote for up to 30 witnesses.
 
 ## How do I become a witness?
 
-# Miscelanious
+# Miscellaneous
 
 ## What third-party tools are there for Steemit?
 
@@ -883,7 +883,7 @@ You can also create a post on Steemit.com with the tag #help, and someone in the
 
 ## Third Party References and User Links
 
-Peerhub, BlockTrades, Poloniex, Bittrex, Steemit Chat, [Continue list] are third party applications/services, and are not owned or maintained by Steemit, Inc. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
+PeerHub, BlockTrades, Poloniex, Bittrex, Changelly, Shapeshift.io, Steemit.chat, [Continue list] are third party applications/services, and are not owned or maintained by Steemit, Inc. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
 
 All of the links to user posts were created by our users and do not necessarily represent the views of Steemit, Inc. or its management. Their listing here does not constitute and endorsement or recommendation on behalf of Steemit, Inc.
 
